@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using System.Linq;
+using UnityEngine.SceneManagement;
 
 public class QuizManager : MonoBehaviour
 {
@@ -10,6 +12,21 @@ public class QuizManager : MonoBehaviour
 
     private Question currentQuestion;
 
+    [SerializeField]
+    private Text factText;
+
+    [SerializeField]
+    private Text trueAnswerText;
+
+    [SerializeField]
+    private Text falseAnswerText;
+
+    [SerializeField]
+    private Animator animator;
+
+    [SerializeField]
+    private float timeBetweenQuestions = 1f;
+
     void Start()
     {
         if (unansweredQuestions == null || unansweredQuestions.Count == 0)
@@ -17,15 +34,67 @@ public class QuizManager : MonoBehaviour
             unansweredQuestions = questions.ToList<Question>();
         }
 
-        GetRandomQuestion();
-        Debug.Log(currentQuestion.fact + " is " + currentQuestion.isTrue);
+        SetCurrentQuestion();
+        //Debug.Log(currentQuestion.fact + " is " + currentQuestion.isTrue);
     }
 
-    void GetRandomQuestion()
+    void SetCurrentQuestion()
     {
         int randomQuestionIndex = Random.Range(0, unansweredQuestions.Count);
         currentQuestion = unansweredQuestions[randomQuestionIndex];
 
-        unansweredQuestions.RemoveAt(randomQuestionIndex);
+        factText.text = currentQuestion.fact;
+
+        if (currentQuestion.isTrue)
+        {
+            trueAnswerText.text = "CORRECT";
+            falseAnswerText.text = "WRONG";
+        }
+        else
+        {
+            trueAnswerText.text = "WRONG";
+            falseAnswerText.text = "CORRECT";
+        }
     }
+
+    IEnumerator TransitionToNextQuestion()
+    {
+        unansweredQuestions.Remove(currentQuestion);
+
+        yield return new WaitForSeconds(timeBetweenQuestions);
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void UserSelectTrue()
+    {
+        animator.SetTrigger("True");
+        
+        //if (currentQuestion.isTrue)
+        //{
+        //    Debug.Log("CORRECT!");
+        //} else
+        //{
+        //    Debug.Log("WRONG!");
+        //}
+
+        StartCoroutine(TransitionToNextQuestion());
+    }
+
+    public void UserSelectFalse()
+    {
+        animator.SetTrigger("False");
+
+        //if (!currentQuestion.isTrue)
+        //{
+        //    Debug.Log("CORRECT!");
+        //}
+        //else
+        //{
+        //    Debug.Log("WRONG!");
+        //}
+
+        StartCoroutine(TransitionToNextQuestion());
+    }
+
 }
