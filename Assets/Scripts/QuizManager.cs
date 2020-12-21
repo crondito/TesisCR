@@ -47,13 +47,13 @@ public class QuizManager : MonoBehaviour
 
         if (currentQuestion.isTrue)
         {
-            trueAnswerText.text = "CORRECT";
-            falseAnswerText.text = "WRONG";
+            trueAnswerText.text = "CORRECTO";
+            falseAnswerText.text = "EQUIVOCADO";
         }
         else
         {
-            trueAnswerText.text = "WRONG";
-            falseAnswerText.text = "CORRECT";
+            trueAnswerText.text = "EQUIVOCADO";
+            falseAnswerText.text = "CORRECTO";
         }
     }
 
@@ -72,10 +72,10 @@ public class QuizManager : MonoBehaviour
         
         //if (currentQuestion.isTrue)
         //{
-        //    Debug.Log("CORRECT!");
+        //    Debug.Log("CORRECTO!");
         //} else
         //{
-        //    Debug.Log("WRONG!");
+        //    Debug.Log("EQUIVOCADO!");
         //}
 
         StartCoroutine(TransitionToNextQuestion());
@@ -87,11 +87,11 @@ public class QuizManager : MonoBehaviour
 
         //if (!currentQuestion.isTrue)
         //{
-        //    Debug.Log("CORRECT!");
+        //    Debug.Log("EQUIVOCADO!");
         //}
         //else
         //{
-        //    Debug.Log("WRONG!");
+        //    Debug.Log("CORRECTO!");
         //}
 
         StartCoroutine(TransitionToNextQuestion());
