@@ -62,12 +62,12 @@ namespace MaterialUI
 			{
 				foreach (ShadowAnim shadow in shadows)
 				{
-					shadow.SetShadow(false);
+					//shadow.SetShadow(false);
 				}
 				
 				if (shadowOn - 1 >= 0)
 				{
-					shadows [shadowOn - 1].SetShadow (true);
+					//shadows [shadowOn - 1].SetShadow (true);
 				}
 			}
 		}
