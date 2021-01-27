@@ -1279,7 +1279,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 383898382}
         m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
-        m_MethodName: NoTransitionSceneChange
+        m_MethodName: ChangeToSelectedScene
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2142,11 +2142,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1985591731}
   m_CullTransparentMesh: 0
---- !u!95 &1996338969 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 2128729079987463105, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
-  m_PrefabInstance: {fileID: 2128729079105179233}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2128729079105179233
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2209,10 +2204,15 @@ PrefabInstance:
     - target: {fileID: 2128729079287520623, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
       propertyPath: transition
       value: 
-      objectReference: {fileID: 1996338969}
+      objectReference: {fileID: 2128729079105179234}
     - target: {fileID: 2128729079287520623, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
       propertyPath: transitionTime
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
+--- !u!95 &2128729079105179234 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 8489807673313303767, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
+  m_PrefabInstance: {fileID: 2128729079105179233}
+  m_PrefabAsset: {fileID: 0}

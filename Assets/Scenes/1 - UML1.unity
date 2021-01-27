@@ -123,6 +123,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!95 &127091223 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 8489807673313303767, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
+  m_PrefabInstance: {fileID: 738582375}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &213427744
 GameObject:
   m_ObjectHideFlags: 0
@@ -733,11 +738,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 718058575}
   m_CullTransparentMesh: 0
---- !u!95 &737733705 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 2128729079987463105, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
-  m_PrefabInstance: {fileID: 738582375}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &738582375
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -808,7 +808,7 @@ PrefabInstance:
     - target: {fileID: 2128729079287520623, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
       propertyPath: transition
       value: 
-      objectReference: {fileID: 737733705}
+      objectReference: {fileID: 127091223}
     - target: {fileID: 2128729079287520623, guid: f82eb4d7866c88e4d88aad8e6b87704c, type: 3}
       propertyPath: transitionTime
       value: 1
