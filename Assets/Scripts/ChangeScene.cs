@@ -36,4 +36,9 @@ public class ChangeScene : MonoBehaviour
         // Load Scene
         SceneManager.LoadScene(levelIndex);
     }
+
+    public void NoTransitionSceneChange(int scene)
+    {
+        SceneManager.LoadScene(scene);
+    }
 }
