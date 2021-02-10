@@ -9,15 +9,16 @@ public class SBBox : MonoBehaviour
         if (BoxBlocked(transform.position, direction))
         {
             return false;
-        } else
+        }
+        else
         {
             transform.Translate(direction);
-            // TestForOnCross();
+            // TransformForCrox();
             return true;
         }
     }
 
-    bool BoxBlocked(Vector3 position, Vector2 direction)
+    private bool BoxBlocked(Vector3 position, Vector2 direction)
     {
         Vector2 newPos = new Vector2(position.x, position.y) + direction;
         GameObject[] walls = GameObject.FindGameObjectsWithTag("Wall");
@@ -33,7 +34,15 @@ public class SBBox : MonoBehaviour
         {
             if (box.transform.position.x == newPos.x && box.transform.position.y == newPos.y)
             {
-                return true;
+                SBBox bx = box.GetComponent<SBBox>();
+                if (bx && bx.Move(direction))
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
             }
         }
         return false;
