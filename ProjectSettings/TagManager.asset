@@ -7,6 +7,8 @@ TagManager:
   - MaterialButtonLayer
   - Wall
   - Box
+  - MaterialText
+  - Cross
   layers:
   - Default
   - TransparentFX
