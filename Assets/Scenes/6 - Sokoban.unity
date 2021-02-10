@@ -695,7 +695,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1448842008}
         m_TargetAssemblyTypeName: SBGameManager, Assembly-CSharp
-        m_MethodName: NextLevel
+        m_MethodName: ResetScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

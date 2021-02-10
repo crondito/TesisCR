@@ -11,8 +11,7 @@ public class SBGameManager : MonoBehaviour
 
     private void Start()
     {
-        m_LevelBuilder.Build();
-        m_Player = FindObjectOfType<SBPlayer>();
+        ResetScene();
     }
 
     private void Update()
@@ -25,7 +24,7 @@ public class SBGameManager : MonoBehaviour
             {
                 m_ReadyForInput = false;
                 m_Player.Move(moveInput);
-                //m_NextButton.SetActive(IsLevelComplete());
+                m_NextButton.SetActive(IsLevelComplete());
             }
         } else
         {
@@ -35,14 +34,53 @@ public class SBGameManager : MonoBehaviour
 
     public void NextLevel()
     {
-        // m_NextButton.SetActive(false);
+        DeleteOldObjects();
+        m_NextButton.SetActive(false);
         m_LevelBuilder.NextLevel();
         m_LevelBuilder.Build();
-        // StartCoroutine(ResetSceneAsync());
+        m_Player = FindObjectOfType<SBPlayer>();
     }
 
     public void ResetScene()
     {
-        // StartCoroutine(ResetSceneAsync());
+        DeleteOldObjects();
+        m_NextButton.SetActive(false);
+        m_LevelBuilder.Build();
+        m_Player = FindObjectOfType<SBPlayer>();
+    }
+
+    public void DeleteOldObjects()
+    {
+        GameObject[] boxes = GameObject.FindGameObjectsWithTag("Box");
+        GameObject[] walls = GameObject.FindGameObjectsWithTag("Wall");
+        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
+        GameObject[] crosses = GameObject.FindGameObjectsWithTag("Cross");
+        foreach (var wall in walls)
+        {
+            Destroy(wall);
+        }
+        foreach (var box in boxes)
+        {
+            Destroy(box);
+        }
+        foreach (var player in players)
+        {
+            Destroy(player);
+        }
+        foreach (var cross in crosses)
+        {
+            Destroy(cross);
+        }
+        
+    }
+
+    bool IsLevelComplete()
+    {
+        SBBox[] boxes = FindObjectsOfType<SBBox>();
+        foreach(var box in boxes)
+        {
+            if (!box.m_OnCross) return false;
+        }
+        return true;
     }
 }
