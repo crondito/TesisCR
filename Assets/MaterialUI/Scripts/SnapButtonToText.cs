@@ -37,11 +37,11 @@ namespace MaterialUI
 		{
 			if (!snapEveryFrame) return;
 
-			if (thisRectTransform.sizeDelta != textSize)
-			{
-				textSize = thisRectTransform.sizeDelta;
-				Snap();
-			}
+			//if (thisRectTransform.sizeDelta != textSize)
+			//{
+			//	textSize = thisRectTransform.sizeDelta;
+			//	Snap();
+			//}
 		}
 
 		public void Snap()
