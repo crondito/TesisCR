@@ -32,10 +32,10 @@ public class SBLevels : MonoBehaviour
         TextAsset textAsset = (TextAsset)Resources.Load(filename);
         if (!textAsset)
         {
-            Debug.Log("Levels: " + filename + ".txt does not exist!");
+            //Debug.Log("Levels: " + filename + ".txt does not exist!");
         } else
         {
-            Debug.Log("Leves imported");
+            //Debug.Log("Levels imported");
         }
         string completeText = textAsset.text;
         string[] lines;
@@ -46,7 +46,7 @@ public class SBLevels : MonoBehaviour
             string line = lines[i];
             if (line.StartsWith(";"))
             {
-                Debug.Log("New Level added");
+                //Debug.Log("New Level added");
                 m_Levels.Add(new Level());
                 continue;
             }
