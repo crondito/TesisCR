@@ -14,4 +14,14 @@ public class PanelManager : MonoBehaviour
 
         panelToActivate.gameObject.SetActive(true);
     }
+
+    public void ShowGameObject(GameObject gameObjectToShow)
+    {
+        gameObjectToShow.gameObject.SetActive(true);
+    }
+
+    public void HideGameObject(GameObject gameObjectToHide)
+    {
+        gameObjectToHide.gameObject.SetActive(false);
+    }
 }
