@@ -5,6 +5,7 @@ using UnityEngine.EventSystems;
 
 public class PanelManager : MonoBehaviour
 {
+
     public void PanelChanger(GameObject panelToActivate)
     {
         GameObject[] panels = GameObject.FindGameObjectsWithTag("Panel");
@@ -25,4 +26,5 @@ public class PanelManager : MonoBehaviour
     {
         gameObjectToHide.gameObject.SetActive(false);
     }
+
 }
