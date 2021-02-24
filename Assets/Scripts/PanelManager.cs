@@ -1,9 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class PanelManager : MonoBehaviour
 {
+
     public void PanelChanger(GameObject panelToActivate)
     {
         GameObject[] panels = GameObject.FindGameObjectsWithTag("Panel");
@@ -14,4 +16,15 @@ public class PanelManager : MonoBehaviour
 
         panelToActivate.gameObject.SetActive(true);
     }
+
+    public void ShowGameObject(GameObject gameObjectToShow)
+    {
+        gameObjectToShow.gameObject.SetActive(true);
+    }
+
+    public void HideGameObject(GameObject gameObjectToHide)
+    {
+        gameObjectToHide.gameObject.SetActive(false);
+    }
+
 }
