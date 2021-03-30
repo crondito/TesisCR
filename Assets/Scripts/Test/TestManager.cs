@@ -29,7 +29,7 @@ public class TestManager : MonoBehaviour
             options[i].GetComponent<AnswerScript>().isCorrect = false;
             options[i].transform.GetChild(0).GetComponent<Text>().text = QnA[currentQuestion].Answers[i];
 
-            if(QnA[currentQuestion].CorrectAnswer == i + 1)
+            if (QnA[currentQuestion].CorrectAnswer == i)
             {
                 options[i].GetComponent<AnswerScript>().isCorrect = true;
             }
