@@ -11,13 +11,13 @@ public class AnswerScript : MonoBehaviour
     {
         if (isCorrect)
         {
-            Debug.Log("Correct Answer");
+            //Debug.Log("Correct Answer");
             testManager.Correct();
         }
         else
         {
-            Debug.Log("Wrong Answer");
-            testManager.Correct();
+            //Debug.Log("Wrong Answer");
+            testManager.Wrong();
         }
     }
 }
