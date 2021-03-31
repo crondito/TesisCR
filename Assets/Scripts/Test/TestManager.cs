@@ -16,6 +16,7 @@ public class TestManager : MonoBehaviour
 
     public Text QuestionTxt;
     public Text ScoreTxt;
+    public Text WrongAnswerTxt;
 
     private int totalQuestions = 0;
     private int score;
@@ -50,6 +51,13 @@ public class TestManager : MonoBehaviour
 
     public void Wrong()
     {
+        WrongAnswerTxt.text = QnA[currentQuestion].Correction;
+        WrongAnswerPanel.SetActive(true);
+    }
+
+    public void WrongCheck()
+    {
+        WrongAnswerPanel.SetActive(false);
         QnA.RemoveAt(currentQuestion);
         GenerateQuestion();
     }

@@ -2440,30 +2440,56 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QnA:
-  - Question: 1
+  - Question: "\xBFPor d\xF3nde inicia el ciclo de vida del desarrollo de software?"
     Answers:
-    - 1
-    - 2
-    - 3
-    - 4
-    Correction: La respuesta es 1
+    - Requerimientos
+    - Desarrollo
+    - "Dise\xF1o"
+    - "An\xE1lisis"
+    Correction: El ciclo de vida del desarrollo de software empieza por adquirir
+      los requerimientos que tiene el sistema que va a ser desarrollado.
     CorrectAnswer: 0
-  - Question: dos
+  - Question: "\xBFQu\xE9 se debe obtener durante el an\xE1lisis de los requerimientos?"
     Answers:
-    - uno
-    - dos
-    - tres
-    - cuatro
-    Correction: La respuesta es dos
+    - "El dise\xF1o del software"
+    - El costo, los recursos necesarios y la viabilidad del proyecto
+    - Los requerimientos de la alta gerencia
+    - Las pruebas necesarias para detectar defectos
+    Correction: "Durante el an\xE1lisis de requerimientos determinamos, costos, recursos
+      necesarios, viabilidad del proyecto, riesgos y como implementar el proyecto."
     CorrectAnswer: 1
-  - Question: '@'
+  - Question: "\xBFPor qu\xE9 es importante el dise\xF1o de software?"
     Answers:
-    - '@'
-    - 7
-    - '#'
-    - 9
-    Correction: La respuesta es @
-    CorrectAnswer: 0
+    - Para desarrollar actualizaciones en el futuro
+    - Por las pruebas unitarias
+    - "Por la documentaci\xF3n"
+    - Para reducir costos y aumentar calidad
+    Correction: "Al dise\xF1ar bien el software desde sus fases iniciales su calidad
+      aumenta y se reducen costos al tener que hacer menos correcciones al final
+      del proceso de desarrollo."
+    CorrectAnswer: 3
+  - Question: "\xBFPor qu\xE9 necesitamos darle mantenimiento al software?"
+    Answers:
+    - Por errores durante el despliegue
+    - Los requerimientos cambian con el tiempo y el software debe mejorar
+    - "Por un mal dise\xF1o"
+    - Por bugs encontrados en la fase de pruebas que no se corrigieron
+    Correction: "El mantenimiento es necesario porque un sistema nunca puede ser
+      perfecto, mientras siga en uso el sofware siempre habr\xE1n nuevos requerimientos
+      o mejoras necesarias para su buen funcionamiento."
+    CorrectAnswer: 1
+  - Question: "\xBFPor qu\xE9 es bueno tener un entorno de prueba antes de implementarlo
+      en producci\xF3n?"
+    Answers:
+    - Para poder empezar con el mantenimiento del software
+    - "Para verificar que se hizo buen an\xE1lisis"
+    - Para usar el software de manera segura antes de lanzarlo al mercado
+    - "Para comprobar la documentaci\xF3n"
+    Correction: "A pesar de que se hagan pruebas regurosas durante el desarrollo
+      de software siempre existen problemas cuando se usa el software en producci\xF3n,
+      por eso es m\xE1s seguro usar un entorno de ensayo que sea lo m\xE1s parecido
+      a la realidad para detectar fallos."
+    CorrectAnswer: 2
   options:
   - {fileID: 2118118829}
   - {fileID: 13352419}
@@ -2475,6 +2501,7 @@ MonoBehaviour:
   WrongAnswerPanel: {fileID: 559845064}
   QuestionTxt: {fileID: 632298169}
   ScoreTxt: {fileID: 978977477}
+  WrongAnswerTxt: {fileID: 1898140435}
 --- !u!1 &1885716766
 GameObject:
   m_ObjectHideFlags: 0
@@ -2849,7 +2876,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1923918850}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1821589808}
+        m_TargetAssemblyTypeName: TestManager, Assembly-CSharp
+        m_MethodName: WrongCheck
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1923918850
 MonoBehaviour:
   m_ObjectHideFlags: 0
