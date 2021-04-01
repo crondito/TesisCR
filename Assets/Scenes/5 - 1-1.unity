@@ -665,7 +665,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 3
+  m_text: "ADOPCI\xD3N\n\nUML se ha comercializado para muchos contextos.\r\n\r\nEn
+    ocasiones, se ha tratado como una soluci\xF3n milagrosa en el dise\xF1o, lo que
+    genera problemas. El mal uso de UML incluye el uso excesivo (dise\xF1ar cada
+    parte del sistema con \xE9l, lo cual es innecesario) y asumir que los principiantes
+    pueden dise\xF1ar con \xE9l.\r\n\r\nSe considera un lenguaje extenso, con muchas
+    construcciones. Algunas personas sienten que el tama\xF1o de UML dificulta su
+    aprendizaje (y por lo tanto, su uso)."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1505,7 +1511,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "BREVE HISTORIA DE UML:\n\nLa creaci\xF3n de UML fue motivada originalmente
+  m_text: "BREVE HISTORIA DE UML\n\nLa creaci\xF3n de UML fue motivada originalmente
     por el deseo de estandarizar los distintos sistemas de notaci\xF3n y enfoques
     para el dise\xF1o de software. Fue desarrollado originalmente por \"Rational
     Software\" en 1994\u20131996.\r\n\r\nEn 1997, UML fue adoptado como est\xE1ndar
@@ -6642,8 +6648,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DEFINICI\xD3N DE UML:\n\n\"El lenguaje de modelado unificado (UML) es
-    un lenguaje gr\xE1fico para visualizar, especificar, construir y documentar los
+  m_text: "DEFINICI\xD3N DE UML\n\n\"El lenguaje de modelado unificado (UML) es un
+    lenguaje gr\xE1fico para visualizar, especificar, construir y documentar los
     artefactos de un sistema de software\" [2]\n\nSus siglas vienen de \"Unified
     Modeling Language\"\n\nEs el lenguaje de modelado de sistemas de software m\xE1s
     conocido y utilizado en la actualidad."
