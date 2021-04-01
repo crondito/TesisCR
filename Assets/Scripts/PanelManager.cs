@@ -19,6 +19,16 @@ public class PanelManager : MonoBehaviour
 
     public void ShowGameObject(GameObject gameObjectToShow)
     {
+        GameObject[] panels = GameObject.FindGameObjectsWithTag("Panel2");
+        foreach (var panel in panels)
+        {
+            panel.gameObject.SetActive(false);
+        }
+        gameObjectToShow.gameObject.SetActive(true);
+    }
+
+    public void SimpleShowGameObject(GameObject gameObjectToShow)
+    {
         gameObjectToShow.gameObject.SetActive(true);
     }
 
