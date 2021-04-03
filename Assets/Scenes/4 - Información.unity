@@ -634,14 +634,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '[1] R. S. Pressman, Software engineering: a practitioner''s approach.
-    Palgrave macmillan, 2005.
-
-    [2] G. Booch, J. Rumbaugh, and I. Jacobson, "Unified
-    Modeling Language User Guide,(The 2nd Edition)," ed: Addison-Wesley Professional,
-    2005.
-
-    [3]'
+  m_text: "[1] R. S. Pressman, Software engineering: a practitioner's approach. Palgrave
+    macmillan, 2005.\n[2] G. Booch, J. Rumbaugh, and I. Jacobson, \"Unified Modeling
+    Language User Guide,(The 2nd Edition),\" ed: Addison-Wesley Professional, 2005.\n[3]
+    UML Class Diagram Tutorial, 2020. [Online]. Disponible: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/.
+    [Accessed: 03-Apr-2021]. \n[4] "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
