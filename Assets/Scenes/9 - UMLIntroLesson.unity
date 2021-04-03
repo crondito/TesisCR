@@ -2165,37 +2165,42 @@ MonoBehaviour:
     CorrectAnswer: 3
   - Question: "\xBFCu\xE1l fue la motivaci\xF3n original para el desarrollo de UML?"
     Answers:
-    - 
-    - 
+    - "Por la falta de software privativo para el dise\xF1o de software"
+    - "Por la necesidad de evitar c\xF3digo espagueti"
     - "Por el deseo de estandarizar los distintos sistemas de notaci\xF3n y enfoques
       para el dise\xF1o de software"
-    - 
+    - "Por la necesidad de dise\xF1ar software orientado a eventos"
     Correction: "La creaci\xF3n de UML fue motivada originalmente por el deseo de
       estandarizar los distintos sistemas de notaci\xF3n y enfoques para el dise\xF1o
       de software."
     CorrectAnswer: 2
-  - Question: 
+  - Question: "\xBFEn qu\xE9 a\xF1o UML fue aprovado como un est\xE1ndar ISO?"
     Answers:
-    - 
-    - 
-    - 
-    - 
-    Correction: 
-    CorrectAnswer: 0
-  - Question: 
+    - 1995
+    - 1999
+    - 2005
+    - 2003
+    Correction: "UML fue aprovado como un est\xE1ndar ISO en el 2005"
+    CorrectAnswer: 2
+  - Question: "\xBFCu\xE1l es el diagrama UML m\xE1s importante para el desarrollo
+      orientado a objetos?"
     Answers:
-    - 
-    - 
-    - 
-    - 
-    Correction: 
-    CorrectAnswer: 0
-  - Question: 
+    - Diagrama de componentes
+    - Diagrama de clases
+    - Diagrama de casos de uso
+    - Diagrama de secuencias
+    Correction: "Los diagramas de clases son el componente principal del modelado
+      orientado a objetos. Se utilizan para el modelado conceptual general de la
+      estructura de la aplicaci\xF3n y para el modelado detallado que traducen los
+      modelos en c\xF3digo de programaci\xF3n. Los diagramas de clases tambi\xE9n
+      se pueden utilizar para modelar datos."
+    CorrectAnswer: 1
+  - Question: "\xBFEn qu\xE9 categor\xEDa est\xE1n los diagramas de clases?"
     Answers:
-    - 
-    - 
-    - 
-    - 
+    - Diagramas de estructura
+    - Diagramas de comportamiento
+    - "Diagramas de interacci\xF3n"
+    - "Diagramas de integraci\xF3n"
     Correction: 
     CorrectAnswer: 0
   options:
