@@ -1963,8 +1963,8 @@ RectTransform:
   m_Father: {fileID: 622757370}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.2, y: 0.85}
-  m_AnchorMax: {x: 0.8, y: 1}
+  m_AnchorMin: {x: 0.15, y: 0.85}
+  m_AnchorMax: {x: 0.85, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -30, y: -30}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1988,7 +1988,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Lecci\xF3n - Intro UML"
+  m_text: "Lecci\xF3n - Diagrama de Clases"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2015,7 +2015,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
+  m_fontSize: 83
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2152,28 +2152,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QnA:
-  - Question: "\xBFPor qu\xE9 es importante UML para el dise\xF1o de software?"
-    Answers:
-    - No se puede programar sin usarlo
-    - Para usar inteligencia artificial
-    - "Para realizar los planos arquitect\xF3nicos de una casa"
-    - Permite especificar la estructura o comportamiento de un sistema antes de empezar
-      a programarlo
-    Correction: "UML permite:  Especificar la estructura o comportamiento de un sistema,
-      la visualizaci\xF3n de un sistema, ayuda a comprender el sistema complejo parte
-      por parte."
-    CorrectAnswer: 3
-  - Question: "\xBFCu\xE1l fue la motivaci\xF3n original para el desarrollo de UML?"
+  - Question: 
     Answers:
     - 
     - 
-    - "Por el deseo de estandarizar los distintos sistemas de notaci\xF3n y enfoques
-      para el dise\xF1o de software"
     - 
-    Correction: "La creaci\xF3n de UML fue motivada originalmente por el deseo de
-      estandarizar los distintos sistemas de notaci\xF3n y enfoques para el dise\xF1o
-      de software."
-    CorrectAnswer: 2
+    - 
+    Correction: 
+    CorrectAnswer: 0
+  - Question: 
+    Answers:
+    - 
+    - 
+    - 
+    - 
+    Correction: 
+    CorrectAnswer: 0
   - Question: 
     Answers:
     - 
@@ -2367,7 +2361,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 5
+          m_IntArgument: 7
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -3153,7 +3147,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 5
+          m_IntArgument: 7
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
