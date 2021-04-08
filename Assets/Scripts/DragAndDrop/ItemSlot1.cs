@@ -18,10 +18,12 @@ public class ItemSlot1 : MonoBehaviour, IDropHandler
         if(eventData.pointerDrag != null)
         {
             eventData.pointerDrag.GetComponent<RectTransform>().anchoredPosition = GetComponent<RectTransform>().anchoredPosition;
-            
+
+            button.SetActive(true);
+
             if (eventData.pointerDrag.gameObject.tag == "square")
             {
-                button.SetActive(true);
+                
                 desaparece1.SetActive(false);
                 aparece1.SetActive(true);
             }
