@@ -23,7 +23,6 @@ public class ItemSlot1 : MonoBehaviour, IDropHandler
 
             if (eventData.pointerDrag.gameObject.tag == "square")
             {
-                
                 desaparece1.SetActive(false);
                 aparece1.SetActive(true);
             }
