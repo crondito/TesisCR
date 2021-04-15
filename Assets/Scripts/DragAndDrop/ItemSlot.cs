@@ -6,9 +6,9 @@ using UnityEngine.EventSystems;
 
 public class ItemSlot : MonoBehaviour, IDropHandler
 {
-    [SerializeField] GameObject button;
-    [SerializeField] GameObject cir1;
-    [SerializeField] GameObject cir2;
+    [SerializeField] GameObject deactive;
+    [SerializeField] GameObject activate;
+    [SerializeField] GameObject activate2;
 
     public void OnDrop(PointerEventData eventData)
     {
@@ -16,9 +16,9 @@ public class ItemSlot : MonoBehaviour, IDropHandler
         if(eventData.pointerDrag != null)
         {
             eventData.pointerDrag.GetComponent<RectTransform>().anchoredPosition = GetComponent<RectTransform>().anchoredPosition;
-            button.SetActive(true);
-            cir1.SetActive(false);
-            cir2.SetActive(true);
+            deactive.SetActive(false);
+            activate.SetActive(true);
+            activate2.SetActive(true);
         }
         
     }
