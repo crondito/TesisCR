@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class AInputManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public static float Vertical
     {
-        
+        get { return Input.GetAxis("Vertical"); }
     }
-
-    // Update is called once per frame
-    void Update()
+    public static float Horizontal
     {
-        
+        get { return Input.GetAxis("Horizontal"); }
+    }
+    public static bool Fire
+    {
+        get { return Input.GetKey(KeyCode.Space); }
     }
 }
