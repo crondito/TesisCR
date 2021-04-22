@@ -8,6 +8,10 @@ public class APlayer : MonoBehaviour
     public float maxSpeed;
     public float drag;
     public float angularSpeed;
+    public float offsetBullet;
+    public GameObject bulletPrefab;
+    public bool canShoot = true;
+    public float shootRate = 0.5f;
 
     private Rigidbody2D rb;
     private float vertical;
@@ -27,6 +31,7 @@ public class APlayer : MonoBehaviour
         shooting = AInputManager.Fire;
 
         Rotate();
+        Shoot();
     }
 
     private void FixedUpdate()
@@ -46,5 +51,31 @@ public class APlayer : MonoBehaviour
             return;
         }
         transform.Rotate(0, 0, -angularSpeed * horizontal * Time.deltaTime);
+    }
+
+    private void Shoot()
+    {
+        if (shooting && canShoot)
+        {
+            StartCoroutine(FireRate());
+
+            
+        }
+    }
+
+    public void Lose()
+    {
+        rb.velocity = Vector3.zero;
+        transform.position = Vector3.zero;
+    }
+
+    private IEnumerator FireRate()
+    {
+        canShoot = false;
+        var pos = transform.up * offsetBullet + transform.position;
+        var bullet = Instantiate(bulletPrefab, pos, transform.rotation);
+        Destroy(bullet, 2);
+        yield return new WaitForSeconds(shootRate);
+        canShoot = true;
     }
 }
