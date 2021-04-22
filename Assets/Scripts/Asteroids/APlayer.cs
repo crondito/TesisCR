@@ -1,9 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class APlayer : MonoBehaviour
 {
+    [SerializeField]
+    int scene;
+
     public float acceleration;
     public float maxSpeed;
     public float drag;
@@ -58,15 +62,14 @@ public class APlayer : MonoBehaviour
         if (shooting && canShoot)
         {
             StartCoroutine(FireRate());
-
-            
         }
     }
 
     public void Lose()
     {
-        rb.velocity = Vector3.zero;
-        transform.position = Vector3.zero;
+        // rb.velocity = Vector3.zero;
+        // transform.position = Vector3.zero;
+        SceneManager.LoadScene(scene);
     }
 
     private IEnumerator FireRate()
