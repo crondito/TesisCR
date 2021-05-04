@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [System.Serializable]
 public class LevelElement
@@ -30,6 +31,7 @@ public class SBLevelBuilder : MonoBehaviour
         if(m_CurrentLevel >= GetComponent<SBLevels>().m_Levels.Count)
         {
             m_CurrentLevel = 0;
+            SceneManager.LoadScene(15);
         }
     }
 
