@@ -45,7 +45,7 @@ public class SBPlayer2 : MonoBehaviour
             if (box.transform.position.x >= (newPos.x) - 0.1 && box.transform.position.x <= (newPos.x) + 0.1 &&
                 box.transform.position.y >= (newPos.y) - 0.1 && box.transform.position.y <= (newPos.y) + 0.1)
             {
-                SBBox bx = box.GetComponent<SBBox>();
+                SBBox2 bx = box.GetComponent<SBBox2>();
                 if (bx && bx.Move(direction))
                 {
                     return false;
