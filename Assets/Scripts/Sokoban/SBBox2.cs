@@ -6,6 +6,12 @@ using UnityEngine.UI;
 public class SBBox2 : MonoBehaviour
 {
     public bool m_OnCross;
+
+    public void Update()
+    {
+        TestForOnCross();
+    }
+
     public bool Move(Vector2 direction)
     {
         if (BoxBlocked(transform.position, direction))
