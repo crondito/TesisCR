@@ -66,7 +66,7 @@ public class SBBox2 : MonoBehaviour
             if (transform.position.x >= cross.transform.position.x - 0.1 && transform.position.x <= cross.transform.position.x + 0.1 &&
                 transform.position.y >= cross.transform.position.y - 0.1 && transform.position.y <= cross.transform.position.x + 0.1)
             {
-                GetComponent<Image>().color = Color.red;
+                GetComponent<Image>().color = Color.grey;
                 m_OnCross = true;
                 return;
             }

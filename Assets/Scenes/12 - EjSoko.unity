@@ -1419,8 +1419,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -432.48032, y: 213.99}
-  m_SizeDelta: {x: 804.84, y: 186.99}
+  m_AnchoredPosition: {x: -432.58, y: 213.99}
+  m_SizeDelta: {x: 805.03, y: 186.99}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &134790007
 MonoBehaviour:
@@ -1442,9 +1442,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ahora cuando Caja est\xE1 sobre el Punto de entrega cambia su color para
-    indicarnos que se est\xE1 cumpliendo con el objetivo del juego.\nPuedes probarlo
-    moviendo al jugar con tu teclado."
+  m_text: "Ahora cuando \"Caja\" est\xE1 sobre el \"Punto\" de entrega cambia su
+    color para indicarnos que se est\xE1 cumpliendo con el objetivo del juego.\n\nPuedes
+    probarlo moviendo al jugador con tu teclado."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11531,7 +11531,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -121, y: -247}
+  m_AnchoredPosition: {x: -136, y: -246.96}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &822918739
@@ -12337,7 +12337,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 67, y: -247}
+  m_AnchoredPosition: {x: 78, y: -247}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &871658997
@@ -14759,7 +14759,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 400, y: -319.04}
+  m_AnchoredPosition: {x: 428, y: -324}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1019387871
@@ -15710,7 +15710,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -199, y: -324}
+  m_AnchoredPosition: {x: -230, y: -324}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1122731288
@@ -16820,8 +16820,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -543, y: 81.306}
-  m_SizeDelta: {x: 508.69, y: 488.06}
+  m_AnchoredPosition: {x: -532.88043, y: -4.76}
+  m_SizeDelta: {x: 528.93, y: 660.16}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1175737549
 MonoBehaviour:
@@ -16843,11 +16843,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "En Celda agregamos atributos y m\xE9todos que sabemos que utilizar\xE1n
-    las otras clases.\n- \"posici\xF3n\" nos sirve para saber donde est\xE1 cada
-    celda.\n- \"dibujar()\" nos sirve para crear la celda en el mapa.\n- \"mover()\"
-    nos sirve para mover a Persona y a Caja.\n- \"getPosici\xF3n\" nos servir\xE1
-    para obtener la posici\xF3n de las otras celdas durante el juego.\n"
+  m_text: "En Celda agregamos atributos y m\xE9todos que sabemos todas las \"celdas\"
+    del juego deber\xEDan tener como son:\n\n- \"posici\xF3n\" nos sirve para saber
+    donde est\xE1 cada celda.\n- \"dibujar()\" nos sirve para crear la celda en el
+    mapa.\n- \"mover()\" nos sirve para mover a Persona y a Caja.\n- \"getPosici\xF3n\"
+    nos servir\xE1 para obtener la posici\xF3n de las otras celdas durante el juego.\n\nTen
+    en cuenta que \"posici\xF3n()\" y  \"mover()\" son m\xE9todos abstractos (est\xE1n
+    en cursiva) porque cuando se heredan sus implementaciones cambian dependiendo
+    de quien las herede.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -16910,7 +16913,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 1
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -16.035244, w: 0}
+  m_margin: {x: 0, y: 0, z: -1.3159332, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -17673,7 +17676,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 263, y: -247}
+  m_AnchoredPosition: {x: 283.86, y: -247}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1222201161
@@ -17748,7 +17751,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -401, y: -324}
+  m_AnchoredPosition: {x: -462, y: -324}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1222443291
@@ -22719,8 +22722,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 24.52, y: 0.0000019073}
-  m_SizeDelta: {x: 1041.72, y: 488.08}
+  m_AnchoredPosition: {x: -0.0000019073, y: -0.0000013109}
+  m_SizeDelta: {x: 1150.29, y: 488.08}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1491085725
 MonoBehaviour:
@@ -24852,7 +24855,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 653, y: -247}
+  m_AnchoredPosition: {x: 671, y: -247}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1636736290
@@ -26344,7 +26347,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 459, y: -247}
+  m_AnchoredPosition: {x: 477, y: -247}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1735151089
@@ -26714,9 +26717,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Utilizamos agregaci\xF3n entre Mapa y Celda porque Mapa tendr\xE1 una
-    lista de todas las otras celdas.\nLa clase Celda es abstracta (su nombre est\xE1
-    en cursivas) ya que no podr\xE1 ser instanciada por su cuenta."
+  m_text: "La clase \"Celda\" es abstracta (su nombre est\xE1 en cursivas) ya que
+    no podr\xE1 ser instanciada por su cuenta.\nUtilizamos agregaci\xF3n entre \"Mapa\"
+    y \"Celda\" porque \"Mapa\" tendr\xE1 una lista de todas las otras celdas,\npor
+    lo mismo que necesitar\xE1 los m\xE9todos \"agregarCelda()\" y \"quitarCelda()\"."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -27991,8 +27995,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000019073, y: 282.96}
-  m_SizeDelta: {x: 1437.42, y: 264.19}
+  m_AnchoredPosition: {x: -0.0000038146973, y: 294}
+  m_SizeDelta: {x: 1512.86, y: 242.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1822123399
 MonoBehaviour:
@@ -28014,14 +28018,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Crearemos Colisi\xF3n para verificar cuando una celda se mueve si va a
-    chocar con algo.\nPor ejemplo, cuando Persona se quiere mover pero tiene una
-    pared al frente no deber\xEDa poder avanzar.\nEn cambio, si Persona se mueve
-    y tiene una caja al frente deber\xEDa moverse tanto Caja como Persona.\nPero
-    si la caja tiene una pared al frente ninguna de las tres celdas deber\xEDan poder
-    moverse.\nTanto Persona como Caja pueden moverse, as\xED que ambas necesitan
-    conexi\xF3n con Colisi\xF3n.\nColisi\xF3n necesita conectarse con Mapa pues ah\xED
-    se guardan las posiciones de todas las celdas existentes."
+  m_text: "Crearemos \"Colisi\xF3n\" para verificar cuando una celda se mueva si
+    se choca con otras celdas.\nPor ejemplo, cuando \"Persona\" se intenta mover
+    pero tiene una \"Pared\" al frente no deber\xEDa poder avanzar.\nEn cambio, si
+    \"Persona\" se mueve y tiene una \"Caja\" al frente deber\xEDa moverse tanto
+    \"Caja\" como \"Persona\".\nPero si \"Caja\" tiene una \"Pared\" al frente ninguna
+    de las celdas deber\xEDa  moverse.\nTanto \"Persona\" como \"Caja\" pueden moverse,
+    as\xED que ambas necesitan conexi\xF3n con Colisi\xF3n.\n\"Colisi\xF3n\" necesita
+    conectarse con Mapa pues ah\xED se guardan las posiciones de todas las celdas
+    existentes."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32042,8 +32047,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000019073, y: -135.45}
-  m_SizeDelta: {x: 1041.72, y: 572.63}
+  m_AnchoredPosition: {x: -0.0000019073, y: -124.41}
+  m_SizeDelta: {x: 1041.72, y: 594.71}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2085656018
 MonoBehaviour:
@@ -32344,7 +32349,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 198, y: -324}
+  m_AnchoredPosition: {x: 215, y: -324}
   m_SizeDelta: {x: 150, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2120351864
