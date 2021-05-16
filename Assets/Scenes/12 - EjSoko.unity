@@ -322,7 +322,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 348, y: 11}
+  m_AnchoredPosition: {x: 346.00003, y: 11}
   m_SizeDelta: {x: 108, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &34839792
@@ -624,9 +624,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Puedes probarlo moviendo al jugar con tu teclado.\nAhora existe un bot\xF3n
-    para reiniciar el juego.\nEl bot\xF3n para avanzar aparecer\xE1 una vez la Caja
-    est\xE9 en su Punto de entrega."
+  m_text: Para avanzar empuja a la "Caja" a su "Punto" de entrega.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -737,8 +735,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000019073, y: -116.73}
-  m_SizeDelta: {x: 1041.72, y: 610.05}
+  m_AnchoredPosition: {x: 0.0000038147, y: -101.86}
+  m_SizeDelta: {x: 1131.81, y: 639.79}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &73122461
 MonoBehaviour:
@@ -1280,7 +1278,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 562, y: -96.99999}
+  m_AnchoredPosition: {x: 562, y: 11}
   m_SizeDelta: {x: 108, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &133939163
@@ -1956,7 +1954,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 348, y: 11}
+  m_AnchoredPosition: {x: 348, y: -97}
   m_SizeDelta: {x: 108, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &173895227
@@ -2117,6 +2115,7 @@ RectTransform:
   - {fileID: 312897614}
   - {fileID: 173895225}
   - {fileID: 133939162}
+  - {fileID: 776598309}
   m_Father: {fileID: 841512462}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2139,6 +2138,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Player: {fileID: 312897615}
   m_NextButton: {fileID: 253728763}
+  posPlayer: {x: 238, y: 119, z: 0}
+  posBox1: {x: 348, y: -97, z: 0}
+  posBox2: {x: 562, y: 11, z: 0}
 --- !u!1 &192549452
 GameObject:
   m_ObjectHideFlags: 0
@@ -3331,7 +3333,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 4, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &254538868
@@ -4697,7 +4699,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 240.00002, y: 11.000001}
+  m_AnchoredPosition: {x: 238, y: 119.000015}
   m_SizeDelta: {x: 108, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &312897615
@@ -5147,7 +5149,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -270}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.997, y: -313}
+  m_AnchoredPosition: {x: 24, y: -313}
   m_SizeDelta: {x: 108, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &328878187
@@ -7551,10 +7553,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Reset y Ganar el juego
-
-    (Puedes mover al jugador con WASD o las flechas
-    del teclado)'
+  m_text: "Ganar el juego\n(Puedes mover al jugador con WASD o las flechas del teclado)\n(Usa
+    el bot\xF3n de reinicio para regresar al jugador y a la caja a sus posiciones
+    originales)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7854,6 +7855,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Player: {fileID: 863758145}
   m_NextButton: {fileID: 1253251656}
+  posPlayer: {x: 670, y: 11, z: 0}
+  posBox1: {x: 348, y: -97, z: 0}
+  posBox2: {x: 562, y: 11, z: 0}
 --- !u!1 &543758175
 GameObject:
   m_ObjectHideFlags: 0
@@ -10687,6 +10691,162 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 771565488}
   m_CullTransparentMesh: 1
+--- !u!1 &776598308
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 776598309}
+  - component: {fileID: 776598312}
+  - component: {fileID: 776598311}
+  - component: {fileID: 776598310}
+  m_Layer: 5
+  m_Name: ResetButton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &776598309
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 776598308}
+  m_LocalRotation: {x: -0, y: 0, z: -0.7071068, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 175805054}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -270}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 24, y: -313}
+  m_SizeDelta: {x: 108, y: 108}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &776598310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 776598308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 776598311}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 175805055}
+        m_TargetAssemblyTypeName: SBSimpleGameManager, Assembly-CSharp
+        m_MethodName: ResetPlayer
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 312897613}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 175805055}
+        m_TargetAssemblyTypeName: SBSimpleGameManager, Assembly-CSharp
+        m_MethodName: ResetBox
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 173895224}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 175805055}
+        m_TargetAssemblyTypeName: SBSimpleGameManager, Assembly-CSharp
+        m_MethodName: ResetBox2
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 133939161}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &776598311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 776598308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.12156863, g: 0.10980392, b: 0.09019608, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 0fa10466b80a1854781b0dcef582e2c2, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &776598312
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 776598308}
+  m_CullTransparentMesh: 1
 --- !u!1 &777278013
 GameObject:
   m_ObjectHideFlags: 0
@@ -11420,7 +11580,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Interacci\xF3n con cajas\n(Puedes mover al jugador con WASD o las flechas
-    del teclado)"
+    del teclado)\n(Usa el bot\xF3n de reinicio para regresar al jugador y a las cajas
+    a sus posiciones originales)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13269,8 +13430,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 298.99}
-  m_SizeDelta: {x: 1515.82, y: 221.39}
+  m_AnchoredPosition: {x: 0, y: 314}
+  m_SizeDelta: {x: 1515.82, y: 191.94}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &953249805
 MonoBehaviour:
@@ -14233,9 +14394,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ahora Persona puede \"chocar\" con Pared as\xED que ya no puede moverse
-    encima de estas.\nPuedes comprobarlo moviendo a persona con tu teclado.\nTodas
-    las celdas existen dentro del Mapa."
+  m_text: "Ahora \"Persona\" puede chocar con \"Pared\" as\xED que ya no puede moverse
+    encima de estas.\nPuedes comprobarlo moviendo a \"Persona\" con tu teclado.\nTodas
+    las celdas existen dentro del \"Mapa\"."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15227,8 +15388,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000019073, y: -92.11}
-  m_SizeDelta: {x: 1041.72, y: 614.25}
+  m_AnchoredPosition: {x: -0.0000019073, y: -74.288}
+  m_SizeDelta: {x: 1041.72, y: 649.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1096462301
 MonoBehaviour:
@@ -18282,8 +18443,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000019073, y: 301.67014}
-  m_SizeDelta: {x: 1437.42, y: 226.77}
+  m_AnchoredPosition: {x: -0.0000019073, y: 332.86}
+  m_SizeDelta: {x: 1437.42, y: 164.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1248190973
 MonoBehaviour:
@@ -18305,10 +18466,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "El objetivo del juego es llevar a todas las Cajas a sus Puntos para ganar.\nQueremos
-    mostrar de manera visual cuando una caja est\xE1 sobre un punto, as\xED que le
-    daremos el m\xE9todo \"cambiarColor()\" a Caja para que lo haga cuando est\xE1
-    encima de un Punto de entrega.\n"
+  m_text: "El objetivo del juego es llevar a todas las \"Cajas\" a sus \"Puntos\"
+    de entrega para ganar.\nQueremos mostrar de manera visual cuando una \"Caja\"
+    est\xE1 sobre un \"Punto\", as\xED que le daremos el m\xE9todo \"cambiarColor()\"
+    a \"Caja\" para que cambie de color cuando est\xE9 encima de un \"Punto\" de
+    entrega.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -18841,6 +19003,7 @@ RectTransform:
   - {fileID: 792590856}
   - {fileID: 1774135590}
   - {fileID: 34839791}
+  - {fileID: 1344696907}
   m_Father: {fileID: 1130825290}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -18863,6 +19026,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Player: {fileID: 1774135591}
   m_NextButton: {fileID: 1556704180}
+  posPlayer: {x: 132, y: 11, z: 0}
+  posBox1: {x: 346, y: 11, z: 0}
+  posBox2: {x: 562, y: 11, z: 0}
 --- !u!1 &1256528307
 GameObject:
   m_ObjectHideFlags: 0
@@ -19941,6 +20107,150 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1343069502}
+  m_CullTransparentMesh: 1
+--- !u!1 &1344696906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1344696907}
+  - component: {fileID: 1344696910}
+  - component: {fileID: 1344696909}
+  - component: {fileID: 1344696908}
+  m_Layer: 5
+  m_Name: ResetButton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1344696907
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1344696906}
+  m_LocalRotation: {x: -0, y: 0, z: -0.7071068, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1253834362}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -270}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 24, y: -313}
+  m_SizeDelta: {x: 108, y: 108}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1344696908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1344696906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1344696909}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1253834363}
+        m_TargetAssemblyTypeName: SBSimpleGameManager, Assembly-CSharp
+        m_MethodName: ResetPlayer
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 1774135589}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1253834363}
+        m_TargetAssemblyTypeName: SBSimpleGameManager, Assembly-CSharp
+        m_MethodName: ResetBox
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 34839790}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1344696909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1344696906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.12156863, g: 0.10980392, b: 0.09019608, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 0fa10466b80a1854781b0dcef582e2c2, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1344696910
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1344696906}
   m_CullTransparentMesh: 1
 --- !u!1 &1344917941
 GameObject:
@@ -22600,6 +22910,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Player: {fileID: 234400995}
   m_NextButton: {fileID: 391768407}
+  posPlayer: {x: 670, y: 11, z: 0}
+  posBox1: {x: 348, y: -97, z: 0}
+  posBox2: {x: 562, y: 11, z: 0}
 --- !u!1 &1489470998
 GameObject:
   m_ObjectHideFlags: 0
@@ -23496,6 +23809,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Player: {fileID: 724939309}
   m_NextButton: {fileID: 1385496809}
+  posPlayer: {x: 670, y: 11, z: 0}
+  posBox1: {x: 348, y: -97, z: 0}
+  posBox2: {x: 562, y: 11, z: 0}
 --- !u!1 &1552756235
 GameObject:
   m_ObjectHideFlags: 0
@@ -25996,7 +26312,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.997, y: -205}
+  m_AnchoredPosition: {x: 24, y: -205}
   m_SizeDelta: {x: 108, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1699553996
@@ -26470,13 +26786,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1999243865}
-        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
-        m_MethodName: 
-        m_Mode: 3
+      - m_Target: {fileID: 1784829579}
+        m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
+        m_MethodName: PanelChanger
+        m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgument: {fileID: 1999243865}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 12
           m_FloatArgument: 0
           m_StringArgument: 
@@ -27141,7 +27457,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 240.00002, y: 11.000001}
+  m_AnchoredPosition: {x: 132, y: 11}
   m_SizeDelta: {x: 108, y: 108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1774135591
@@ -30830,7 +31146,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Interacci\xF3n con Punto de entrega\n(Puedes mover al jugador con WASD
-    o las flechas del teclado)"
+    o las flechas del teclado)\n(Usa el bot\xF3n de reinicio para regresar al jugador
+    y a la caja a sus posiciones originales)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32146,11 +32463,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Por \xFAltimo necesitamos una clase que guarde la l\xF3gica del juego.
-    La llamaremos \"GameManager\".\nEsta clase tiene \"check()\" que revisa cada
-    vez que se mueven los elementos del Mapa para ver si todas las cajas est\xE1n
-    en sus Puntos de entrega y una vez se cumpla esta condici\xF3n te permite avanzar
-    al siguiente nivel.\nTambi\xE9n tiene \"reset()\" que te permite reiniciar el
-    nivel si pusiste las cajas en lugares donde no se pueden mover."
+    La llamaremos \"GameManager\".\nAgregamos el m\xE9todo \"verificarPosiciones()\"
+    en \"Mapa\" para que revise cada vez que existan cambios de posiciones en las
+    celdas y se lo avise al \"GameManager\".\nUna vez se cumpla la condici\xF3n de
+    que todas \"Cajas\" est\xE1n en sus \"Puntos\" de entrega el \"GameManager\"
+    con su m\xE9todo \"verificarEntrega()\" permite avanzar al siguiente nivel del
+    juego."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
