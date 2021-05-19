@@ -3301,10 +3301,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DESPLIEGUE\n\"Empecemos a usar lo que tenemos\".\r\nEn esta etapa, el
-    objetivo es implementar el software en el entorno de producci\xF3n para que los
-    usuarios puedan comenzar a utilizar el producto. Sin embargo, muchas organizaciones
-    optan por mover el producto a trav\xE9s de diferentes entornos de implementaci\xF3n,
+  m_text: "DESPLIEGUE\n\"Empecemos a usar lo que tenemos\"\nEn esta etapa, el objetivo
+    es implementar el software en el entorno de producci\xF3n para que los usuarios
+    puedan comenzar a utilizar el producto. Sin embargo, muchas organizaciones optan
+    por mover el producto a trav\xE9s de diferentes entornos de implementaci\xF3n,
     como un entorno de prueba o de ensayo.\r\nEsto permite a las partes interesadas
     jugar de forma segura con el producto antes de lanzarlo al mercado. Adem\xE1s,
     esto permite detectar cualquier error final antes de lanzar el producto."
@@ -6198,9 +6198,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DESARROLLO\n\"Podemos empezar a escribir c\xF3digo\".\r\nEn esta etapa
-    comienza el desarrollo real. Es importante que todos los desarrolladores se adhieran
-    al dise\xF1o acordado anteriormente para cumplir con los requerimientos analizados."
+  m_text: "DESARROLLO\n\"Podemos empezar a escribir c\xF3digo\"\nEn esta etapa comienza
+    el desarrollo real. Es importante que todos los desarrolladores se adhieran al
+    dise\xF1o acordado anteriormente para cumplir con los requerimientos analizados."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
