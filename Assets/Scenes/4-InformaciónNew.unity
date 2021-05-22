@@ -189,8 +189,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4293584616
-  m_fontColor: {r: 0.9098039, g: 0.9019608, b: 0.91764706, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -634,10 +634,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "[1] R. S. Pressman, Software engineering: a practitioner's approach. Palgrave
-    macmillan, 2005.\n[2] G. Booch, J. Rumbaugh, and I. Jacobson, \"Unified Modeling
-    Language User Guide,(The 2nd Edition),\" ed: Addison-Wesley Professional, 2005.\n[3]
-    UML Class Diagram Tutorial, 2020. [Online]. Disponible: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/.
+  m_text: "REFERENCIAS BIBLIOGR\xC1FICAS:\n\n[1] R. S. Pressman, Software engineering:
+    a practitioner's approach. Palgrave macmillan, 2005.\n[2] G. Booch, J. Rumbaugh,
+    and I. Jacobson, \"Unified Modeling Language User Guide,(The 2nd Edition),\"
+    ed: Addison-Wesley Professional, 2005.\n[3] UML Class Diagram Tutorial, 2020.
+    [Online]. Disponible: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/.
     [Accessed: 03-Apr-2021]. \n[4] \u201CUML Tutorial - Javatpoint,\u201D www.javatpoint.com,
     2018. [Online]. Disponible: https://www.javatpoint.com/uml. [Accessed: 05-Apr-2021].
     \n[5] J. Kramer, \"Is abstraction the key to computing?\" Communications of the
@@ -1095,7 +1096,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.33333334, g: 0.44705883, b: 0.3647059, a: 1}
+  m_Color: {r: 0.78039217, g: 0.9098039, b: 0.6745098, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1265,7 +1266,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 475, y: 75}
+  m_AnchoredPosition: {x: 471, y: 881}
   m_SizeDelta: {x: 920, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1123484132
@@ -1305,7 +1306,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 24.29}
+  m_AnchoredPosition: {x: 0, y: -114.99999}
   m_SizeDelta: {x: 1870, y: 803.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1123484134
@@ -1334,7 +1335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9098039, g: 0.9019608, b: 0.91764706, a: 1}
+  m_Color: {r: 0.75686276, g: 0.89411765, b: 0.96862745, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1618,7 +1619,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.33333334, g: 0.44705883, b: 0.3647059, a: 1}
+  m_Color: {r: 0.75686276, g: 0.89411765, b: 0.96862745, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1760,8 +1761,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4293584616
-  m_fontColor: {r: 0.9098039, g: 0.9019608, b: 0.91764706, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1865,7 +1866,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 24.29}
+  m_AnchoredPosition: {x: 0, y: -115}
   m_SizeDelta: {x: 1870, y: 803.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1647519255
@@ -1881,7 +1882,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9098039, g: 0.9019608, b: 0.91764706, a: 1}
+  m_Color: {r: 0.78039217, g: 0.9098039, b: 0.6745098, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2144,7 +2145,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -475, y: 75}
+  m_AnchoredPosition: {x: -471, y: 881}
   m_SizeDelta: {x: 920, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1972056085
