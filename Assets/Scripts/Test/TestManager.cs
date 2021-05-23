@@ -39,7 +39,16 @@ public class TestManager : MonoBehaviour
     {
         MainPanel.SetActive(false);
         GameOverPanel.SetActive(true);
-        ScoreTxt.text = score + " / " + totalQuestions;
+        //ScoreTxt.text = score + " / " + totalQuestions;
+        float puntuacionFinal = ((float)score / (float)totalQuestions) * 100;
+        if (puntuacionFinal >= 70)
+        {
+            ScoreTxt.text = puntuacionFinal.ToString() + " %\n\n" + "Pasaste!";
+        } else
+        {
+            ScoreTxt.text = puntuacionFinal.ToString() + " %\n\n" + "No Pasaste :C";
+        }
+        
     }
 
     public void Correct()
