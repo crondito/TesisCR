@@ -5300,7 +5300,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.37, y: 0.16100001}
   m_AnchorMax: {x: 0.5, y: 0.29367042}
-  m_AnchoredPosition: {x: -90, y: -217.40857}
+  m_AnchoredPosition: {x: -90, y: -217.40855}
   m_SizeDelta: {x: 191.97339, y: 104.27104}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1016209430
@@ -6368,7 +6368,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Prueba UML
+  m_text: Prueba Diagrama de Clases
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
