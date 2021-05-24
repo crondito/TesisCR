@@ -2133,7 +2133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.33333334, g: 0.44705883, b: 0.3647059, a: 1}
+  m_Color: {r: 0.4784314, g: 0.7137255, b: 0.28235295, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2552,14 +2552,43 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QnA:
-  - Question: Responde 1
+  - Question: "\xBFQu\xE9 es la abstracci\xF3n?"
     Answers:
-    - 1
-    - 2
-    - 3
-    - 4
-    Correction: La repuesta es 1
+    - Retirar lo no indispensable y quedarnos con lo esencial
+    - Agregar o aumentar para mejorar algo
+    - Retirar todos los detalles de algo
+    - Plasmar sentimientos en algo
+    Correction: "La abstracci\xF3n es el acto de retirar las partes exteriores de
+      un objeto complejo para poder ver solamente su esencia."
     CorrectAnswer: 0
+  - Question: "\xBFCu\xE1l mapa es mejor para explicar un sistema de trenes subterr\xE1neos?"
+    Answers:
+    - "Un mapa con todos los detalles geogr\xE1ficos de la zona"
+    - "Un mapa con suficiente abstracci\xF3n para ser entendido r\xE1pidamente"
+    - "Un mapa con tanta abstracci\xF3n que ni tenga los nombres de las estaciones"
+    - "Un mapa art\xEDstico que evoque sentimientos profundos"
+    Correction: "El nivel de abstracci\xF3n tiene que seleccionarse con cuidado,
+      muy abstracto y no hay informaci\xF3n suficiente, demasiado detallado y no
+      se puede comprender r\xE1pidamente."
+    CorrectAnswer: 1
+  - Question: "\xBFEn qu\xE9 parte del Ciclo de vida del desarrollo de software usaremos
+      m\xE1s la abstracci\xF3n?"
+    Answers:
+    - "An\xE1lisis"
+    - Desarrollo
+    - "Dise\xF1o"
+    - Pruebas
+    Correction: "La abstracci\xF3n nos sirve para dise\xF1ar mejor nuestro software."
+    CorrectAnswer: 2
+  - Question: "\xBFQu\xE9 es lo m\xE1s dif\xEDcil de la abstracci\xF3n?"
+    Answers:
+    - Retirar todos los detalles de algo
+    - Hacer que algo simple suene complejo
+    - Agregar complejidad
+    - Hacer que algo complejo suene simple
+    Correction: "\u201CEs f\xE1cil hacer que algo simple suene complejo, pero es
+      dif\xEDcil hacer que algo complejo suene simple\u201D"
+    CorrectAnswer: 3
   options:
   - {fileID: 2118118829}
   - {fileID: 13352419}
