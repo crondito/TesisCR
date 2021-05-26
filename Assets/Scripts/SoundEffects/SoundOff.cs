@@ -7,10 +7,6 @@ public class SoundOff : MonoBehaviour
 
     public GameObject button1;
     public GameObject button2;
-    private void Awake()
-    {
-        //DontDestroyOnLoad(gameObject);
-    }
 
     public void PauseMusic()
     {

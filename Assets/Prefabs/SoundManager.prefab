@@ -52,7 +52,7 @@ MonoBehaviour:
   sounds:
   - name: Step
     clip: {fileID: 8300000, guid: ee366781086152047914aa0fc4b3c8b0, type: 3}
-    volume: 0.3
+    volume: 0.5
     pitch: 1
     loop: 0
     source: {fileID: 0}
@@ -63,13 +63,19 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Theme
-    clip: {fileID: 8300000, guid: 58199ae83b31d854dab19abe4c1ffaa5, type: 3}
+    clip: {fileID: 8300000, guid: b4eb53d94c8b745409d270c264942bb1, type: 3}
     volume: 0.1
     pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: Laser
     clip: {fileID: 8300000, guid: 261d6a87442a2f2498f9b0158efc4700, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Explotion
+    clip: {fileID: 8300000, guid: 0794b9c66eea6c54281919a63b697fea, type: 3}
     volume: 0.75
     pitch: 1
     loop: 0
