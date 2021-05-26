@@ -23,6 +23,7 @@ public class SBPlayer : MonoBehaviour
         else
         {
             transform.Translate(direction);
+
             return true;
         }
     }
