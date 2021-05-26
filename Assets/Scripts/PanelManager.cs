@@ -14,7 +14,7 @@ public class PanelManager : MonoBehaviour
         {
             panel.gameObject.SetActive(false);
         }
-
+        FindObjectOfType<SoundManagerScript>().Play("Step");
         panelToActivate.gameObject.SetActive(true);
     }
 
@@ -25,12 +25,14 @@ public class PanelManager : MonoBehaviour
         {
             panel.gameObject.SetActive(false);
         }
+        FindObjectOfType<SoundManagerScript>().Play("Step");
         gameObjectToShow.gameObject.SetActive(true);
     }
 
     public void SimpleShowGameObject(GameObject gameObjectToShow)
     {
         gameObjectToShow.gameObject.SetActive(true);
+        FindObjectOfType<SoundManagerScript>().Play("Step");
     }
 
     public void HideGameObject(GameObject gameObjectToHide)
