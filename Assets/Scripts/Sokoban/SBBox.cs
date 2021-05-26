@@ -56,7 +56,7 @@ public class SBBox : MonoBehaviour
         {
             if (transform.position.x == cross.transform.position.x && transform.position.y == cross.transform.position.y)
             {
-                GetComponent<SpriteRenderer>().color = Color.red;
+                GetComponent<SpriteRenderer>().color = Color.gray;
                 m_OnCross = true;
                 return;
             }

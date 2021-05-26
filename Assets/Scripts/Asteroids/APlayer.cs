@@ -61,6 +61,7 @@ public class APlayer : MonoBehaviour
     {
         if (shooting && canShoot)
         {
+            FindObjectOfType<SoundManagerScript>().Play("Laser");
             StartCoroutine(FireRate());
         }
     }

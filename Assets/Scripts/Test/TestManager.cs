@@ -39,7 +39,18 @@ public class TestManager : MonoBehaviour
     {
         MainPanel.SetActive(false);
         GameOverPanel.SetActive(true);
-        ScoreTxt.text = score + " / " + totalQuestions;
+        //ScoreTxt.text = score + " / " + totalQuestions;
+        float puntuacionFinal = ((float)score / (float)totalQuestions) * 100;
+        if (puntuacionFinal >= 70)
+        {
+            ScoreTxt.text = puntuacionFinal.ToString() + " %\n\n" + "Pasaste!";
+            FindObjectOfType<SoundManagerScript>().Play("Success2");
+        } else
+        {
+            ScoreTxt.text = puntuacionFinal.ToString() + " %\n\n" + "No Pasaste :C";
+            FindObjectOfType<SoundManagerScript>().Play("Failure2");
+        }
+        
     }
 
     public void Correct()
@@ -47,12 +58,14 @@ public class TestManager : MonoBehaviour
         score += 1;
         QnA.RemoveAt(currentQuestion);
         GenerateQuestion();
+        FindObjectOfType<SoundManagerScript>().Play("Success");
     }
 
     public void Wrong()
     {
         WrongAnswerTxt.text = QnA[currentQuestion].Correction;
         WrongAnswerPanel.SetActive(true);
+        FindObjectOfType<SoundManagerScript>().Play("Failure");
     }
 
     public void WrongCheck()
@@ -60,6 +73,7 @@ public class TestManager : MonoBehaviour
         WrongAnswerPanel.SetActive(false);
         QnA.RemoveAt(currentQuestion);
         GenerateQuestion();
+        FindObjectOfType<SoundManagerScript>().Play("Step");
     }
 
     void SetAnswers()
