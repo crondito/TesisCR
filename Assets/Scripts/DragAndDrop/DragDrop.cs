@@ -34,6 +34,7 @@ public class DragDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, I
         //Debug.Log("On End Drag");
         canvasGroup.alpha = 1.0f;
         canvasGroup.blocksRaycasts = true;
+        FindObjectOfType<SoundManagerScript>().Play("Step");
     }
 
     public void OnPointerDown(PointerEventData eventData)

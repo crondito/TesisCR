@@ -55,11 +55,6 @@ public class AAsteroid : MonoBehaviour
             }
             col.GetComponent<APlayer>().Lose();
         }
-
-        if (col.CompareTag("Asteroid"))
-        {
-            FindObjectOfType<SoundManagerScript>().Play("Step");
-        }
     }
 
 }

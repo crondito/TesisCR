@@ -19,9 +19,11 @@ public class ItemSlot2 : MonoBehaviour, IDropHandler
             if (eventData.pointerDrag.gameObject.tag == self.tag)
             {
                 self.GetComponent<Image>().color = Color.green;
+                FindObjectOfType<SoundManagerScript>().Play("Success");
             } else
             {
                 self.GetComponent<Image>().color = Color.red;
+                FindObjectOfType<SoundManagerScript>().Play("Failure");
             }
         }
     }

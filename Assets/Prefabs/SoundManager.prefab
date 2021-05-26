@@ -80,6 +80,30 @@ MonoBehaviour:
     pitch: 1
     loop: 0
     source: {fileID: 0}
+  - name: Success
+    clip: {fileID: 8300000, guid: e9339d31da2a1194fad3be2dfeb7608b, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Success2
+    clip: {fileID: 8300000, guid: 5bba3df0ee3e7f94aafa404595157e10, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Failure
+    clip: {fileID: 8300000, guid: f2218d00bc0374b4aa4d30d7d0e10e6d, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Failure2
+    clip: {fileID: 8300000, guid: edca0bc1e93310e4694bf3ea0686fb52, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
 --- !u!222 &3096995215605839353
 CanvasRenderer:
   m_ObjectHideFlags: 0
