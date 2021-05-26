@@ -36,7 +36,7 @@ namespace MaterialUI
 
 		    if (!scaler)
 		    {
-			    scaler = gameObject.GetComponentInParent<Canvas>().GetComponent<MaterialUIScaler>();
+			    //scaler = gameObject.GetComponentInParent<Canvas>().GetComponent<MaterialUIScaler>();
 		    }
 		    else
 		    {
