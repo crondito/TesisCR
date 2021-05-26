@@ -68,6 +68,12 @@ MonoBehaviour:
     pitch: 1
     loop: 1
     source: {fileID: 0}
+  - name: Laser
+    clip: {fileID: 8300000, guid: 261d6a87442a2f2498f9b0158efc4700, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
 --- !u!222 &3096995215605839353
 CanvasRenderer:
   m_ObjectHideFlags: 0

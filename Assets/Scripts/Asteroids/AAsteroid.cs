@@ -33,6 +33,7 @@ public class AAsteroid : MonoBehaviour
         if (col.CompareTag("Bullet"))
         {
             isDestroying = true;
+            FindObjectOfType<SoundManagerScript>().Play("Explotion");
             Destroy(gameObject);
             Destroy(col.gameObject);
             for (var i = 0; i < numberOfAsteroids; i++)
@@ -53,6 +54,11 @@ public class AAsteroid : MonoBehaviour
                 Destroy(asts[i].gameObject);
             }
             col.GetComponent<APlayer>().Lose();
+        }
+
+        if (col.CompareTag("Asteroid"))
+        {
+            FindObjectOfType<SoundManagerScript>().Play("Step");
         }
     }
 
