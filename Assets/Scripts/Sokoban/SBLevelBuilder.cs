@@ -31,7 +31,7 @@ public class SBLevelBuilder : MonoBehaviour
         if(m_CurrentLevel >= GetComponent<SBLevels>().m_Levels.Count)
         {
             m_CurrentLevel = 0;
-            SceneManager.LoadScene(15);
+            SceneManager.LoadScene(13);
         }
     }
 
