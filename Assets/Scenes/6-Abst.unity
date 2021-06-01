@@ -268,6 +268,7 @@ GameObject:
   - component: {fileID: 131488138}
   - component: {fileID: 131488140}
   - component: {fileID: 131488139}
+  - component: {fileID: 131488141}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -332,6 +333,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 131488137}
   m_CullTransparentMesh: 1
+--- !u!114 &131488141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 131488137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: 'Henri Matisse, "Nu Bleu IV", 1952;
+
+    Recortes de papel.'
+  infoRight: 
 --- !u!1 &146881569
 GameObject:
   m_ObjectHideFlags: 0
@@ -801,7 +819,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &270767299
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1991,7 +2009,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 68.05
+  m_fontSize: 68
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2643,7 +2661,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.8, y: 0.72}
   m_AnchorMax: {x: 0.85, y: 0.77000004}
-  m_AnchoredPosition: {x: 270.02997, y: 119.31}
+  m_AnchoredPosition: {x: 270.02997, y: 119.31001}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &876469375
@@ -2693,7 +2711,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 47.45
+  m_fontSize: 47.4
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3939,7 +3957,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1344103566
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3980,8 +3998,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Katsushika Hokusai, \u201CViento del sur, cielo despejado (Gaifu kaisei)\u201D
-    o \u201CFuji rojo\u201D, un grabado en madera en color, Jap\xF3n, 1830\u201333
-    d. C."
+    o \u201CFuji rojo\u201D;\nGrabado en madera en color, Jap\xF3n, 1830\u201333
+    d.C."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4069,6 +4087,7 @@ GameObject:
   - component: {fileID: 1361453012}
   - component: {fileID: 1361453014}
   - component: {fileID: 1361453013}
+  - component: {fileID: 1361453015}
   m_Layer: 5
   m_Name: ImageCVS
   m_TagString: Untagged
@@ -4133,6 +4152,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1361453011}
   m_CullTransparentMesh: 1
+--- !u!114 &1361453015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1361453011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Diagrama del Ciclo de vida del desarrollo de software
+  infoRight: 
 --- !u!1 &1385885398
 GameObject:
   m_ObjectHideFlags: 0
@@ -4592,6 +4626,7 @@ GameObject:
   - component: {fileID: 1459057486}
   - component: {fileID: 1459057488}
   - component: {fileID: 1459057487}
+  - component: {fileID: 1459057489}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -4656,6 +4691,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1459057485}
   m_CullTransparentMesh: 1
+--- !u!114 &1459057489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1459057485}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: "Katsushika Hokusai, \u201CViento del sur, cielo despejado (Gaifu kaisei)\u201D
+    o \u201CFuji rojo\u201D;\nGrabado en madera en color, Jap\xF3n, 1830\u201333
+    d.C."
+  infoRight: 
 --- !u!1 &1461285525
 GameObject:
   m_ObjectHideFlags: 0
@@ -4919,6 +4971,7 @@ GameObject:
   - component: {fileID: 1543389672}
   - component: {fileID: 1543389674}
   - component: {fileID: 1543389673}
+  - component: {fileID: 1543389675}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -4983,6 +5036,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1543389671}
   m_CullTransparentMesh: 1
+--- !u!114 &1543389675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543389671}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Mapa del Metro de Londres (1931)
+  infoRight: 
 --- !u!1 &1551841555
 GameObject:
   m_ObjectHideFlags: 0
@@ -5474,6 +5542,7 @@ GameObject:
   - component: {fileID: 1799811517}
   - component: {fileID: 1799811519}
   - component: {fileID: 1799811518}
+  - component: {fileID: 1799811520}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -5538,6 +5607,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1799811516}
   m_CullTransparentMesh: 1
+--- !u!114 &1799811520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1799811516}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Mapa del Metro de Londres (1928)
+  infoRight: 
 --- !u!1001 &1883264339
 PrefabInstance:
   m_ObjectHideFlags: 0

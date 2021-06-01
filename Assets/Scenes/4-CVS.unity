@@ -1849,6 +1849,7 @@ GameObject:
   - component: {fileID: 323279325}
   - component: {fileID: 323279327}
   - component: {fileID: 323279326}
+  - component: {fileID: 323279328}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -1913,6 +1914,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 323279324}
   m_CullTransparentMesh: 1
+--- !u!114 &323279328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 323279324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Diagrama del Ciclo de vida del desarrollo de software
+  infoRight: 
 --- !u!1 &403520147
 GameObject:
   m_ObjectHideFlags: 0

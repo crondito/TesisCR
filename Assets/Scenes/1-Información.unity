@@ -912,7 +912,10 @@ MonoBehaviour:
     [Accessed: 03-Apr-2021]. \n[4] \u201CUML Tutorial - Javatpoint,\u201D www.javatpoint.com,
     2018. [Online]. Disponible: https://www.javatpoint.com/uml. [Accessed: 05-Apr-2021].
     \n[5] J. Kramer, \"Is abstraction the key to computing?\" Communications of the
-    ACM, vol. 50, no. 4, pp. 36-42, 2007.\n[6] "
+    ACM, vol. 50, no. 4, pp. 36-42, 2007.\n\n\nPAQUETES Y LIBRER\xCDAS UTILIZADAS\n\n-
+    MaterialUI\n https://github.com/InvexGames/MaterialUI/releases/tag/v0.2.61\n-
+    Simple Tooltip\n https://assetstore.unity.com/packages/tools/gui/simple-tooltip-155804\n-
+    A Better Unity WebGL template\nhttps://github.com/greggman/better-unity-webgl-template"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1774,7 +1777,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -32, y: -32}
+  m_SizeDelta: {x: -40, y: -40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1032345294
 MonoBehaviour:
@@ -1983,7 +1986,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -32, y: -32}
+  m_SizeDelta: {x: -40, y: -40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1146722547
 MonoBehaviour:
@@ -2325,7 +2328,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Referencias Bibliogr\xE1ficas"
+  m_text: Referencias
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2809,7 +2812,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 68.05
+  m_fontSize: 68
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -3181,7 +3184,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -32, y: -32}
+  m_SizeDelta: {x: -40, y: -40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2017576786
 MonoBehaviour:

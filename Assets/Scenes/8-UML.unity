@@ -760,6 +760,7 @@ GameObject:
   - component: {fileID: 159018976}
   - component: {fileID: 159018978}
   - component: {fileID: 159018977}
+  - component: {fileID: 159018979}
   m_Layer: 5
   m_Name: OMG Logo
   m_TagString: Untagged
@@ -824,6 +825,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 159018975}
   m_CullTransparentMesh: 1
+--- !u!114 &159018979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159018975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Logo de OMG (Object Management Group)
+  infoRight: 
 --- !u!1 &195267128
 GameObject:
   m_ObjectHideFlags: 0
@@ -1024,8 +1040,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "TIPOS DE DIAGRAMAS UML\n\n\nDiagramas de estructura\n\n\n\n\nDiagramas
-    de comportamiento\n\n\n\n\nDiagramas de interacci\xF3n"
+  m_text: "TIPOS DE DIAGRAMAS UML\n\n\nDiagramas de Estructura\n\n\n\n\nDiagramas
+    de Comportamiento\n\n\n\n\nDiagramas de Interacci\xF3n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1113,6 +1129,7 @@ GameObject:
   - component: {fileID: 322155509}
   - component: {fileID: 322155511}
   - component: {fileID: 322155510}
+  - component: {fileID: 322155512}
   m_Layer: 5
   m_Name: RationalSoftwareLogo
   m_TagString: Untagged
@@ -1177,6 +1194,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 322155508}
   m_CullTransparentMesh: 1
+--- !u!114 &322155512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 322155508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Logo de Rational Software
+  infoRight: 
 --- !u!1 &344378259
 GameObject:
   m_ObjectHideFlags: 0
@@ -1188,6 +1220,7 @@ GameObject:
   - component: {fileID: 344378260}
   - component: {fileID: 344378262}
   - component: {fileID: 344378261}
+  - component: {fileID: 344378263}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -1252,6 +1285,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 344378259}
   m_CullTransparentMesh: 1
+--- !u!114 &344378263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 344378259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Ejemplo de Diagrama de Secuencia
+  infoRight: 
 --- !u!1 &356378904
 GameObject:
   m_ObjectHideFlags: 0
@@ -1483,7 +1531,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Diagrama de comunicaci\xF3n"
+  m_text: "Diagrama de Comunicaci\xF3n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1510,7 +1558,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32.4
+  m_fontSize: 31.8
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2836,6 +2884,7 @@ GameObject:
   - component: {fileID: 559977769}
   - component: {fileID: 559977771}
   - component: {fileID: 559977770}
+  - component: {fileID: 559977772}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -2900,6 +2949,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 559977768}
   m_CullTransparentMesh: 1
+--- !u!114 &559977772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559977768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Ejemplo de Diagrama de Componentes
+  infoRight: 
 --- !u!1001 &580333050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3303,7 +3367,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 68.05
+  m_fontSize: 68
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4197,7 +4261,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.8, y: 0.72}
   m_AnchorMax: {x: 0.85, y: 0.77000004}
-  m_AnchoredPosition: {x: 270.02997, y: 119.31}
+  m_AnchoredPosition: {x: 270.02997, y: 119.31001}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &876469375
@@ -4247,7 +4311,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 47.45
+  m_fontSize: 47.4
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4865,6 +4929,7 @@ GameObject:
   - component: {fileID: 973860957}
   - component: {fileID: 973860959}
   - component: {fileID: 973860958}
+  - component: {fileID: 973860960}
   m_Layer: 5
   m_Name: ISO Logo
   m_TagString: Untagged
@@ -4929,6 +4994,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 973860956}
   m_CullTransparentMesh: 1
+--- !u!114 &973860960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 973860956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Logo de ISO (International Organization for Standardization)
+  infoRight: 
 --- !u!1 &998014045
 GameObject:
   m_ObjectHideFlags: 0
@@ -5194,8 +5274,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1503373406}
   - {fileID: 1898718358}
+  - {fileID: 1503373406}
   m_Father: {fileID: 622757370}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5529,6 +5609,7 @@ GameObject:
   - component: {fileID: 1094550919}
   - component: {fileID: 1094550921}
   - component: {fileID: 1094550920}
+  - component: {fileID: 1094550922}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -5593,6 +5674,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1094550918}
   m_CullTransparentMesh: 1
+--- !u!114 &1094550922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1094550918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: "Ejemplo de Diagrama de Comunicaci\xF3n"
+  infoRight: 
 --- !u!1 &1112481041
 GameObject:
   m_ObjectHideFlags: 0
@@ -6549,6 +6645,7 @@ GameObject:
   - component: {fileID: 1224191958}
   - component: {fileID: 1224191960}
   - component: {fileID: 1224191959}
+  - component: {fileID: 1224191961}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -6613,6 +6710,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1224191957}
   m_CullTransparentMesh: 1
+--- !u!114 &1224191961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224191957}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Ejemplo de Diagrama de Casos de Uso
+  infoRight: 
 --- !u!1 &1225300773
 GameObject:
   m_ObjectHideFlags: 0
@@ -6798,6 +6910,7 @@ GameObject:
   - component: {fileID: 1280325858}
   - component: {fileID: 1280325860}
   - component: {fileID: 1280325859}
+  - component: {fileID: 1280325861}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -6862,6 +6975,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1280325857}
   m_CullTransparentMesh: 1
+--- !u!114 &1280325861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1280325857}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Ejemplo de Diagrama de Clases
+  infoRight: 
 --- !u!1 &1283781393
 GameObject:
   m_ObjectHideFlags: 0
@@ -7467,6 +7595,7 @@ GameObject:
   - component: {fileID: 1420910747}
   - component: {fileID: 1420910749}
   - component: {fileID: 1420910748}
+  - component: {fileID: 1420910750}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -7531,6 +7660,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1420910746}
   m_CullTransparentMesh: 1
+--- !u!114 &1420910750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1420910746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Ejemplo de Diagrama de Actividades
+  infoRight: 
 --- !u!1 &1426424747
 GameObject:
   m_ObjectHideFlags: 0
@@ -7844,6 +7988,7 @@ GameObject:
   - component: {fileID: 1503373406}
   - component: {fileID: 1503373408}
   - component: {fileID: 1503373407}
+  - component: {fileID: 1503373409}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -7863,7 +8008,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1046124484}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7908,6 +8053,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1503373405}
   m_CullTransparentMesh: 1
+--- !u!114 &1503373409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1503373405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: Logo de UML
+  infoRight: 
 --- !u!1 &1528632969
 GameObject:
   m_ObjectHideFlags: 0
@@ -9905,7 +10065,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Diagrama de clases
+  m_text: Diagrama de Clases
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10116,7 +10276,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Diagrama de componentes
+  m_text: Diagrama de Componentes
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10223,7 +10383,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1046124484}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -11047,7 +11207,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Diagrama de actividades
+  m_text: Diagrama de Actividades
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11557,7 +11717,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Diagrama de secuencia
+  m_text: Diagrama de Secuencia
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12097,7 +12257,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Diagrama de casos de uso
+  m_text: Diagrama de Casos de Uso
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12124,7 +12284,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 33.05
+  m_fontSize: 32.05
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
