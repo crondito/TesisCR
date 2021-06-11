@@ -135,6 +135,12 @@ public class STController : MonoBehaviour
     {
         showInFrames = -1;
         showNow = false;
-        rect.anchoredPosition = new Vector2(Screen.currentResolution.width, Screen.currentResolution.height);
+        // rect.anchoredPosition = new Vector2(Screen.currentResolution.width, Screen.currentResolution.height);
+        // Esta corrección es mia, si daña algo borrar
+        if (rect)
+        {
+            rect.anchoredPosition = new Vector2(Screen.currentResolution.width, Screen.currentResolution.height);
+        }
+        
     }
 }
