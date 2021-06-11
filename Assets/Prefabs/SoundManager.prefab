@@ -70,13 +70,13 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: Laser
     clip: {fileID: 8300000, guid: 261d6a87442a2f2498f9b0158efc4700, type: 3}
-    volume: 0.75
+    volume: 0.5
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Explotion
     clip: {fileID: 8300000, guid: 0794b9c66eea6c54281919a63b697fea, type: 3}
-    volume: 0.75
+    volume: 0.5
     pitch: 1
     loop: 0
     source: {fileID: 0}
