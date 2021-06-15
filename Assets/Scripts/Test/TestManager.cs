@@ -23,11 +23,6 @@ public class TestManager : MonoBehaviour
     private int totalQuestions = 0;
     private int score;
 
-    private void Awake()
-    {
-        FindObjectOfType<Game>().LoadGame();
-    }
-
     void Start()
     {
         totalQuestions = QnA.Count;

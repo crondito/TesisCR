@@ -13,6 +13,11 @@ public class Game : MonoBehaviour
     public bool pasadoSoko = false;
     public bool pasadoAst = false;
 
+    public void Awake()
+    {
+        LoadGame();
+    }
+
     public void SaveGame()
     {
         SaveSystem.SaveGame(this);
