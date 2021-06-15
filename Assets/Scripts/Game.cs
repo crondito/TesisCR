@@ -47,5 +47,7 @@ public class Game : MonoBehaviour
         pasadoFig = false;
         pasadoSoko = false;
         pasadoAst = false;
+
+        SaveGame();
     }
 }
