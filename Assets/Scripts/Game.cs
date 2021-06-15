@@ -50,4 +50,18 @@ public class Game : MonoBehaviour
 
         SaveGame();
     }
+
+    public void CompleteGame()
+    {
+        califCVS = 100f;
+        califAbs = 100f;
+        califUML = 100f;
+        califDdC = 100f;
+
+        pasadoFig = true;
+        pasadoSoko = true;
+        pasadoAst = true;
+
+        SaveGame();
+    }
 }
