@@ -18,6 +18,8 @@ public class TestManager : MonoBehaviour
     public Text ScoreTxt;
     public Text WrongAnswerTxt;
 
+    public int whichTest;
+
     private int totalQuestions = 0;
     private int score;
 
@@ -40,7 +42,28 @@ public class TestManager : MonoBehaviour
         MainPanel.SetActive(false);
         GameOverPanel.SetActive(true);
         //ScoreTxt.text = score + " / " + totalQuestions;
-        float puntuacionFinal = ((float)score / (float)totalQuestions) * 100;
+        float puntuacionFinal = Mathf.Round(((((float)score / (float)totalQuestions) * 100) * 100f) / 100f);
+        //Debug.Log(puntuacionFinal);
+
+        if (whichTest == 0)
+        {
+            FindObjectOfType<Game>().califCVS = puntuacionFinal;
+        }
+        else if(whichTest == 1)
+        {
+            FindObjectOfType<Game>().califAbs = puntuacionFinal;
+        }
+        else if (whichTest == 2)
+        {
+            FindObjectOfType<Game>().califUML = puntuacionFinal;
+        }
+        else if (whichTest == 3)
+        {
+            FindObjectOfType<Game>().califDdC = puntuacionFinal;
+        }
+
+        FindObjectOfType<Game>().SaveGame();
+
         if (puntuacionFinal >= 70)
         {
             ScoreTxt.text = puntuacionFinal.ToString() + " %\n\n" + "Pasaste!";
