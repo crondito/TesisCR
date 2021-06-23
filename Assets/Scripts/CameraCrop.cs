@@ -8,6 +8,12 @@ public class CameraCrop : MonoBehaviour
     public Vector2 targetAspect = new Vector2(16, 9);
     Camera _camera;
 
+    private void Awake()
+    {
+        // Poner en -1 para quitar límite
+        Application.targetFrameRate = 60;
+    }
+
     void Start()
     {
         _camera = GetComponent<Camera>();
