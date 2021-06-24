@@ -6,6 +6,7 @@ using UnityEngine.EventSystems;
 public class DragDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler, IDragHandler
 {
     [SerializeField] private Canvas canvas;
+    [TextArea] public string infoL;
 
     private RectTransform rectTransform;
     private CanvasGroup canvasGroup;
@@ -27,6 +28,11 @@ public class DragDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, I
     {
         //Debug.Log("On Drag");
         rectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor;
+
+        if (GetComponent<SimpleTooltip>() != null)
+        {
+            GetComponent<SimpleTooltip>().infoLeft = infoL;
+        }
     }
 
     public void OnEndDrag(PointerEventData eventData)
@@ -34,6 +40,7 @@ public class DragDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, I
         //Debug.Log("On End Drag");
         canvasGroup.alpha = 1.0f;
         canvasGroup.blocksRaycasts = true;
+        
         FindObjectOfType<SoundManagerScript>().Play("Step");
     }
 
