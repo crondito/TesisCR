@@ -11,6 +11,8 @@ public class ItemSlot1 : MonoBehaviour, IDropHandler
     [SerializeField] GameObject aparece1;
     [SerializeField] GameObject desaparece2;
     [SerializeField] GameObject aparece2;
+    [TextArea] public string infoLSquare;
+    [TextArea] public string infoLCircle;
 
     public void OnDrop(PointerEventData eventData)
     {
@@ -25,11 +27,22 @@ public class ItemSlot1 : MonoBehaviour, IDropHandler
             {
                 desaparece1.SetActive(false);
                 aparece1.SetActive(true);
+
+                if (eventData.pointerDrag.GetComponent<SimpleTooltip>() != null)
+                {
+                    eventData.pointerDrag.GetComponent<SimpleTooltip>().infoLeft = infoLSquare;
+                }
+                    
             }
             else if (eventData.pointerDrag.gameObject.tag == "circle")
             {
                 desaparece2.SetActive(false);
                 aparece2.SetActive(true);
+
+                if (eventData.pointerDrag.GetComponent<SimpleTooltip>() != null)
+                {
+                    eventData.pointerDrag.GetComponent<SimpleTooltip>().infoLeft = infoLCircle;
+                }
             }
 
         }
