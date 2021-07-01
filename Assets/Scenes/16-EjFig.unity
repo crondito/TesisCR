@@ -1740,7 +1740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.4
+  fadeSpeed: 0.25
 --- !u!1 &60310320
 GameObject:
   m_ObjectHideFlags: 0
@@ -3302,7 +3302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.175
+  fadeSpeed: 0.1
 --- !u!212 &146544116
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9553,7 +9553,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.175
+  fadeSpeed: 0.1
 --- !u!212 &466903084
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11046,7 +11046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.175
+  fadeSpeed: 0.1
 --- !u!212 &561681477
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13209,7 +13209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.2
+  fadeSpeed: 0.1
 --- !u!212 &624077834
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16437,7 +16437,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.125
+  fadeSpeed: 0.1
 --- !u!212 &740871183
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22897,7 +22897,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.175
+  fadeSpeed: 0.1
 --- !u!212 &1113493936
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -30462,7 +30462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.175
+  fadeSpeed: 0.1
 --- !u!212 &1489992984
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -35583,7 +35583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.25
+  fadeSpeed: 0.1
 --- !u!212 &1674018781
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -37089,7 +37089,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.25
+  fadeSpeed: 0.1
 --- !u!212 &1764312991
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -39097,7 +39097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.25
+  fadeSpeed: 0.1
 --- !u!212 &1837296746
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -43833,7 +43833,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66e45274fcec1d84480838104d1ee19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeSpeed: 0.175
+  fadeSpeed: 0.1
 --- !u!212 &2069429852
 SpriteRenderer:
   m_ObjectHideFlags: 0
