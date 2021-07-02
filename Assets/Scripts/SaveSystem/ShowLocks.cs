@@ -29,7 +29,7 @@ public class ShowLocks : MonoBehaviour
         {
             FindObjectOfType<Game>().pasadoSoko = true;
             lock2.SetActive(false);
-            FindObjectOfType<Game>().pasadoAst = true;
+            //FindObjectOfType<Game>().pasadoAst = true;
             lock3.SetActive(false);
         }
         /*else if (nextUnlock == 1)

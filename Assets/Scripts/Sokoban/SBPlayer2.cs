@@ -18,11 +18,13 @@ public class SBPlayer2 : MonoBehaviour
         direction.Normalize();
         if (Blocked(transform.position, direction))
         {
+            FindObjectOfType<SoundManagerScript>().Play("Blocked");
             return false;
         }
         else
         {
             transform.Translate(direction);
+            FindObjectOfType<SoundManagerScript>().Play("Step");
             return true;
         }
     }
