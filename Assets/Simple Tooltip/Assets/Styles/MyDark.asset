@@ -13,31 +13,31 @@ MonoBehaviour:
   m_Name: MyDark
   m_EditorClassIdentifier: 
   slicedSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  color: {r: 0, g: 0, b: 0, a: 0.8627451}
+  color: {r: 0.26415092, g: 0.26415092, b: 0.26415092, a: 0.8627451}
   fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  defaultColor: {r: 0.9098039, g: 0.9019608, b: 0.91764706, a: 1}
+  defaultColor: {r: 1, g: 1, b: 1, a: 1}
   fontStyles:
-  - tag: '`'
-    color: {r: 0.6509804, g: 0.6509804, b: 0.6509804, a: 0}
-    bold: 0
-    italic: 0
+  - tag: ''''
+    color: {r: 1, g: 1, b: 1, a: 0}
+    bold: 1
+    italic: 1
     underline: 0
     strikethrough: 0
-  - tag: ~
-    color: {r: 0.7075472, g: 0.25031152, b: 0.25031152, a: 0}
+  - tag: '%'
+    color: {r: 1, g: 1, b: 1, a: 0}
     bold: 1
     italic: 0
     underline: 0
     strikethrough: 0
   - tag: '@'
     color: {r: 1, g: 1, b: 1, a: 0}
-    bold: 1
-    italic: 0
+    bold: 0
+    italic: 1
     underline: 0
     strikethrough: 0
   - tag: $
-    color: {r: 0.066037714, g: 0.066037714, b: 0.066037714, a: 0}
-    bold: 1
+    color: {r: 1, g: 1, b: 1, a: 0}
+    bold: 0
     italic: 0
     underline: 0
     strikethrough: 0

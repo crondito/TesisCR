@@ -11,7 +11,7 @@ public class CameraCrop : MonoBehaviour
     private void Awake()
     {
         // Poner en -1 para quitar límite
-        Application.targetFrameRate = 60;
+        //Application.targetFrameRate = 60;
     }
 
     void Start()
