@@ -209,6 +209,7 @@ GameObject:
   - component: {fileID: 15413352}
   - component: {fileID: 15413354}
   - component: {fileID: 15413353}
+  - component: {fileID: 15413355}
   m_Layer: 5
   m_Name: "Agregaci\xF3n"
   m_TagString: Untagged
@@ -228,7 +229,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 43283145}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -273,6 +274,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 15413351}
   m_CullTransparentMesh: 1
+--- !u!114 &15413355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 15413351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: "%Agregaci\xF3n\n\n$Indica que Espacio almacena Celdas"
+  infoRight: "%Relaci\xF3n"
 --- !u!1 &19906917
 GameObject:
   m_ObjectHideFlags: 0
@@ -457,7 +473,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &43283145
 RectTransform:
   m_ObjectHideFlags: 0
@@ -475,12 +491,12 @@ RectTransform:
   - {fileID: 1547972602}
   - {fileID: 955545031}
   - {fileID: 805998127}
-  - {fileID: 931368301}
   - {fileID: 1923899507}
   - {fileID: 546468690}
   - {fileID: 130467889}
   - {fileID: 275417555}
   - {fileID: 15413352}
+  - {fileID: 931368301}
   - {fileID: 608545584}
   - {fileID: 913688963}
   - {fileID: 1162276627}
@@ -1360,7 +1376,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 43283145}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2688,7 +2704,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1863337473}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3548,7 +3564,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 43283145}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6404,7 +6420,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1863337473}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6602,7 +6618,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 43283145}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -10365,6 +10381,7 @@ GameObject:
   - component: {fileID: 824803125}
   - component: {fileID: 824803127}
   - component: {fileID: 824803126}
+  - component: {fileID: 824803128}
   m_Layer: 5
   m_Name: Herencia
   m_TagString: Untagged
@@ -10384,12 +10401,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1863337473}
-  m_RootOrder: 6
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 280, y: 73.6}
-  m_SizeDelta: {x: 945.1, y: 119.36}
+  m_AnchoredPosition: {x: 291.69, y: 73.6}
+  m_SizeDelta: {x: 729.96, y: 119.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &824803126
 MonoBehaviour:
@@ -10429,6 +10446,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 824803124}
   m_CullTransparentMesh: 1
+--- !u!114 &824803128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 824803124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: "%Herencia\n\n$Indica que Celda es padre de NaveEspacial, Bala, Asteroide
+    y Espacio; los hijos heredan los atributos y m\xE9todos del padre."
+  infoRight: "%Relaci\xF3n"
 --- !u!1 &826501958
 GameObject:
   m_ObjectHideFlags: 0
@@ -10788,7 +10821,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1863337473}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -11873,6 +11906,7 @@ GameObject:
   - component: {fileID: 931368301}
   - component: {fileID: 931368303}
   - component: {fileID: 931368302}
+  - component: {fileID: 931368304}
   m_Layer: 5
   m_Name: Herencia
   m_TagString: Untagged
@@ -11892,12 +11926,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 43283145}
-  m_RootOrder: 6
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 280, y: 73.6}
-  m_SizeDelta: {x: 945.1, y: 119.36}
+  m_AnchoredPosition: {x: 291.69, y: 73.6}
+  m_SizeDelta: {x: 729.96, y: 119.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &931368302
 MonoBehaviour:
@@ -11937,6 +11971,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 931368300}
   m_CullTransparentMesh: 1
+--- !u!114 &931368304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 931368300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99634edca86565b4a96a0b7b261787f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
+  infoLeft: "%Herencia\n\n$Indica que Celda es padre de NaveEspacial, Bala, Asteroide
+    y Espacio; los hijos heredan los atributos y m\xE9todos del padre."
+  infoRight: "%Relaci\xF3n"
 --- !u!1 &932176315
 GameObject:
   m_ObjectHideFlags: 0
@@ -13417,7 +13467,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1863337473}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -14120,8 +14170,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 280, y: 73.6}
-  m_SizeDelta: {x: 945.1, y: 119.36}
+  m_AnchoredPosition: {x: 291.69, y: 73.6}
+  m_SizeDelta: {x: 729.96, y: 119.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1129459552
 MonoBehaviour:
@@ -18252,7 +18302,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1863337473}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -22417,12 +22467,12 @@ RectTransform:
   - {fileID: 1179948486}
   - {fileID: 1890501870}
   - {fileID: 907915331}
-  - {fileID: 824803125}
   - {fileID: 539482860}
   - {fileID: 211592390}
   - {fileID: 1474330561}
   - {fileID: 858812035}
   - {fileID: 1075013506}
+  - {fileID: 824803125}
   - {fileID: 1346295586}
   - {fileID: 780533244}
   - {fileID: 663077440}
@@ -23336,7 +23386,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 43283145}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
