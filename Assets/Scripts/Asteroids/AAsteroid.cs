@@ -11,7 +11,7 @@ public class AAsteroid : MonoBehaviour
 
     private bool isDestroying = false;
 
-    void Start()
+    void OnEnable()
     {
         rb = GetComponent<Rigidbody2D>();
         rb.drag = 0;
@@ -24,6 +24,21 @@ public class AAsteroid : MonoBehaviour
         ).normalized * speed;
 
         rb.angularVelocity = Random.Range(-50f, 50f);
+    }
+
+    void Start()
+    {
+        /*rb = GetComponent<Rigidbody2D>();
+        rb.drag = 0;
+        rb.angularDrag = 0;
+
+        rb.velocity = new Vector3(
+            Random.Range(-1f, 1f),
+            Random.Range(-1f, 1f),
+            0
+        ).normalized * speed;
+
+        rb.angularVelocity = Random.Range(-50f, 50f);*/
     }
 
     private void OnTriggerEnter2D(Collider2D col)
