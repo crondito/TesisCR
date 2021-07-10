@@ -14,6 +14,6 @@ public class AInputManager : MonoBehaviour
     }
     public static bool Fire
     {
-        get { return Input.GetKey(KeyCode.Space); }
+        get { return Input.GetKey(KeyCode.LeftControl); }
     }
 }
