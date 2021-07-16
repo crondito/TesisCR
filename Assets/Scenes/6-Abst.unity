@@ -292,7 +292,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 547, y: 32.35}
+  m_AnchoredPosition: {x: 547, y: -3}
   m_SizeDelta: {x: 550.4, y: 701.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &131488139
@@ -2644,7 +2644,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &876469374
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2661,7 +2661,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.8, y: 0.72}
   m_AnchorMax: {x: 0.85, y: 0.77000004}
-  m_AnchoredPosition: {x: 270.02997, y: 119.31001}
+  m_AnchoredPosition: {x: 270.02997, y: 119.31}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &876469375
@@ -4842,12 +4842,12 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\xBFPOR QU\xC9 NECESITAMOS DE LA ABSTRACCI\xD3N EN LA INGENIER\xCDA DE
     SOFTWARE?\n\n\"Es f\xE1cil hacer que algo simple suene complejo, pero es dif\xEDcil
-    hacer que algo complejo suene simple.\"\n\nCuando dise\xF1as tu software necesitas
-    reducir conceptos complejos (objetos que existen en la vida real) a conceptos
-    simples (Clases y relaciones entre clases), que pueden ser programadas con facilidad.\n\nB\xE1sicamente
-    si puedes abstraer bien puedes hacer un buen dise\xF1o de software. Si puedes
-    hacer un buen dise\xF1o de software vas a pasar menos tiempo corrigiendo errores
-    al programar."
+    hacer que algo complejo suene simple.\" [5]\n\nCuando dise\xF1as tu software
+    necesitas reducir conceptos complejos (objetos que existen en la vida real) a
+    conceptos simples (Clases y relaciones entre clases), que pueden ser programadas
+    con facilidad.\n\nB\xE1sicamente si puedes abstraer bien puedes hacer un buen
+    dise\xF1o de software. Si puedes hacer un buen dise\xF1o de software vas a pasar
+    menos tiempo corrigiendo errores al programar."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5782,7 +5782,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\xBFQU\xC9 ES LA ABSTRACCI\xD3N?\n\nEs el acto de retirar las partes exteriores
-    de un objeto complejo para poder ver solamente su esencia.\n\nPara comprender
+    de un objeto complejo para poder ver solamente su esencia [5].\n\nPara comprender
     este concepto m\xE1s claramente podemos utilizar el arte.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

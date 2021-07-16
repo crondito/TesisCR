@@ -2261,7 +2261,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
-  infoLeft: Ejemplo Sokoban
+  infoLeft: Ejemplo Sokoban [6]
   infoRight: 
 --- !u!95 &81803705
 Animator:
@@ -10522,7 +10522,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -396.21997, y: -31.14801}
+  m_AnchoredPosition: {x: -396.2199, y: -31.14801}
   m_SizeDelta: {x: -972.44, y: -62.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &263566193
@@ -14719,7 +14719,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &402048083
@@ -18544,7 +18544,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &501577452
@@ -21222,7 +21222,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &591877936
@@ -25419,7 +25419,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &715583313
@@ -29374,7 +29374,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &816713251
@@ -43939,7 +43939,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1218965150
@@ -49311,7 +49311,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -411.25, y: 13.940002}
+  m_AnchoredPosition: {x: -411.24994, y: 13.940002}
   m_SizeDelta: {x: -1002.5, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1349412660
@@ -52391,7 +52391,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -396.21997, y: -289.44}
+  m_AnchoredPosition: {x: -396.2199, y: -289.44}
   m_SizeDelta: {x: -972.44, y: -62.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1413437726
@@ -61184,7 +61184,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1637676256
@@ -65806,7 +65806,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -396.21997, y: -31.14801}
+  m_AnchoredPosition: {x: -396.2199, y: -31.14801}
   m_SizeDelta: {x: -972.44, y: -62.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1777909651
@@ -70481,7 +70481,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
-  infoLeft: Ejemplo Sokoban
+  infoLeft: Ejemplo Sokoban [6]
   infoRight: 
 --- !u!1 &1892516437
 GameObject:
@@ -73525,7 +73525,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1982041992
@@ -75130,7 +75130,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
-  infoLeft: Ejemplo Sokoban
+  infoLeft: Ejemplo Sokoban [6]
   infoRight: 
 --- !u!95 &2016710429
 Animator:
@@ -76059,7 +76059,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
-  infoLeft: Ejemplo Sokoban
+  infoLeft: Ejemplo Sokoban [6]
   infoRight: 
 --- !u!95 &2051204225
 Animator:

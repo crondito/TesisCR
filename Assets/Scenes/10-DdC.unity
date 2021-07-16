@@ -183,7 +183,7 @@ MonoBehaviour:
   m_text: "AGREGACI\xD3N\n\nLa agregaci\xF3n es un subconjunto de asociaci\xF3n,
     pero es m\xE1s espec\xEDfico. Describe una relaci\xF3n parte-todo o parte-de.
     Es una asociaci\xF3n binaria, es decir, solo involucra dos clases. Es un tipo
-    de relaci\xF3n en la que el ni\xF1o es independiente de su padre.\r\n\r\nPor
+    de relaci\xF3n en la que el ni\xF1o es independiente de su padre [3].\r\n\r\nPor
     ejemplo:\r\nUn autom\xF3vil no puede moverse sin una rueda. Pero la rueda se
     puede usar de forma independiente con la bicicleta, scooter o cualquier otro
     veh\xEDculo. El objeto rueda puede existir sin el objeto autom\xF3vil, lo que
@@ -2105,7 +2105,7 @@ MonoBehaviour:
   m_text: "HERENCIA o GENERALIZACI\xD3N\n\nSe produce entre dos entidades u objetos,
     de modo que una entidad es el padre y la otra es el hijo. El hijo hereda la funcionalidad
     de su padre (atributos y m\xE9todos) y puede acceder a ella y actualizarla. El
-    hijo puede tener sus propios atributos y m\xE9todos no heredados.\n\nEl elemento
+    hijo puede tener sus propios atributos y m\xE9todos no heredados [3].\n\nEl elemento
     padre puede tener varios hijos, el hijo puede tener uno o m\xE1s padres pero
     generalmente solo tiene uno."
   m_isRightToLeft: 0
@@ -2906,7 +2906,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "Realizaci\xF3n"
-  infoRight: 
+  infoRight: "Relaci\xF3n"
 --- !u!114 &484923586
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3326,7 +3326,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "NOMBRE\nEl nombre de la clase aparece en la primera partici\xF3n.\r\n\r\nATRIBUTOS\nLos
+  m_text: "NOMBRE\nEl nombre de la clase aparece en la primera partici\xF3n.\n\r\nATRIBUTOS\nLos
     atributos se muestran en la segunda partici\xF3n.\r\nEl tipo de atributo se muestra
     despu\xE9s de los dos puntos.\r\n\r\nM\xC9TODOS\nLos m\xE9todos se muestran en
     la tercera partici\xF3n. Son servicios que brinda la clase.\r\nEl tipo de retorno
@@ -4456,7 +4456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
-  infoLeft: Ejemplo Completo de Diagrama de Clases
+  infoLeft: Ejemplo Completo de Diagrama de Clases [3]
   infoRight: 
 --- !u!1 &774450517
 GameObject:
@@ -4510,7 +4510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "Agregaci\xF3n"
-  infoRight: 
+  infoRight: "Relaci\xF3n"
 --- !u!114 &774450520
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5220,7 +5220,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "DEPENDENCIA\n\nDescribe como varias cosas dentro de un sistema dependen
     unas de otras. En UML, una relaci\xF3n de dependencia es el tipo de relaci\xF3n
-    en la que un cliente (un elemento) depende del proveedor (otro elemento).\n\nIndica
+    en la que un cliente (un elemento) depende del proveedor (otro elemento) [3].\n\nIndica
     que un cambio en el proveedor requiere un cambio en el cliente\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5682,7 +5682,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.37, y: 0.16100001}
   m_AnchorMax: {x: 0.5, y: 0.29367042}
-  m_AnchoredPosition: {x: -90, y: -217.40839}
+  m_AnchoredPosition: {x: -90, y: -217.40831}
   m_SizeDelta: {x: 191.97339, y: 104.27104}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1016209430
@@ -5842,11 +5842,11 @@ MonoBehaviour:
   m_text: "COMPOSICI\xD3N\n\nLa composici\xF3n es una parte de la agregaci\xF3n y
     retrata la relaci\xF3n de la parte completa. Representa la dependencia entre
     un compuesto (padre) y sus partes (hijos), lo que significa que si el compuesto
-    se descarta, sus partes tambi\xE9n se eliminar\xE1n. Existe entre objetos similares.\r\n\r\nEn
-    el siguiente ejemplo la relaci\xF3n de asociaci\xF3n de composici\xF3n conecta
-    la clase Persona con la clase Cerebro, la clase Coraz\xF3n y la clase Piernas.
-    Si la persona es destruida, tambi\xE9n se descartar\xE1n el cerebro, el coraz\xF3n
-    y las piernas."
+    se descarta, sus partes tambi\xE9n se eliminar\xE1n. Existe entre objetos similares
+    [3].\r\n\r\nEn el siguiente ejemplo la relaci\xF3n de asociaci\xF3n de composici\xF3n
+    conecta la clase Persona con la clase Cerebro, la clase Coraz\xF3n y la clase
+    Piernas. Si la persona es destruida, tambi\xE9n se descartar\xE1n el cerebro,
+    el coraz\xF3n y las piernas."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6793,7 +6793,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 27.15
+  m_fontSize: 27.65
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -6878,8 +6878,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.45540765}
-  m_AnchoredPosition: {x: 0, y: 61.29001}
-  m_SizeDelta: {x: 0, y: 122.55}
+  m_AnchoredPosition: {x: 0, y: 31.48}
+  m_SizeDelta: {x: 0, y: 62.96}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1150425579
 MonoBehaviour:
@@ -7191,7 +7191,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "VISIBILIDAD\n\nLos s\xEDmbolos +, - y # antes de un atributo\ny m\xE9todo
-    en una clase denotan la visibilidad\ndel atributo y del m\xE9todo.\n\n+ denota
+    en una clase denotan la visibilidad\ndel atributo y del m\xE9todo [3].\n\n+ denota
     atributos u operaciones p\xFAblicos\r\n- denota atributos u operaciones privados\r\n#
     denota atributos u operaciones protegidos\n\n\n\n\n\n\n\n\n\nCLASE ABSTRACTA\n\nNo
     puede tener sus propias instancias. Las clases abstractas existen puramente para
@@ -7677,7 +7677,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "Composici\xF3n"
-  infoRight: 
+  infoRight: "Relaci\xF3n"
 --- !u!114 &1281298309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8119,7 +8119,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: Herencia
-  infoRight: 
+  infoRight: "Relaci\xF3n"
 --- !u!114 &1334893424
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8192,8 +8192,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.65}
   m_AnchorMax: {x: 0.63, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -60, y: -60}
+  m_AnchoredPosition: {x: 0, y: -6.1099854}
+  m_SizeDelta: {x: -60, y: -47.77}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1335671326
 MonoBehaviour:
@@ -8216,8 +8216,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\nNOTACI\xD3N DE CLASES EN UML\n\nUna clase representa un concepto que
-    encapsula el estado (atributos) y el comportamiento (m\xE9todos).\nCada atributo
-    y m\xE9todo tiene un tipo."
+    encapsula el estado (atributos) y el comportamiento (m\xE9todos) [4].\n\nCada
+    atributo y m\xE9todo tiene un tipo."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8244,7 +8244,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
+  m_fontSize: 30.9
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -8311,7 +8311,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1432088738
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8378,7 +8378,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 31.2
+  m_fontSize: 31.95
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -8808,9 +8808,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: "ASOCIACI\xD3N\n\nEs la relaci\xF3n sem\xE1ntica entre clases que muestra
     c\xF3mo una instancia est\xE1 conectada o fusionada con otras en un sistema.
-    Los objetos se combinan l\xF3gica o f\xEDsicamente.\n\nPor lo general, las asociaciones
-    se nombran usando un verbo o una frase verbal que refleja el dominio del problema
-    del mundo real."
+    Los objetos se combinan l\xF3gica o f\xEDsicamente [3].\n\nPor lo general, las
+    asociaciones se nombran usando un verbo o una frase verbal que refleja el dominio
+    del problema del mundo real."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9539,11 +9539,12 @@ MonoBehaviour:
     objetos y las clases van de la mano. No podemos hablar de uno sin hablar del
     otro. Y el objetivo del dise\xF1o orientado a objetos no se trata de objetos,
     se trata de clases, porque usamos clases para crear objetos. Entonces, una clase
-    describe lo que ser\xE1 un objeto, pero no es el objeto en s\xED.\r\n\r\nDe hecho,
-    las clases describen el tipo de objetos, mientras que los objetos son instancias
-    utilizables de clases. Cada Objeto se construy\xF3 a partir del mismo conjunto
-    de planos y, por lo tanto, contiene los mismos componentes (atributos y m\xE9todos).\n\nEl
-    significado est\xE1ndar es que un objeto es una instancia de una clase."
+    describe lo que ser\xE1 un objeto, pero no es el objeto en s\xED [3].\r\n\r\nDe
+    hecho, las clases describen el tipo de objetos, mientras que los objetos son
+    instancias utilizables de clases. Cada Objeto se construy\xF3 a partir del mismo
+    conjunto de planos y, por lo tanto, contiene los mismos componentes (atributos
+    y m\xE9todos).\n\nEl significado est\xE1ndar es que un objeto es una instancia
+    de una clase."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10073,7 +10074,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: Dependencia
-  infoRight: 
+  infoRight: "Relaci\xF3n"
 --- !u!114 &1770620226
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10201,7 +10202,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
-  infoLeft: Ejemplo de  Como se instancia una Clase
+  infoLeft: Ejemplo de  Como se instancia una Clase [3]
   infoRight: 
 --- !u!1 &1778109296
 GameObject:
@@ -10337,10 +10338,10 @@ MonoBehaviour:
       m_Calls: []
   m_text: "REALIZACI\xD3N\n\nEs una relaci\xF3n entre dos objetos, donde el cliente
     (un elemento del modelo) implementa la responsabilidad especificada por el proveedor
-    (otro elemento del modelo).\n\r\nLa relaci\xF3n de realizaci\xF3n no tiene nombres.
-    Se encuentra principalmente en las interfaces. Est\xE1 representado por una l\xEDnea
-    discontinua con una punta de flecha hueca en un extremo que apunta del cliente
-    al servidor."
+    (otro elemento del modelo) [3].\n\r\nLa relaci\xF3n de realizaci\xF3n no tiene
+    nombres. Se encuentra principalmente en las interfaces. Est\xE1 representado
+    por una l\xEDnea discontinua con una punta de flecha hueca en un extremo que
+    apunta del cliente al servidor."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10476,7 +10477,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "DEFINICI\xD3N\r\n\r\nUn diagrama de clases es un tipo de diagrama de estructura
     est\xE1tica que describe la estructura de un sistema mostrando las clases del
-    sistema, sus atributos, m\xE9todos y las relaciones entre objetos.\r\n\r\nEl
+    sistema, sus atributos, m\xE9todos y las relaciones entre objetos [2].\n\r\nEl
     diagrama de clases es el componente principal del modelado orientado a objetos.
     Se utiliza para el modelado conceptual general de la estructura de la aplicaci\xF3n
     y para el modelado detallado que traduce los modelos en c\xF3digo de programaci\xF3n.\r\n\r\nLos
@@ -11175,7 +11176,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "Asociaci\xF3n"
-  infoRight: 
+  infoRight: "Relaci\xF3n"
 --- !u!114 &2031372186
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1233,7 +1233,7 @@ MonoBehaviour:
     un sistema hay que aprender las fortalezas y debilidades de este con el objetivo
     de mejorarlo.\nSi no existe sistema se tiene que consultar con todos los interesados
     para entender lo que necesitan.\nLas partes interesadas pueden ser los due\xF1os,
-    los clientes, los vendedores, expertos de la industria, programadores, etc."
+    los clientes, los vendedores, expertos de la industria, programadores, etc. [1]"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2698,7 +2698,7 @@ MonoBehaviour:
   m_text: "PRUEBAS\n\"\xBFConseguimos lo que quer\xEDamos?\"\nEn esta etapa, realizamos
     pruebas para detectar defectos y deficiencias. Solucionamos esos problemas hasta
     que el producto cumpla con las especificaciones originales.\r\nQueremos verificar
-    si el c\xF3digo cumple con los requisitos definidos por el cliente."
+    si el c\xF3digo cumple con los requisitos definidos por el cliente. [1]"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2909,7 +2909,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "DESARROLLO\n\"Podemos empezar a escribir c\xF3digo\"\nEn esta etapa comienza
     el desarrollo real.\nEs importante que todos los desarrolladores se adhieran
-    al dise\xF1o acordado anteriormente para cumplir con los requerimientos del cliente."
+    al dise\xF1o acordado anteriormente para cumplir con los requerimientos del cliente.
+    [1]"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3058,7 +3059,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -425.49, y: 4.5700073}
+  m_AnchoredPosition: {x: -425.48993, y: 4.5700073}
   m_SizeDelta: {x: -1049.4, y: -190.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &611476805
@@ -3835,7 +3836,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &773797303
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4015,7 +4016,7 @@ MonoBehaviour:
     aqu\xED son generales, existen modelos m\xE1s espec\xEDficos, de los que no hablaremos
     en m\xE1s detalle en esta aplicaci\xF3n, como el modelo en cascada, el modelo
     en V, metodolog\xEDas \xE1giles, entre varias otras. Recomendamos que los investigues
-    por tu cuenta."
+    por tu cuenta. [1]"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4610,7 +4611,7 @@ MonoBehaviour:
   m_text: "AN\xC1LISIS\n\"\xBFQu\xE9 queremos?\"\nEl equipo de desarrollo determina
     el costo y los recursos necesarios para implementar los requerimientos obtenidos
     anteriormente.\nSe debe determinar la viabilidad del proyecto y c\xF3mo pueden
-    implementarlo con \xE9xito con el menor riesgo en mente.\n"
+    implementarlo con \xE9xito con el menor riesgo en mente. [1]\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6536,7 +6537,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 23.4
+  m_fontSize: 23.85
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -7812,7 +7813,7 @@ MonoBehaviour:
     pero, para que comprendas su importancia, primero tienes que conocer lo que es
     el Ciclo de Vida del Software.\n\nEl ciclo de vida del desarrollo de software
     se refiere a una metodolog\xEDa con procesos definidos que busca la creaci\xF3n
-    de software con la mejor calidad y el menor costo posible.\n\nUsa las flechas
+    de software con la mejor calidad y el menor costo posible [1].\n\nUsa las flechas
     en la parte inferior de la pantalla para avanzar o retroceder."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7974,7 +7975,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25.05
+  m_fontSize: 25.55
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -8674,7 +8675,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1695992288
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8691,7 +8692,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.7543772, y: 0.75500005}
   m_AnchorMax: {x: 0.78800005, y: 0.799}
-  m_AnchoredPosition: {x: 255.00005, y: 27.54004}
+  m_AnchoredPosition: {x: 255.00006, y: 27.54004}
   m_SizeDelta: {x: 0.67248535, y: 0.8800659}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1695992289
@@ -9310,7 +9311,7 @@ MonoBehaviour:
   m_text: "MANTENIMIENTO\n\"Acerqu\xE9monos m\xE1s a lo que queremos\"\nEl plan casi
     nunca resulta perfecto cuando se encuentra con la realidad.\nAdem\xE1s, a medida
     que cambian las condiciones en el mundo real, necesitamos actualizar y hacer
-    avanzar el software continuamente."
+    avanzar el software continuamente. [1]"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9583,7 +9584,7 @@ MonoBehaviour:
     a utilizar el producto. Muchas organizaciones optan por mover el producto a trav\xE9s
     de diferentes entornos de implementaci\xF3n, como un entorno de prueba o de ensayo
     antes de lanzarlo a producci\xF3n.\nEsto permite a las partes interesadas probar
-    de forma segura el producto antes de lanzarlo."
+    de forma segura el producto antes de lanzarlo. [1]"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9771,7 +9772,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -654.25, y: 128.38}
+  m_AnchoredPosition: {x: -654.24994, y: 128.38}
   m_SizeDelta: {x: -1506.6, y: -438.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1847164311
@@ -10383,7 +10384,7 @@ MonoBehaviour:
     tridimensional de la casa) que se refina poco a poco para que gu\xEDe la construcci\xF3n
     de cada detalle (por ejemplo, la distribuci\xF3n de la plomer\xEDa). De manera
     similar, el dise\xF1o se crea para ver el software desde varios puntos de vista
-    distintos."
+    distintos. [1]"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10477,7 +10478,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1887194162
 RectTransform:
   m_ObjectHideFlags: 0

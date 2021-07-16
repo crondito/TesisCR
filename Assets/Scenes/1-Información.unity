@@ -1124,10 +1124,12 @@ MonoBehaviour:
     [Accessed: 03-Apr-2021]. \n[4] \u201CUML Tutorial - Javatpoint,\u201D www.javatpoint.com,
     2018. [Online]. Disponible: https://www.javatpoint.com/uml. [Accessed: 05-Apr-2021].
     \n[5] J. Kramer, \"Is abstraction the key to computing?\" Communications of the
-    ACM, vol. 50, no. 4, pp. 36-42, 2007.\n\n\nPAQUETES Y LIBRER\xCDAS UTILIZADAS\n\n-
-    MaterialUI\n https://github.com/InvexGames/MaterialUI/releases/tag/v0.2.61\n-
-    Simple Tooltip\n https://assetstore.unity.com/packages/tools/gui/simple-tooltip-155804\n-
-    A Better Unity WebGL template\nhttps://github.com/greggman/better-unity-webgl-template"
+    ACM, vol. 50, no. 4, pp. 36-42, 2007.\n[6] \u201CSokoban,\u201D Wikipedia, 06-Jul-2021.
+    [Online]. Available: https://en.wikipedia.org/wiki/Sokoban#/media/File:Sokoban_ani.gif.
+    [Accessed: 16-Jul-2021]. \n\n\nPAQUETES Y LIBRER\xCDAS UTILIZADAS\n\n- MaterialUI\n
+    https://github.com/InvexGames/MaterialUI/releases/tag/v0.2.61\n- Simple Tooltip\n
+    https://assetstore.unity.com/packages/tools/gui/simple-tooltip-155804\n- A Better
+    Unity WebGL template\nhttps://github.com/greggman/better-unity-webgl-template"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1136,7 +1138,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4292466647
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
