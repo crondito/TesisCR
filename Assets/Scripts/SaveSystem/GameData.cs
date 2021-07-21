@@ -13,6 +13,7 @@ public class GameData
     public bool pasadoFig;
     public bool pasadoSoko;
     public bool pasadoAst;
+    public bool pasadoFinal;
 
     public GameData (Game game)
     {
@@ -24,5 +25,6 @@ public class GameData
         pasadoFig = game.pasadoFig;
         pasadoSoko = game.pasadoSoko;
         pasadoAst = game.pasadoAst;
+        pasadoFinal = game.pasadoFinal;
     }
 }

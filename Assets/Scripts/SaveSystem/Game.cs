@@ -12,6 +12,7 @@ public class Game : MonoBehaviour
     public bool pasadoFig = false;
     public bool pasadoSoko = false;
     public bool pasadoAst = false;
+    public bool pasadoFinal = false;
 
     public void Awake()
     {
@@ -35,6 +36,7 @@ public class Game : MonoBehaviour
         pasadoFig = data.pasadoFig;
         pasadoSoko = data.pasadoSoko;
         pasadoAst = data.pasadoAst;
+        pasadoFinal = data.pasadoFinal;
     }
 
     public void ResetGame()
@@ -47,6 +49,7 @@ public class Game : MonoBehaviour
         pasadoFig = false;
         pasadoSoko = false;
         pasadoAst = false;
+        pasadoFinal = false;
 
         SaveGame();
     }
@@ -61,6 +64,7 @@ public class Game : MonoBehaviour
         pasadoFig = true;
         pasadoSoko = true;
         pasadoAst = true;
+        pasadoFinal = true;
 
         SaveGame();
     }

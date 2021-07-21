@@ -2570,6 +2570,7 @@ MonoBehaviour:
   pasadoFig: 0
   pasadoSoko: 0
   pasadoAst: 0
+  pasadoFinal: 0
 --- !u!4 &1156778436
 Transform:
   m_ObjectHideFlags: 0
@@ -2600,6 +2601,8 @@ MonoBehaviour:
   lock2: {fileID: 1960356890}
   lock3: {fileID: 1973865766}
   lock4: {fileID: 1261561401}
+  lock5: {fileID: 826438998}
+  lock6: {fileID: 618396369}
   nextUnlock: 0
 --- !u!1 &1261561401
 GameObject:
