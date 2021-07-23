@@ -4843,7 +4843,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &100617590
 MonoBehaviour:
@@ -5783,7 +5784,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &120099641
 MonoBehaviour:
@@ -9831,7 +9833,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &177924646
 MonoBehaviour:
@@ -9923,7 +9926,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &178526209
 MonoBehaviour:
@@ -18419,7 +18423,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &330856566
 MonoBehaviour:
@@ -18605,7 +18610,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &332457378
 MonoBehaviour:
@@ -22614,7 +22620,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &414486958
 MonoBehaviour:
@@ -26080,7 +26087,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &474783980
 MonoBehaviour:
@@ -27068,7 +27076,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &494328719
 MonoBehaviour:
@@ -28861,7 +28870,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &524644265
 MonoBehaviour:
@@ -31748,7 +31758,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &579849981
 MonoBehaviour:
@@ -44064,7 +44075,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &805833323
 MonoBehaviour:
@@ -50805,7 +50817,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &927633700
 MonoBehaviour:
@@ -56188,7 +56201,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1022666153
 MonoBehaviour:
@@ -61482,7 +61496,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 291.69, y: 73.6}
+  m_AnchoredPosition: {x: 292, y: 73.6}
   m_SizeDelta: {x: 729.96, y: 119.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1129459552
@@ -65269,7 +65283,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1196989577
 MonoBehaviour:
@@ -68939,7 +68954,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 413, y: 238}
+  m_AnchoredPosition: {x: 413, y: 244}
   m_SizeDelta: {x: 260.1, y: 222.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1267201781
@@ -70551,7 +70566,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1305595797
 MonoBehaviour:
@@ -71866,7 +71882,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1338788680
 MonoBehaviour:
@@ -73064,7 +73081,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1358097766
 MonoBehaviour:
@@ -83056,7 +83074,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1540534537
 MonoBehaviour:
@@ -84158,7 +84177,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1551989111
 MonoBehaviour:
@@ -86118,7 +86138,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1582083578
 MonoBehaviour:
@@ -86792,7 +86813,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1592625419
 MonoBehaviour:
@@ -88507,7 +88529,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1640210853
 MonoBehaviour:
@@ -94562,7 +94585,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1757034293
 MonoBehaviour:
@@ -94745,7 +94769,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1757357926
 MonoBehaviour:
@@ -96311,7 +96336,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%mover()\n\n$Permite que la Celda se mueva\n\nEs m\xE9todo abstracto
-    porque su implementaci\xF3n var\xEDa en cada hijo"
+    porque no tiene implementaci\xF3n en el padre, cada hijo debe implementarlo por
+    su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1802483161
 MonoBehaviour:
@@ -105956,7 +105982,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &1989842089
 MonoBehaviour:
@@ -112261,7 +112288,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   simpleTooltipStyle: {fileID: 11400000, guid: 59b4facb7a9563f4f9b2d6a709644f0b, type: 2}
   infoLeft: "%dibujar()\n\n$Permite crear a la Celda con su forma respectiva\n\nEs
-    m\xE9todo abstracto porque su implementaci\xF3n var\xEDa en cada hijo"
+    m\xE9todo abstracto porque no tiene implementaci\xF3n en el padre, cada hijo
+    debe implementarlo por su cuenta"
   infoRight: "%M\xE9todo Abstracto"
 --- !u!114 &2105150866
 MonoBehaviour:
