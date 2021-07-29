@@ -271,6 +271,7 @@ MonoBehaviour:
   - {fileID: 6312837783886888680, guid: e4fcd78c9f1c7df46bda267cb62605ec, type: 3}
   rows: 5
   columns: 11
+  speed: 1
 --- !u!224 &324162019 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5274710508308077358, guid: 652c86cfb3ebc4945bb899300a1b1baf, type: 3}
