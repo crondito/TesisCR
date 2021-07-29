@@ -271,7 +271,30 @@ MonoBehaviour:
   - {fileID: 6312837783886888680, guid: e4fcd78c9f1c7df46bda267cb62605ec, type: 3}
   rows: 5
   columns: 11
-  speed: 1
+  speed:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -0.09918269
+      outSlope: -0.09918269
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.16081505
+    - serializedVersion: 3
+      time: 1
+      value: 6
+      inSlope: 13.416284
+      outSlope: 13.416284
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.028135002
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!224 &324162019 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5274710508308077358, guid: 652c86cfb3ebc4945bb899300a1b1baf, type: 3}
@@ -1541,7 +1564,8 @@ GameObject:
   - component: {fileID: 2000348569}
   - component: {fileID: 2000348570}
   - component: {fileID: 2000348571}
-  m_Layer: 0
+  - component: {fileID: 2000348572}
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1639,6 +1663,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.625, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &2000348572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2000348568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11e03d63f6fa48f44b72aaf93f43a0aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserPrefab: {fileID: 751913022631973283, guid: 7e0f1aadea4e028488e8da3bae811a5d, type: 3}
+  speed: 10
 --- !u!1 &2000418123
 GameObject:
   m_ObjectHideFlags: 0
