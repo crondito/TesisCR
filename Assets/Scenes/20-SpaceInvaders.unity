@@ -540,7 +540,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   missilePrefab: {fileID: 8530472765597660374, guid: 01008cd0420a18a48bf94fc2531954d6, type: 3}
-  missileAttackRate: 2
+  missileAttackRate: 1
 --- !u!1 &95814149
 GameObject:
   m_ObjectHideFlags: 0
