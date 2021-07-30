@@ -295,6 +295,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+  missilePrefab: {fileID: 8530472765597660374, guid: 01008cd0420a18a48bf94fc2531954d6, type: 3}
+  missileAttackRate: 2
 --- !u!224 &324162019 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5274710508308077358, guid: 652c86cfb3ebc4945bb899300a1b1baf, type: 3}
@@ -589,7 +591,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 66.8999, y: -63.00006}
+  m_AnchoredPosition: {x: 66.8999, y: -63.000122}
   m_SizeDelta: {x: 83.79982, y: 76.00006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &539267802
