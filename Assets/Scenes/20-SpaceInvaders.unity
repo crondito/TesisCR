@@ -662,6 +662,7 @@ GameObject:
   - component: {fileID: 571657626}
   - component: {fileID: 571657627}
   - component: {fileID: 571657628}
+  - component: {fileID: 571657629}
   m_Layer: 0
   m_Name: Bunker
   m_TagString: Untagged
@@ -760,6 +761,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.625, y: 2}
   m_EdgeRadius: 0
+--- !u!114 &571657629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 571657625}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7337c7605b7dcbd46a38fbb00286a152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &622757369
 GameObject:
   m_ObjectHideFlags: 0
@@ -846,6 +859,7 @@ GameObject:
   - component: {fileID: 674655338}
   - component: {fileID: 674655340}
   - component: {fileID: 674655339}
+  - component: {fileID: 674655341}
   m_Layer: 0
   m_Name: Bunker (3)
   m_TagString: Untagged
@@ -944,6 +958,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &674655341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 674655337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7337c7605b7dcbd46a38fbb00286a152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &947191527
 GameObject:
   m_ObjectHideFlags: 0
@@ -955,6 +981,7 @@ GameObject:
   - component: {fileID: 947191528}
   - component: {fileID: 947191530}
   - component: {fileID: 947191529}
+  - component: {fileID: 947191531}
   m_Layer: 0
   m_Name: Bunker (2)
   m_TagString: Untagged
@@ -1053,6 +1080,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &947191531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947191527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7337c7605b7dcbd46a38fbb00286a152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1016209430
 GameObject:
   m_ObjectHideFlags: 0
@@ -1391,6 +1430,7 @@ GameObject:
   - component: {fileID: 1893028163}
   - component: {fileID: 1893028165}
   - component: {fileID: 1893028164}
+  - component: {fileID: 1893028166}
   m_Layer: 0
   m_Name: Bunker (1)
   m_TagString: Untagged
@@ -1489,6 +1529,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1893028166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893028162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7337c7605b7dcbd46a38fbb00286a152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1972056085
 GameObject:
   m_ObjectHideFlags: 0

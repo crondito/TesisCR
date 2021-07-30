@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class Proyectile : MonoBehaviour
 {
@@ -13,7 +14,18 @@ public class Proyectile : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(this.destroyed != null)
+        SelfDestroy();
+    }
+
+    private void Start()
+    {
+        
+        Invoke("SelfDestroy", 1.0f);
+    }
+
+    private void SelfDestroy()
+    {
+        if (this.destroyed != null)
         {
             this.destroyed.Invoke();
         }

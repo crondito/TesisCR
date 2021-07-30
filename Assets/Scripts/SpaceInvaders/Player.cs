@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -6,7 +7,7 @@ public class Player : MonoBehaviour
     
     public float speed = 5.0f;
 
-    private bool _laserActive;
+    private bool _laserActive = false;
 
     private void Update()
     {
@@ -40,5 +41,14 @@ public class Player : MonoBehaviour
     private void LaserDestroyed()
     {
         _laserActive = false;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Invader") ||
+            collision.gameObject.layer == LayerMask.NameToLayer("Missile"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 }
