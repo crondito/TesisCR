@@ -56,4 +56,14 @@ public class SoundManagerScript : MonoBehaviour
         }
         s.source.Pause();
     }
+
+    public bool CheckIfPlaying(string name)
+    {
+        Sound s = Array.Find(sounds, sound => sound.name == name);
+        if (s == null)
+        {
+            Debug.LogWarning("Sound: " + name + " not found!");
+        }
+        return s.source.isPlaying;
+    }
 }
