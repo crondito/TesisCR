@@ -4,6 +4,7 @@ public class Invader : MonoBehaviour
 {
     public Sprite[] animationSprites;
     public float animationTime = 1.0f;
+    public int score = 30;
 
     public System.Action killed;
 
@@ -38,6 +39,7 @@ public class Invader : MonoBehaviour
         {
             this.killed.Invoke();
             this.gameObject.SetActive(false);
+            FindObjectOfType<GameManager>().AddPuntos(score);
         }
     }
 }

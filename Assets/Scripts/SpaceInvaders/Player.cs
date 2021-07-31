@@ -53,10 +53,22 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.layer == LayerMask.NameToLayer("Invader") ||
-            collision.gameObject.layer == LayerMask.NameToLayer("Missile"))
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Invader"))
+            
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
+        else if (collision.gameObject.layer == LayerMask.NameToLayer("Missile"))
+        {
+            FindObjectOfType<GameManager>().QuitarVida();
+            this.gameObject.SetActive(false);
+            Invoke("Respawn", 1.0f);
+        }
+    }
+
+    private void Respawn()
+    {
+        this.transform.position.Set( 0f, -13.0f, 0f);
+        this.gameObject.SetActive(true);
     }
 }

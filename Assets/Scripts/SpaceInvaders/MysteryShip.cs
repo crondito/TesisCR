@@ -20,8 +20,8 @@ public class MysteryShip : MonoBehaviour
     /// <summary>
     /// The amount of points the mystery ship is worth when killed.
     /// </summary>
-    /*[Tooltip("The amount of points the mystery ship is worth when killed.")]
-    public int score = 300;*/
+    [Tooltip("The amount of points the mystery ship is worth when killed.")]
+    public int score = 30;
 
     /// <summary>
     /// The callback invoked when the mystery ship is killed.
@@ -151,6 +151,7 @@ public class MysteryShip : MonoBehaviour
         {
             Despawn();
             this.killed?.Invoke(this);
+            FindObjectOfType<GameManager>().AddPuntos(score);
         }
     }
 
