@@ -94,8 +94,8 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: Explotion3
     clip: {fileID: 8300000, guid: 3527a20eea7e732478dc21d7adbb1dc8, type: 3}
-    volume: 0.6
-    pitch: 0.5
+    volume: 0.1
+    pitch: 3
     loop: 0
     source: {fileID: 0}
   - name: Success
