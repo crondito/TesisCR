@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -56,13 +55,23 @@ public class Player : MonoBehaviour
         if (collision.gameObject.layer == LayerMask.NameToLayer("Invader"))
             
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            FindObjectOfType<GameManager>().vidasTanque = 0;
+            FindObjectOfType<GameManager>().UpdateVidas();
+            FindObjectOfType<GameManager>().WipeBoard();
         }
         else if (collision.gameObject.layer == LayerMask.NameToLayer("Missile"))
         {
             FindObjectOfType<GameManager>().QuitarVida();
             this.gameObject.SetActive(false);
-            Invoke("Respawn", 1.0f);
+            if(FindObjectOfType<GameManager>().vidasTanque > 0)
+            {
+                Invoke("Respawn", 1.0f);
+            }
+            else if (FindObjectOfType<GameManager>().vidasTanque <= 0)
+            {
+                FindObjectOfType<GameManager>().WipeBoard();
+            }
+            
         }
     }
 

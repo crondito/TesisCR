@@ -20,7 +20,7 @@ public class Proyectile : MonoBehaviour
     private void Start()
     {
         
-        Invoke("SelfDestroy", 1.0f);
+        Invoke("SelfDestroy", 1.5f);
     }
 
     private void SelfDestroy()
