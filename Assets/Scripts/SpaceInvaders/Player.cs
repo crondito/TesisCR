@@ -42,6 +42,7 @@ public class Player : MonoBehaviour
             Proyectile projectile = Instantiate(this.laserPrefab, this.transform.position, Quaternion.identity);
             projectile.destroyed += LaserDestroyed;
             _laserActive = true;
+            FindObjectOfType<SoundManagerScript>().Play("Laser");
         }
     }
 
@@ -71,8 +72,8 @@ public class Player : MonoBehaviour
             {
                 FindObjectOfType<GameManager>().WipeBoard();
             }
-            
         }
+        FindObjectOfType<SoundManagerScript>().Play("Explotion2");
     }
 
     private void Respawn()

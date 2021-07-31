@@ -74,10 +74,28 @@ MonoBehaviour:
     pitch: 1
     loop: 0
     source: {fileID: 0}
+  - name: Laser2
+    clip: {fileID: 8300000, guid: 9871094027917fa4eb81a8bed5024469, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
   - name: Explotion
     clip: {fileID: 8300000, guid: 0794b9c66eea6c54281919a63b697fea, type: 3}
     volume: 0.5
     pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Explotion2
+    clip: {fileID: 8300000, guid: eca4ee3d3b41b7a4190bb69058380506, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Explotion3
+    clip: {fileID: 8300000, guid: 3527a20eea7e732478dc21d7adbb1dc8, type: 3}
+    volume: 0.6
+    pitch: 0.5
     loop: 0
     source: {fileID: 0}
   - name: Success

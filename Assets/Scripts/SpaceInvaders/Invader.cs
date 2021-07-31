@@ -40,6 +40,7 @@ public class Invader : MonoBehaviour
             this.killed.Invoke();
             this.gameObject.SetActive(false);
             FindObjectOfType<GameManager>().AddPuntos(score);
+            FindObjectOfType<SoundManagerScript>().Play("Explotion");
         }
     }
 }

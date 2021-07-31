@@ -152,6 +152,8 @@ public class MysteryShip : MonoBehaviour
             Despawn();
             this.killed?.Invoke(this);
             FindObjectOfType<GameManager>().AddPuntos(score);
+            FindObjectOfType<SoundManagerScript>().Play("Explotion");
+            FindObjectOfType<SoundManagerScript>().Play("Success");
         }
     }
 

@@ -18,5 +18,6 @@ public class Bunker : MonoBehaviour
         {
             this.gameObject.SetActive(false);
         }
+        FindObjectOfType<SoundManagerScript>().Play("Explotion3");
     }
 }

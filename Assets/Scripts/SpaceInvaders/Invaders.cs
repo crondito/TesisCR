@@ -89,6 +89,7 @@ public class Invaders : MonoBehaviour
             if (Random.value < (1.0f / (float)this.amountAlive))
             {
                 Instantiate(this.missilePrefab, invader.position, Quaternion.identity);
+                FindObjectOfType<SoundManagerScript>().Play("Laser2");
                 break;
             }
         }

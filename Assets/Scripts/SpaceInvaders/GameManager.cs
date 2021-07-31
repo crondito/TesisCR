@@ -46,10 +46,12 @@ public class GameManager : MonoBehaviour
         if (this.vidasTanque <= 0)
         {
             lose.SetActive(true);
+            FindObjectOfType<SoundManagerScript>().Play("Failure2");
         }
         else
         {
             win.SetActive(true);
+            FindObjectOfType<SoundManagerScript>().Play("Success2");
         }
     }
 
