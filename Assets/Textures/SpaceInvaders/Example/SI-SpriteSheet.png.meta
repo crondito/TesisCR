@@ -1,0 +1,6216 @@
+fileFormatVersion: 2
+guid: 941c6ab389723ab43bc97e7b7b17b0c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6436812528715006299
+    second: SI-SpriteSheet_0
+  - first:
+      213: 7938960140301932829
+    second: SI-SpriteSheet_1
+  - first:
+      213: -4855439578173598757
+    second: SI-SpriteSheet_2
+  - first:
+      213: 8010783945345049922
+    second: SI-SpriteSheet_3
+  - first:
+      213: -92207020161600975
+    second: SI-SpriteSheet_4
+  - first:
+      213: -6585065102271058711
+    second: SI-SpriteSheet_5
+  - first:
+      213: -5714683079302212399
+    second: SI-SpriteSheet_6
+  - first:
+      213: 4635852992197966473
+    second: SI-SpriteSheet_7
+  - first:
+      213: -3677286378537605575
+    second: SI-SpriteSheet_8
+  - first:
+      213: 2654117181949436324
+    second: SI-SpriteSheet_9
+  - first:
+      213: -1633391705114732892
+    second: SI-SpriteSheet_10
+  - first:
+      213: 7947752686445046265
+    second: SI-SpriteSheet_11
+  - first:
+      213: -1134547901017078547
+    second: SI-SpriteSheet_12
+  - first:
+      213: -1883717730938990644
+    second: SI-SpriteSheet_13
+  - first:
+      213: 3651014903117977129
+    second: SI-SpriteSheet_14
+  - first:
+      213: -130286613047894342
+    second: SI-SpriteSheet_15
+  - first:
+      213: -5882528270871694607
+    second: SI-SpriteSheet_16
+  - first:
+      213: 7156835721623713902
+    second: SI-SpriteSheet_17
+  - first:
+      213: 7599640505583253142
+    second: SI-SpriteSheet_18
+  - first:
+      213: 7992220151727512083
+    second: SI-SpriteSheet_19
+  - first:
+      213: 4809292357217521874
+    second: SI-SpriteSheet_20
+  - first:
+      213: -1630439157598640950
+    second: SI-SpriteSheet_21
+  - first:
+      213: -4669997931134790907
+    second: SI-SpriteSheet_22
+  - first:
+      213: -4226044269625894834
+    second: SI-SpriteSheet_23
+  - first:
+      213: 4790799886952590351
+    second: SI-SpriteSheet_24
+  - first:
+      213: -237538477132257850
+    second: SI-SpriteSheet_25
+  - first:
+      213: 2657255573041831562
+    second: SI-SpriteSheet_26
+  - first:
+      213: -2766604743840588872
+    second: SI-SpriteSheet_27
+  - first:
+      213: 541664299697209545
+    second: SI-SpriteSheet_28
+  - first:
+      213: 8687310193420158519
+    second: SI-SpriteSheet_29
+  - first:
+      213: -1404455495405736444
+    second: SI-SpriteSheet_30
+  - first:
+      213: 2492252933918222340
+    second: SI-SpriteSheet_31
+  - first:
+      213: 570183138240163120
+    second: SI-SpriteSheet_32
+  - first:
+      213: -7016877353641038601
+    second: SI-SpriteSheet_33
+  - first:
+      213: -3790963490278011148
+    second: SI-SpriteSheet_34
+  - first:
+      213: -3101447387691804470
+    second: SI-SpriteSheet_35
+  - first:
+      213: -7622668845614002210
+    second: SI-SpriteSheet_36
+  - first:
+      213: 2979785531053568852
+    second: SI-SpriteSheet_37
+  - first:
+      213: 2831991371438855582
+    second: SI-SpriteSheet_38
+  - first:
+      213: 2510140520991017033
+    second: SI-SpriteSheet_39
+  - first:
+      213: 7290761003194758180
+    second: SI-SpriteSheet_40
+  - first:
+      213: -3982027793281994371
+    second: SI-SpriteSheet_41
+  - first:
+      213: -640938696502534726
+    second: SI-SpriteSheet_42
+  - first:
+      213: -2574910204891456147
+    second: SI-SpriteSheet_43
+  - first:
+      213: 5186352219905322984
+    second: SI-SpriteSheet_44
+  - first:
+      213: 6855622839244853726
+    second: SI-SpriteSheet_45
+  - first:
+      213: 885852213161927805
+    second: SI-SpriteSheet_46
+  - first:
+      213: 2969806257728885991
+    second: SI-SpriteSheet_47
+  - first:
+      213: -5814099829423258125
+    second: SI-SpriteSheet_48
+  - first:
+      213: -3510514407202323970
+    second: SI-SpriteSheet_49
+  - first:
+      213: -5587536051468486795
+    second: SI-SpriteSheet_50
+  - first:
+      213: -7862669385986684654
+    second: SI-SpriteSheet_51
+  - first:
+      213: 661442954326690793
+    second: SI-SpriteSheet_52
+  - first:
+      213: -4344514681566038492
+    second: SI-SpriteSheet_53
+  - first:
+      213: 4141825605432965488
+    second: SI-SpriteSheet_54
+  - first:
+      213: 1747453574250467248
+    second: SI-SpriteSheet_55
+  - first:
+      213: -4078668959551394936
+    second: SI-SpriteSheet_56
+  - first:
+      213: 1756550273520660187
+    second: SI-SpriteSheet_57
+  - first:
+      213: 6874444713814043164
+    second: SI-SpriteSheet_58
+  - first:
+      213: 3218094322408017665
+    second: SI-SpriteSheet_59
+  - first:
+      213: 1533631879898835875
+    second: SI-SpriteSheet_60
+  - first:
+      213: 1230073742359422659
+    second: SI-SpriteSheet_61
+  - first:
+      213: 8808652983285809850
+    second: SI-SpriteSheet_62
+  - first:
+      213: 3248731115945447251
+    second: SI-SpriteSheet_63
+  - first:
+      213: 2077127382527590105
+    second: SI-SpriteSheet_64
+  - first:
+      213: -7691959301940011952
+    second: SI-SpriteSheet_65
+  - first:
+      213: 3730149344402147761
+    second: SI-SpriteSheet_66
+  - first:
+      213: -1998630782691517503
+    second: SI-SpriteSheet_67
+  - first:
+      213: 2672009264859153015
+    second: SI-SpriteSheet_68
+  - first:
+      213: -5073456075784311578
+    second: SI-SpriteSheet_69
+  - first:
+      213: 9172421816757382141
+    second: SI-SpriteSheet_70
+  - first:
+      213: -7852712666659154721
+    second: SI-SpriteSheet_71
+  - first:
+      213: -9078525308453189784
+    second: SI-SpriteSheet_72
+  - first:
+      213: -646949287059036793
+    second: SI-SpriteSheet_73
+  - first:
+      213: -3286493751648223518
+    second: SI-SpriteSheet_74
+  - first:
+      213: 1185945352410933522
+    second: SI-SpriteSheet_75
+  - first:
+      213: -3493584519414875572
+    second: SI-SpriteSheet_76
+  - first:
+      213: 1111722712841191318
+    second: SI-SpriteSheet_77
+  - first:
+      213: 2364246882369095465
+    second: SI-SpriteSheet_78
+  - first:
+      213: 2640813575968087468
+    second: SI-SpriteSheet_79
+  - first:
+      213: 7919158688638442820
+    second: SI-SpriteSheet_80
+  - first:
+      213: -8580826760560844905
+    second: SI-SpriteSheet_81
+  - first:
+      213: 1106991238915800490
+    second: SI-SpriteSheet_82
+  - first:
+      213: 8431322688199950676
+    second: SI-SpriteSheet_83
+  - first:
+      213: 1854399403720953751
+    second: SI-SpriteSheet_84
+  - first:
+      213: -5092586779518219761
+    second: SI-SpriteSheet_85
+  - first:
+      213: 5385808094465217114
+    second: SI-SpriteSheet_86
+  - first:
+      213: -8990261529306068696
+    second: SI-SpriteSheet_87
+  - first:
+      213: -6185518537451477924
+    second: SI-SpriteSheet_88
+  - first:
+      213: -9041267247943588982
+    second: SI-SpriteSheet_89
+  - first:
+      213: 4218965943926135915
+    second: SI-SpriteSheet_90
+  - first:
+      213: 2167330017599450348
+    second: SI-SpriteSheet_91
+  - first:
+      213: -6152189045147056606
+    second: SI-SpriteSheet_92
+  - first:
+      213: -2728826742498889598
+    second: SI-SpriteSheet_93
+  - first:
+      213: 240784286413477961
+    second: SI-SpriteSheet_94
+  - first:
+      213: -4005924150322542646
+    second: SI-SpriteSheet_95
+  - first:
+      213: -1436062158741813877
+    second: SI-SpriteSheet_96
+  - first:
+      213: 2125955986377538804
+    second: SI-SpriteSheet_97
+  - first:
+      213: -6819357313574423309
+    second: SI-SpriteSheet_98
+  - first:
+      213: 1045085010038858646
+    second: SI-SpriteSheet_99
+  - first:
+      213: 4605307049128770139
+    second: SI-SpriteSheet_100
+  - first:
+      213: -2116458778944436663
+    second: SI-SpriteSheet_101
+  - first:
+      213: 1571831535666803573
+    second: SI-SpriteSheet_102
+  - first:
+      213: -3017727911819902195
+    second: SI-SpriteSheet_103
+  - first:
+      213: 6660431830077427175
+    second: SI-SpriteSheet_104
+  - first:
+      213: -1566433673183777747
+    second: SI-SpriteSheet_105
+  - first:
+      213: -4068048496990614370
+    second: SI-SpriteSheet_106
+  - first:
+      213: -6349099499159129525
+    second: SI-SpriteSheet_107
+  - first:
+      213: 164267430921802444
+    second: SI-SpriteSheet_108
+  - first:
+      213: -198591208457921942
+    second: SI-SpriteSheet_109
+  - first:
+      213: 3122911781375286520
+    second: SI-SpriteSheet_110
+  - first:
+      213: -284024699830110207
+    second: SI-SpriteSheet_111
+  - first:
+      213: -691780987466244521
+    second: SI-SpriteSheet_112
+  - first:
+      213: 3476377273723852483
+    second: SI-SpriteSheet_113
+  - first:
+      213: 6823041248433643402
+    second: SI-SpriteSheet_114
+  - first:
+      213: 3005357973153792474
+    second: SI-SpriteSheet_115
+  - first:
+      213: -2013182878280691378
+    second: SI-SpriteSheet_116
+  - first:
+      213: 8696139023450447925
+    second: SI-SpriteSheet_117
+  - first:
+      213: 6028933162514794250
+    second: SI-SpriteSheet_118
+  - first:
+      213: -1604515283531054179
+    second: SI-SpriteSheet_119
+  - first:
+      213: -5859719815306124605
+    second: SI-SpriteSheet_120
+  - first:
+      213: -7699503319508833078
+    second: SI-SpriteSheet_121
+  - first:
+      213: 4432390682459743960
+    second: SI-SpriteSheet_122
+  - first:
+      213: 6217720537119648793
+    second: SI-SpriteSheet_123
+  - first:
+      213: 4078486599676938579
+    second: SI-SpriteSheet_124
+  - first:
+      213: -6070150104242700722
+    second: SI-SpriteSheet_125
+  - first:
+      213: -3611771485775022285
+    second: SI-SpriteSheet_126
+  - first:
+      213: -6480419499092696973
+    second: SI-SpriteSheet_127
+  - first:
+      213: -2527302656093299392
+    second: SI-SpriteSheet_128
+  - first:
+      213: -9115571331950193707
+    second: SI-SpriteSheet_129
+  - first:
+      213: -5122082658511095151
+    second: SI-SpriteSheet_130
+  - first:
+      213: -3243447705961653027
+    second: SI-SpriteSheet_131
+  - first:
+      213: -7179629127072438322
+    second: SI-SpriteSheet_132
+  - first:
+      213: -5534519608285408664
+    second: SI-SpriteSheet_133
+  - first:
+      213: -132380208759737029
+    second: SI-SpriteSheet_134
+  - first:
+      213: 46412444952583169
+    second: SI-SpriteSheet_135
+  - first:
+      213: 743595137006273914
+    second: SI-SpriteSheet_136
+  - first:
+      213: 238844903477333195
+    second: SI-SpriteSheet_137
+  - first:
+      213: -7902913492195934665
+    second: SI-SpriteSheet_138
+  - first:
+      213: -6830363916831055443
+    second: SI-SpriteSheet_139
+  - first:
+      213: 5265810961171658454
+    second: SI-SpriteSheet_140
+  - first:
+      213: 3410293583529246752
+    second: SI-SpriteSheet_141
+  - first:
+      213: 3959861541589216521
+    second: SI-SpriteSheet_142
+  - first:
+      213: -2769644109077132652
+    second: SI-SpriteSheet_143
+  - first:
+      213: -1189570863520700131
+    second: SI-SpriteSheet_144
+  - first:
+      213: 5800067875948288696
+    second: SI-SpriteSheet_145
+  - first:
+      213: -70957724519756347
+    second: SI-SpriteSheet_146
+  - first:
+      213: 7297632039648104895
+    second: SI-SpriteSheet_147
+  - first:
+      213: 8961840519708818533
+    second: SI-SpriteSheet_148
+  - first:
+      213: 8521702099759236833
+    second: SI-SpriteSheet_149
+  - first:
+      213: 1895389903065742872
+    second: SI-SpriteSheet_150
+  - first:
+      213: 5120893134559574580
+    second: SI-SpriteSheet_151
+  - first:
+      213: 4095144111879996052
+    second: SI-SpriteSheet_152
+  - first:
+      213: -7282160821315882974
+    second: SI-SpriteSheet_153
+  - first:
+      213: 4592726655044136055
+    second: SI-SpriteSheet_154
+  - first:
+      213: 3207219027859110162
+    second: SI-SpriteSheet_155
+  - first:
+      213: -3122519176782746408
+    second: SI-SpriteSheet_156
+  - first:
+      213: -5837775893094045421
+    second: SI-SpriteSheet_157
+  - first:
+      213: 7611515770529293508
+    second: SI-SpriteSheet_158
+  - first:
+      213: 3944892870991093516
+    second: SI-SpriteSheet_159
+  - first:
+      213: -9186403744543313329
+    second: SI-SpriteSheet_160
+  - first:
+      213: 4114258507186507999
+    second: SI-SpriteSheet_161
+  - first:
+      213: 210913700900866827
+    second: SI-SpriteSheet_162
+  - first:
+      213: -5712504901643305697
+    second: SI-SpriteSheet_163
+  - first:
+      213: 394716769462927214
+    second: SI-SpriteSheet_164
+  - first:
+      213: -3262004328126371874
+    second: SI-SpriteSheet_165
+  - first:
+      213: 1920621464888009016
+    second: SI-SpriteSheet_166
+  - first:
+      213: 9178345802189146670
+    second: SI-SpriteSheet_167
+  - first:
+      213: 1750554385974327228
+    second: SI-SpriteSheet_168
+  - first:
+      213: -1625611265722635358
+    second: SI-SpriteSheet_169
+  - first:
+      213: 976281734526304196
+    second: SI-SpriteSheet_170
+  - first:
+      213: -7613122299040177414
+    second: SI-SpriteSheet_171
+  - first:
+      213: -3069631041239955134
+    second: SI-SpriteSheet_172
+  - first:
+      213: -2120689132270778961
+    second: SI-SpriteSheet_173
+  - first:
+      213: 6162010373361839336
+    second: SI-SpriteSheet_174
+  - first:
+      213: 3447438427575192877
+    second: SI-SpriteSheet_175
+  - first:
+      213: 1500837508050943562
+    second: SI-SpriteSheet_176
+  - first:
+      213: -6961682591012872884
+    second: SI-SpriteSheet_177
+  - first:
+      213: -5805455954718256431
+    second: SI-SpriteSheet_178
+  - first:
+      213: -6839625369484196914
+    second: SI-SpriteSheet_179
+  - first:
+      213: -1726286462196492344
+    second: SI-SpriteSheet_180
+  - first:
+      213: 1679400182665646045
+    second: SI-SpriteSheet_181
+  - first:
+      213: 6314631048957690892
+    second: SI-SpriteSheet_182
+  - first:
+      213: 5622851473030730792
+    second: SI-SpriteSheet_183
+  - first:
+      213: 7641532990387662828
+    second: SI-SpriteSheet_184
+  - first:
+      213: -2866771735842781383
+    second: SI-SpriteSheet_185
+  - first:
+      213: -3174049998584911809
+    second: SI-SpriteSheet_186
+  - first:
+      213: -2084066375439199246
+    second: SI-SpriteSheet_187
+  - first:
+      213: 8784950130712617729
+    second: SI-SpriteSheet_188
+  - first:
+      213: -8794107203007295493
+    second: SI-SpriteSheet_189
+  - first:
+      213: -74382969303462272
+    second: SI-SpriteSheet_190
+  - first:
+      213: -3511309922023062870
+    second: SI-SpriteSheet_191
+  - first:
+      213: -7735957876758912874
+    second: SI-SpriteSheet_192
+  - first:
+      213: 643394866163713096
+    second: SI-SpriteSheet_193
+  - first:
+      213: -5648131597413552580
+    second: SI-SpriteSheet_194
+  - first:
+      213: 6738131899954462060
+    second: SI-SpriteSheet_195
+  - first:
+      213: -5784043380347084306
+    second: SI-SpriteSheet_196
+  - first:
+      213: -2433578246110543519
+    second: SI-SpriteSheet_197
+  - first:
+      213: -2093033980428337257
+    second: SI-SpriteSheet_198
+  - first:
+      213: -6352241650810050655
+    second: SI-SpriteSheet_199
+  - first:
+      213: -6721819565518436986
+    second: SI-SpriteSheet_200
+  - first:
+      213: 326507660264465427
+    second: SI-SpriteSheet_201
+  - first:
+      213: 3266562860212166293
+    second: SI-SpriteSheet_202
+  - first:
+      213: -8102075117376600780
+    second: SI-SpriteSheet_203
+  - first:
+      213: -2596651418397017906
+    second: SI-SpriteSheet_204
+  - first:
+      213: 7501538199114882759
+    second: SI-SpriteSheet_205
+  - first:
+      213: 3735449703519372179
+    second: SI-SpriteSheet_206
+  - first:
+      213: -1118175748444219074
+    second: SI-SpriteSheet_207
+  - first:
+      213: 7759149704497013934
+    second: SI-SpriteSheet_208
+  - first:
+      213: 5869272313911418117
+    second: SI-SpriteSheet_209
+  - first:
+      213: 4123453537648764955
+    second: SI-SpriteSheet_210
+  - first:
+      213: 4620193726255233604
+    second: SI-SpriteSheet_211
+  - first:
+      213: -2083590363590377917
+    second: SI-SpriteSheet_212
+  - first:
+      213: -6952161019037819134
+    second: SI-SpriteSheet_213
+  - first:
+      213: 944470679321043739
+    second: SI-SpriteSheet_214
+  - first:
+      213: -7431949529677608183
+    second: SI-SpriteSheet_215
+  - first:
+      213: -3350129630868223917
+    second: SI-SpriteSheet_216
+  - first:
+      213: 5668385266406007766
+    second: SI-SpriteSheet_217
+  - first:
+      213: 8599650707588862521
+    second: SI-SpriteSheet_218
+  - first:
+      213: 2848905266692069473
+    second: SI-SpriteSheet_219
+  - first:
+      213: 3452986174444393672
+    second: SI-SpriteSheet_220
+  - first:
+      213: -1080298811100343407
+    second: SI-SpriteSheet_221
+  - first:
+      213: 3267626789760375010
+    second: SI-SpriteSheet_222
+  - first:
+      213: 3042103540446658900
+    second: SI-SpriteSheet_223
+  - first:
+      213: -7846413563007931663
+    second: SI-SpriteSheet_224
+  - first:
+      213: 4991453376953188021
+    second: SI-SpriteSheet_225
+  - first:
+      213: -3820683701964277606
+    second: SI-SpriteSheet_226
+  - first:
+      213: -1826467663736990945
+    second: SI-SpriteSheet_227
+  - first:
+      213: -8639161135013151561
+    second: SI-SpriteSheet_228
+  - first:
+      213: 6068232296193006140
+    second: SI-SpriteSheet_229
+  - first:
+      213: 5371723916182610262
+    second: SI-SpriteSheet_230
+  - first:
+      213: 5260620637957395465
+    second: SI-SpriteSheet_231
+  - first:
+      213: -2397313042182866652
+    second: SI-SpriteSheet_232
+  - first:
+      213: -227695350908495889
+    second: SI-SpriteSheet_233
+  - first:
+      213: 6705957311187693097
+    second: SI-SpriteSheet_234
+  - first:
+      213: -7946837369072040393
+    second: SI-SpriteSheet_235
+  - first:
+      213: -2783954339821819304
+    second: SI-SpriteSheet_236
+  - first:
+      213: 3300429900363585587
+    second: SI-SpriteSheet_237
+  - first:
+      213: -1437836136355838046
+    second: SI-SpriteSheet_238
+  - first:
+      213: -280832495439946993
+    second: SI-SpriteSheet_239
+  - first:
+      213: 170949426569914077
+    second: SI-SpriteSheet_240
+  - first:
+      213: 9094490750777564941
+    second: SI-SpriteSheet_241
+  - first:
+      213: 9218996961443191979
+    second: SI-SpriteSheet_242
+  - first:
+      213: 3894589410443352631
+    second: SI-SpriteSheet_243
+  - first:
+      213: 4032436267236893659
+    second: SI-SpriteSheet_244
+  - first:
+      213: 410875252280485871
+    second: SI-SpriteSheet_245
+  - first:
+      213: -5218187493491858621
+    second: SI-SpriteSheet_246
+  - first:
+      213: 3352981936655196346
+    second: SI-SpriteSheet_247
+  - first:
+      213: 2976403472381925545
+    second: SI-SpriteSheet_248
+  - first:
+      213: -4899881139111248511
+    second: SI-SpriteSheet_249
+  - first:
+      213: -7090274411562134987
+    second: SI-SpriteSheet_250
+  - first:
+      213: -4548063196071279366
+    second: SI-SpriteSheet_251
+  - first:
+      213: 8271667352002708228
+    second: SI-SpriteSheet_252
+  - first:
+      213: -5491143672792828328
+    second: SI-SpriteSheet_253
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SI-SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5187d324e6245950800000000000000
+      internalID: 6436812528715006299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d199ea86f2adc2e60800000000000000
+      internalID: 7938960140301932829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3179acd630e9cb0800000000000000
+      internalID: -4855439578173598757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a1ba2e850c2f60800000000000000
+      internalID: 8010783945345049922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1327875243a68bef0800000000000000
+      internalID: -92207020161600975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecef4cbd262d94a0800000000000000
+      internalID: -6585065102271058711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4914e540e51b0b0800000000000000
+      internalID: -5714683079302212399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a34ee0cbbd55040800000000000000
+      internalID: 4635852992197966473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93622e59587a7fcc0800000000000000
+      internalID: -3677286378537605575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a16b5ec38155d420800000000000000
+      internalID: 2654117181949436324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a61195f5e60559e0800000000000000
+      internalID: -1633391705114732892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a63695f61c4e60800000000000000
+      internalID: 7947752686445046265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44633f1b64140f0800000000000000
+      internalID: -1134547901017078547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfc64e34b0bbd5e0800000000000000
+      internalID: -1883717730938990644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5408
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261102e5b20ba230800000000000000
+      internalID: 3651014903117977129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe9a460401213ef0800000000000000
+      internalID: -130286613047894342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ff7164bf0d5ea0800000000000000
+      internalID: -5882528270871694607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6835379b20325360800000000000000
+      internalID: 7156835721623713902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b5f376c8577960800000000000000
+      internalID: 7599640505583253142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31adf6622e11aee60800000000000000
+      internalID: 7992220151727512083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d093fc0be90eb240800000000000000
+      internalID: 4809292357217521874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4227f79348f59e0800000000000000
+      internalID: -1630439157598640950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d6e4df95d03fb0800000000000000
+      internalID: -4669997931134790907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489fd790231a55c0800000000000000
+      internalID: -4226044269625894834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6acb4d175c7240800000000000000
+      internalID: 4790799886952590351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c56b0a730814bcf0800000000000000
+      internalID: -237538477132257850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ed59c6dd770e420800000000000000
+      internalID: 2657255573041831562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9871c4ab0b99d0800000000000000
+      internalID: -2766604743840588872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c086fa8fc0648700800000000000000
+      internalID: 541664299697209545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5070
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7364074f7968f8870800000000000000
+      internalID: 8687310193420158519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eee750b2f528ce0800000000000000
+      internalID: -1404455495405736444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408ee90c6d2469220800000000000000
+      internalID: 2492252933918222340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03de8b31b82b9e700800000000000000
+      internalID: 570183138240163120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2ebf493b0f9e90800000000000000
+      internalID: -7016877353641038601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe018d7acac36bc0800000000000000
+      internalID: -3790963490278011148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac81117780275f4d0800000000000000
+      internalID: -3101447387691804470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8db05217d63690800000000000000
+      internalID: -7622668845614002210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453fb4527235a5920800000000000000
+      internalID: 2979785531053568852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e959595d5214d4720800000000000000
+      internalID: 2831991371438855582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948cbf9218fc5d220800000000000000
+      internalID: 2510140520991017033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b1b9118cfd2560800000000000000
+      internalID: 7290761003194758180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b1b7d1defcb8c0800000000000000
+      internalID: -3982027793281994371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd1a20c6adea17f0800000000000000
+      internalID: -640938696502534726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d9ae4afc4144cd0800000000000000
+      internalID: -2574910204891456147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4732
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe3839ddf99f740800000000000000
+      internalID: 5186352219905322984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19e3f46a0142f50800000000000000
+      internalID: 6855622839244853726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a209f4ed2b4c00800000000000000
+      internalID: 885852213161927805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e499a38e0fd63920800000000000000
+      internalID: 2969806257728885991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f54192720b205fa0800000000000000
+      internalID: -5814099829423258125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef180d30fb5284fc0800000000000000
+      internalID: -3510514407202323970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773882b0951572b0800000000000000
+      internalID: -5587536051468486795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219cce50adf22e290800000000000000
+      internalID: -7862669385986684654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc3dbccdaed2900800000000000000
+      internalID: 661442954326690793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42679c35aee25b3c0800000000000000
+      internalID: -4344514681566038492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f27d9178ba7930800000000000000
+      internalID: 4141825605432965488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8fa274c3304810800000000000000
+      internalID: 1747453574250467248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be685e038a567c0800000000000000
+      internalID: -4078668959551394936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde605bca25806810800000000000000
+      internalID: 1756550273520660187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aa2fa7b0fe66f50800000000000000
+      internalID: 6874444713814043164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4394
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc4dc6cb7f8ac20800000000000000
+      internalID: 3218094322408017665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba599b11e884510800000000000000
+      internalID: 1533631879898835875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66edc2d89121110800000000000000
+      internalID: 1230073742359422659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28f62d73f9e3a70800000000000000
+      internalID: 8808652983285809850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fcfa8ccbfc51d20800000000000000
+      internalID: 3248731115945447251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de3bcc695073dc10800000000000000
+      internalID: 2077127382527590105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9a15c4cba04590800000000000000
+      internalID: -7691959301940011952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b90f38c01724c330800000000000000
+      internalID: 3730149344402147761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbd28074ef6344e0800000000000000
+      internalID: -1998630782691517503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728b7cf442e41520800000000000000
+      internalID: 2672009264859153015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec245354967799b0800000000000000
+      internalID: -5073456075784311578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbedd57b0dfa4f70800000000000000
+      internalID: 9172421816757382141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd412946f6f850390800000000000000
+      internalID: -7852712666659154721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86701410559920280800000000000000
+      internalID: -9078525308453189784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78567251d039507f0800000000000000
+      internalID: -646949287059036793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4056
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee777078570462d0800000000000000
+      internalID: -3286493751648223518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219aa7db303557010800000000000000
+      internalID: 1185945352410933522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af87fa36b448fc0800000000000000
+      internalID: -3493584519414875572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff1abcae1ad6f00800000000000000
+      internalID: 1111722712841191318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274fe0630e7fc020800000000000000
+      internalID: 2364246882369095465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5b99a4fd06a420800000000000000
+      internalID: 2640813575968087468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d1e3caed086ed60800000000000000
+      internalID: 7919158688638442820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fda914687cae880800000000000000
+      internalID: -8580826760560844905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadbb0daaa2dc5f00800000000000000
+      internalID: 1106991238915800490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45189d85053120570800000000000000
+      internalID: 8431322688199950676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fcb72ce662cb910800000000000000
+      internalID: 1854399403720953751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a47f24e4f7359b0800000000000000
+      internalID: -5092586779518219761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52d50b3deb3eba40800000000000000
+      internalID: 5385808094465217114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8290ad385cc2c3380800000000000000
+      internalID: -8990261529306068696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c546c9799af982aa0800000000000000
+      internalID: -6185518537451477924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3718
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83e2f63757f68280800000000000000
+      internalID: -9041267247943588982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c10374c27cc8a30800000000000000
+      internalID: 4218965943926135915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec6e020b27e31e10800000000000000
+      internalID: 2167330017599450348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c5fcb8a80f9aa0800000000000000
+      internalID: -6152189045147056606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28074cf1982412ad0800000000000000
+      internalID: -2728826742498889598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948db236800775300800000000000000
+      internalID: 240784286413477961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7cdd6a5391868c0800000000000000
+      internalID: -4005924150322542646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8540d04315121ce0800000000000000
+      internalID: -1436062158741813877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcf520b4b9e08d10800000000000000
+      internalID: 2125955986377538804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43fef57a6cc51a0800000000000000
+      internalID: -6819357313574423309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693a37f8743e08e00800000000000000
+      internalID: 1045085010038858646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3ce87c5659ef30800000000000000
+      internalID: 4605307049128770139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946824b34f3d0a2e0800000000000000
+      internalID: -2116458778944436663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5733d2a247440d510800000000000000
+      internalID: 1571831535666803573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03813be370ee16d0800000000000000
+      internalID: -3017727911819902195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3380
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed4872067b9e6c50800000000000000
+      internalID: 6660431830077427175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2caba1afd8e24ae0800000000000000
+      internalID: -1566433673183777747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c00d702736b87c0800000000000000
+      internalID: -4068048496990614370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42720df4a773e7a0800000000000000
+      internalID: -6349099499159129525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2924cab58974200800000000000000
+      internalID: 164267430921802444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a995c19567e3df0800000000000000
+      internalID: -198591208457921942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc91c128bfc65b20800000000000000
+      internalID: 3122911781375286520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10870335a01fe0cf0800000000000000
+      internalID: -284024699830110207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e94bb6bdc4666f0800000000000000
+      internalID: -691780987466244521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c61d8936b29e3030800000000000000
+      internalID: 3476377273723852483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f99bc8ddf40be50800000000000000
+      internalID: 6823041248433643402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad148bc472d25b920800000000000000
+      internalID: 3005357973153792474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e415e28a6dcbf04e0800000000000000
+      internalID: -2013182878280691378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302d222e54eea870800000000000000
+      internalID: 8696139023450447925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074446c4c21ba350800000000000000
+      internalID: 6028933162514794250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3042
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d934278c9dd9bb9e0800000000000000
+      internalID: -1604515283531054179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26c55cfd71eaea0800000000000000
+      internalID: -5859719815306124605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc2cbd468ed52590800000000000000
+      internalID: -7699503319508833078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6a3c587d3038d30800000000000000
+      internalID: 4432390682459743960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ceaa7b2e7c94650800000000000000
+      internalID: 6217720537119648793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3594fe224f1b99830800000000000000
+      internalID: 4078486599676938579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e305724ae72cba0800000000000000
+      internalID: -6070150104242700722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337be7c38f860edc0800000000000000
+      internalID: -3611771485775022285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370a011eccce016a0800000000000000
+      internalID: -6480419499092696973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d58afdf973decd0800000000000000
+      internalID: -2527302656093299392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3df528b2cfe7180800000000000000
+      internalID: -9115571331950193707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19af145c5f4bae8b0800000000000000
+      internalID: -5122082658511095151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9996fe75fcf2d0800000000000000
+      internalID: -3243447705961653027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7acc52955dc5c90800000000000000
+      internalID: -7179629127072438322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d6b94dbf6133b0800000000000000
+      internalID: -5534519608285408664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2704
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b357599c6e0b92ef0800000000000000
+      internalID: -132380208759737029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5e8e6fd3e4a000800000000000000
+      internalID: 46412444952583169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7587fd56d7c15a00800000000000000
+      internalID: 743595137006273914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcccd2c9c2c805300800000000000000
+      internalID: 238844903477333195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef40fdc06335290800000000000000
+      internalID: -7902913492195934665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a3aad43ca531a0800000000000000
+      internalID: -6830363916831055443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6bef27b2be31940800000000000000
+      internalID: 5265810961171658454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0200e0a12fbc35f20800000000000000
+      internalID: 3410293583529246752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de722871144f630800000000000000
+      internalID: 3959861541589216521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a44346b5f3099d0800000000000000
+      internalID: -2769644109077132652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19a1bc2a9bcd7fe0800000000000000
+      internalID: -1189570863520700131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba5d0bc00bfd7050800000000000000
+      internalID: 5800067875948288696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd0ee35358e30ff0800000000000000
+      internalID: -70957724519756347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11cb0fca5664560800000000000000
+      internalID: 7297632039648104895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c32f6887ade5c70800000000000000
+      internalID: 8961840519708818533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2366
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e689d9e8ea234670800000000000000
+      internalID: 8521702099759236833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e781b1317cd4a10800000000000000
+      internalID: 1895389903065742872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43af82a9c21111740800000000000000
+      internalID: 5120893134559574580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492c3ac6fdfd4d830800000000000000
+      internalID: 4095144111879996052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2203338c05190fa90800000000000000
+      internalID: -7282160821315882974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77caf583f84acbf30800000000000000
+      internalID: 4592726655044136055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2197a6896b4528c20800000000000000
+      internalID: 3207219027859110162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce48f3a559aa4d0800000000000000
+      internalID: -3122519176782746408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3196acd41cd0cfea0800000000000000
+      internalID: -5837775893094045421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4aea8044981a960800000000000000
+      internalID: 7611515770529293508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f156c4a231fb630800000000000000
+      internalID: 3944892870991093516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f427d2b4776538080800000000000000
+      internalID: -9186403744543313329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd01bf26058c81930800000000000000
+      internalID: 4114258507186507999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b857cb4e05de200800000000000000
+      internalID: 210913700900866827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7fdfde0b19b0b0800000000000000
+      internalID: -5712504901643305697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2028
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3abe7fc05a7500800000000000000
+      internalID: 394716769462927214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ad3ea8580bb2d0800000000000000
+      internalID: -3262004328126371874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e3a2eb0b67aa10800000000000000
+      internalID: 1920621464888009016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8e2dc0e8006f70800000000000000
+      internalID: 9178345802189146670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7700070f73b4810800000000000000
+      internalID: 1750554385974327228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abaabbaa2ba079e0800000000000000
+      internalID: -1625611265722635358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf7423a0137c8d00800000000000000
+      internalID: 976281734526304196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2ea16ea91c85690800000000000000
+      internalID: -7613122299040177414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494163e4da7665d0800000000000000
+      internalID: -3069631041239955134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa508f7587cc192e0800000000000000
+      internalID: -2120689132270778961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec218e69cbd38550800000000000000
+      internalID: 6162010373361839336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d86ac0cf2c7df20800000000000000
+      internalID: 3447438427575192877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e75f403cb04d410800000000000000
+      internalID: 1500837508050943562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d18ab6192236f90800000000000000
+      internalID: -6961682591012872884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d297db5190ee6fa0800000000000000
+      internalID: -5805455954718256431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1690
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3052fd6f4c411a0800000000000000
+      internalID: -6839625369484196914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75630eb9ffa08e0800000000000000
+      internalID: -1726286462196492344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf038b719d6e4710800000000000000
+      internalID: 1679400182665646045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0486c09b7312a750800000000000000
+      internalID: 6314631048957690892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82457c2af91680e40800000000000000
+      internalID: 5622851473030730792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef2c77a4cd2c0a60800000000000000
+      internalID: 7641532990387662828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93706f88b4e2738d0800000000000000
+      internalID: -2866771735842781383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f386407d75283f3d0800000000000000
+      internalID: -3174049998584911809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f35c936ca8e313e0800000000000000
+      internalID: -2084066375439199246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103a5a669996ae970800000000000000
+      internalID: 8784950130712617729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffcb00971e05f580800000000000000
+      internalID: -8794107203007295493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0451651db7fef0800000000000000
+      internalID: -74382969303462272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c289ca32554fc0800000000000000
+      internalID: -3511309922023062870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69066664c4b54a490800000000000000
+      internalID: -7735957876758912874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8448fffc83ccde800800000000000000
+      internalID: 643394866163713096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1352
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e618bbc3ecd91b0800000000000000
+      internalID: -5648131597413552580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d738a4347a28d50800000000000000
+      internalID: 6738131899954462060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee166f4d033fabfa0800000000000000
+      internalID: -5784043380347084306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16186739a713a3ed0800000000000000
+      internalID: -2433578246110543519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f3fb52fac04f2e0800000000000000
+      internalID: -2093033980428337257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a60ccfdd48d7a0800000000000000
+      internalID: -6352241650810050655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c00908bc47b2a0800000000000000
+      internalID: -6721819565518436986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314e182bcfcf78400800000000000000
+      internalID: 326507660264465427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1e674d99255d20800000000000000
+      internalID: 3266562860212166293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358c3d7b95af8f80800000000000000
+      internalID: -8102075117376600780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec87ee8ea47d6fbd0800000000000000
+      internalID: -2596651418397017906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce144b4f31da1860800000000000000
+      internalID: 7501538199114882759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3934c9ec6bbf6d330800000000000000
+      internalID: 3735449703519372179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399685c4117b70f0800000000000000
+      internalID: -1118175748444219074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42f97eb890eab60800000000000000
+      internalID: 7759149704497013934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1014
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d99b0a218d37150800000000000000
+      internalID: 5869272313911418117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e16f3523793930800000000000000
+      internalID: 4123453537648764955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a7ee617b93e1040800000000000000
+      internalID: 4620193726255233604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb4c88a999513e0800000000000000
+      internalID: -2083590363590377917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fdee62366f48f90800000000000000
+      internalID: -6952161019037819134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13e3bd241f6b1d00800000000000000
+      internalID: 944470679321043739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4fe667496cd890800000000000000
+      internalID: -7431949529677608183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c698b9d2f181d0800000000000000
+      internalID: -3350129630868223917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3203e0e562aae40800000000000000
+      internalID: 5668385266406007766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932554271c8185770800000000000000
+      internalID: 8599650707588862521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1689be3fe38598720800000000000000
+      internalID: 2848905266692069473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d71681a87bef20800000000000000
+      internalID: 3452986174444393672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_221
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193561974f10201f0800000000000000
+      internalID: -1080298811100343407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_222
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8973ea041f85d20800000000000000
+      internalID: 3267626789760375010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_223
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45108426d09b73a20800000000000000
+      internalID: 3042103540446658900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_224
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 676
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faea10cf60fb1390800000000000000
+      internalID: -7846413563007931663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef7368664354540800000000000000
+      internalID: 4991453376953188021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_226
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987b497a643afac0800000000000000
+      internalID: -3820683701964277606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_227
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13183d365517a6e0800000000000000
+      internalID: -1826467663736990945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_228
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3e2e48b88b1880800000000000000
+      internalID: -8639161135013151561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_229
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a132d5f11b63450800000000000000
+      internalID: 6068232296193006140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_230
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651e88fe0723c8a40800000000000000
+      internalID: 5371723916182610262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_231
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9041a87299a710940800000000000000
+      internalID: 5260620637957395465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_232
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42977495d780bbed0800000000000000
+      internalID: -2397313042182866652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_233
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe75714e84017dcf0800000000000000
+      internalID: -227695350908495889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_234
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea64415a8501d50800000000000000
+      internalID: 6705957311187693097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_235
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73649a8548927b190800000000000000
+      internalID: -7946837369072040393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_236
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a630827486d59d0800000000000000
+      internalID: -2783954339821819304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_237
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338df39028b7dcd20800000000000000
+      internalID: 3300429900363585587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_238
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a74a47e6a7cb0ce0800000000000000
+      internalID: -1437836136355838046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_239
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 338
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5ae355584a1cf0800000000000000
+      internalID: -280832495439946993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6a14509955f5200800000000000000
+      internalID: 170949426569914077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_241
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1c25372f163e70800000000000000
+      internalID: 9094490750777564941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_242
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1a3064e470ff70800000000000000
+      internalID: 9218996961443191979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_243
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a59733f6c5c0630800000000000000
+      internalID: 3894589410443352631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_244
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3ae089b6716f730800000000000000
+      internalID: 4032436267236893659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_245
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76d237dd8b3b500800000000000000
+      internalID: 410875252280485871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_246
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343280f2f164597b0800000000000000
+      internalID: -5218187493491858621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_247
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab062a87e4f288e20800000000000000
+      internalID: 3352981936655196346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_248
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8509f303f4e4920800000000000000
+      internalID: 2976403472381925545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_249
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d33ad8010200cb0800000000000000
+      internalID: -4899881139111248511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_250
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321cc21df84a9d90800000000000000
+      internalID: -7090274411562134987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_251
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c42eae9802e0c0800000000000000
+      internalID: -4548063196071279366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_252
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4034158a1addac270800000000000000
+      internalID: 8271667352002708228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SI-SpriteSheet_253
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856bc844ce98bc3b0800000000000000
+      internalID: -5491143672792828328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
