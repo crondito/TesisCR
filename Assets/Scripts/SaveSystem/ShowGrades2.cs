@@ -10,12 +10,14 @@ public class ShowGrades2 : MonoBehaviour
     private string pasadoFig;
     private string pasadoSoko;
     private string pasadoAst;
+    private string pasadoFinal;
 
     public void Start()
     {
         if (FindObjectOfType<Game>().pasadoFig) { pasadoFig = "Terminado!"; } else { pasadoFig = "No Terminado!"; }
         if (FindObjectOfType<Game>().pasadoSoko) { pasadoSoko = "Terminado!"; } else { pasadoSoko = "No Terminado!"; }
         if (FindObjectOfType<Game>().pasadoAst) { pasadoAst = "Terminado!"; } else { pasadoAst = "No Terminado!"; }
+        if (FindObjectOfType<Game>().pasadoFinal) { pasadoFinal = "Terminado!"; } else { pasadoFinal = "No Terminado!"; }
 
         progress.text = "PRUEBAS\n\n"
                       + "Prueba CVS: " + FindObjectOfType<Game>().califCVS.ToString() + "%\n"
@@ -26,7 +28,8 @@ public class ShowGrades2 : MonoBehaviour
                       + "EJERCICIOS\n\n"
                       + "Ejercicio Figuras: " + pasadoFig + "\n"
                       + "Ejercicio Sokoban: " + pasadoSoko + "\n"
-                      + "Ejercicio Asteroids: " + pasadoAst + "\n";
+                      + "Ejercicio Asteroids: " + pasadoAst + "\n"
+                      + "Ejercicio Space Invaders: " + pasadoAst + "\n";
         
     }
 }
