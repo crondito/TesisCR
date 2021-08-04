@@ -29,7 +29,7 @@ public class ShowGrades2 : MonoBehaviour
                       + "Ejercicio Figuras: " + pasadoFig + "\n"
                       + "Ejercicio Sokoban: " + pasadoSoko + "\n"
                       + "Ejercicio Asteroids: " + pasadoAst + "\n"
-                      + "Ejercicio Space Invaders: " + pasadoAst + "\n";
+                      + "Ejercicio Space Invaders: " + pasadoFinal + "\n";
         
     }
 }

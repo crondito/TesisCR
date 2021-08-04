@@ -1126,10 +1126,9 @@ MonoBehaviour:
     \n[5] J. Kramer, \"Is abstraction the key to computing?\" Communications of the
     ACM, vol. 50, no. 4, pp. 36-42, 2007.\n[6] \u201CSokoban,\u201D Wikipedia, 06-Jul-2021.
     [Online]. Available: https://en.wikipedia.org/wiki/Sokoban#/media/File:Sokoban_ani.gif.
-    [Accessed: 16-Jul-2021]. \n\n\nPAQUETES Y LIBRER\xCDAS UTILIZADAS\n\n- MaterialUI\n
-    https://github.com/InvexGames/MaterialUI/releases/tag/v0.2.61\n- Simple Tooltip\n
-    https://assetstore.unity.com/packages/tools/gui/simple-tooltip-155804\n- A Better
-    Unity WebGL template\nhttps://github.com/greggman/better-unity-webgl-template"
+    [Accessed: 16-Jul-2021]. \n\n\nPAQUETES Y LIBRER\xCDAS UTILIZADAS\n\n- MaterialUI\nhttps://github.com/InvexGames/MaterialUI/releases/tag/v0.2.61\n-
+    Simple Tooltip\nhttps://assetstore.unity.com/packages/tools/gui/simple-tooltip-155804\n-
+    A Better Unity WebGL template\nhttps://github.com/greggman/better-unity-webgl-template"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2711,6 +2710,7 @@ MonoBehaviour:
   pasadoFig: 0
   pasadoSoko: 0
   pasadoAst: 0
+  pasadoFinal: 0
 --- !u!4 &1268179910
 Transform:
   m_ObjectHideFlags: 0
@@ -2911,7 +2911,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1382093195
 RectTransform:
   m_ObjectHideFlags: 0
