@@ -2883,7 +2883,7 @@ MonoBehaviour:
     Correction: "Un tipo especial de asociaci\xF3n donde las partes no se destruyen
       si se destruye el todo."
     CorrectAnswer: 2
-  - Question: "\xBFEn qu\xE9 secci\xF3n de la clase se ponen los Atributos?"
+  - Question: "\xBFEn qu\xE9 secci\xF3n de la clase se ponen los atributos?"
     Answers:
     - "Primera secci\xF3n"
     - "Segunda secci\xF3n"
@@ -2891,7 +2891,7 @@ MonoBehaviour:
     - "Cuarta secci\xF3n"
     Correction: "Los atributos se colocan en la segunda secci\xF3n"
     CorrectAnswer: 1
-  - Question: "\xBFEn qu\xE9 secci\xF3n de la clase se ponen los M\xE9todos?"
+  - Question: "\xBFEn qu\xE9 secci\xF3n de la clase se ponen los m\xE9todos?"
     Answers:
     - "Primera secci\xF3n"
     - "Segunda secci\xF3n"
@@ -3552,6 +3552,7 @@ MonoBehaviour:
   pasadoFig: 0
   pasadoSoko: 0
   pasadoAst: 0
+  pasadoFinal: 0
 --- !u!4 &1984853085
 Transform:
   m_ObjectHideFlags: 0

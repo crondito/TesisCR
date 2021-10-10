@@ -618,8 +618,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\n\n\n\n\nNecesitamos verificar tus conocimientos con una peque\xF1a prueba.\n\nBuena
-    suerte!"
+  m_text: "\n\n\n\n\nNecesitamos verificar tus conocimientos de UML con una peque\xF1a
+    prueba.\n\n\xA1Buena suerte!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1127,8 +1127,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "TIPOS DE DIAGRAMAS UML\n\n\nDiagramas de Estructura\n\n\n\n\nDiagramas
-    de Comportamiento\n\n\n\n\nDiagramas de Interacci\xF3n"
+  m_text: "TIPOS DE DIAGRAMAS UML\n<size=80%>Vamos a dar un breve vistazo a algunos
+    de los diagramas.\n<size=100%>\nDiagramas de Estructura\n\n\n\n\nDiagramas de
+    Comportamiento\n\n\n\n\nDiagramas de Interacci\xF3n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1331,8 +1332,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 72.5}
-  m_SizeDelta: {x: 0, y: 115}
+  m_AnchoredPosition: {x: -0.000030517578, y: 72.5}
+  m_SizeDelta: {x: -30, y: 115}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &344378261
 MonoBehaviour:
@@ -1354,7 +1355,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 04c9b119bb456a04580e4846e9fcea9f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b976dae82f65c294db9248a5d01c0712, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1421,8 +1422,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -30, y: -30}
+  m_AnchoredPosition: {x: 0, y: 59.799988}
+  m_SizeDelta: {x: -30, y: -149.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &356378906
 MonoBehaviour:
@@ -1446,9 +1447,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "DIAGRAMA DE CLASES\nEs un tipo de diagrama que describe la estructura
     de un sistema mostrando las clases del sistema, sus atributos, m\xE9todos y las
-    relaciones entre objetos.\r\nEs el componente principal del modelado orientado
-    a objetos.\nSe utiliza para el modelado conceptual general de la estructura de
-    la aplicaci\xF3n.\nTambi\xE9n se pueden utilizar para el modelado de datos."
+    relaciones entre clases.\r\nEs el componente principal del modelado orientado
+    a objetos.\nSe utiliza para establecer el dise\xF1o detallado de la aplicaci\xF3n."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1848,7 +1848,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 742778828}
@@ -2935,7 +2935,7 @@ GameObject:
   - component: {fileID: 538020292}
   m_Layer: 5
   m_Name: Panel4-2
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3691,7 +3691,7 @@ GameObject:
   - component: {fileID: 742778830}
   m_Layer: 5
   m_Name: Panel4-3
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4083,7 +4083,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 538020290}
@@ -5393,7 +5393,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DIAGRAMA DE COMPONENTES\nDescriben c\xF3mo los componentes se conectan
+  m_text: "DIAGRAMA DE COMPONENTES\nDescribe c\xF3mo los componentes se conectan
     entre s\xED para formar componentes m\xE1s grandes o sistemas de software.\nPermiten
     la verificaci\xF3n de que la funcionalidad requerida de un sistema es aceptable.\nSe
     utilizan como herramienta de comunicaci\xF3n entre el desarrollador y las partes
@@ -7262,8 +7262,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 53.902496}
-  m_SizeDelta: {x: 0, y: 77.80499}
+  m_AnchoredPosition: {x: 0, y: 74.80005}
+  m_SizeDelta: {x: 0, y: 119.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1280325859
 MonoBehaviour:
@@ -7959,8 +7959,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 52.5}
-  m_SizeDelta: {x: 0, y: 75}
+  m_AnchoredPosition: {x: -0.000030517578, y: 52.5}
+  m_SizeDelta: {x: -30, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1420910748
 MonoBehaviour:
@@ -8028,7 +8028,7 @@ GameObject:
   - component: {fileID: 1426424749}
   m_Layer: 5
   m_Name: Panel4-5
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8868,7 +8868,7 @@ GameObject:
   - component: {fileID: 1562310320}
   m_Layer: 5
   m_Name: Panel4-4
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9314,7 +9314,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1629000118}
@@ -9847,7 +9847,7 @@ GameObject:
   - component: {fileID: 1625102387}
   m_Layer: 5
   m_Name: Panel4-6
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9924,11 +9924,11 @@ GameObject:
   - component: {fileID: 1629000120}
   m_Layer: 5
   m_Name: Panel4-1
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1629000119
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10313,7 +10313,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1562310318}
@@ -11307,12 +11307,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DIAGRAMA DE CASOS DE USO\nEs una representaci\xF3n de la interacci\xF3n
+  m_text: "DIAGRAMA DE CASOS DE USO\n<size=90%>Es una representaci\xF3n de la interacci\xF3n
     de un usuario con el sistema que muestra la relaci\xF3n entre el usuario y los
     diferentes casos de uso en los que el usuario est\xE1 involucrado.\nPuede identificar
     los diferentes tipos de usuarios de un sistema y los diferentes casos de uso
-    y, a menudo, tambi\xE9n ir\xE1 acompa\xF1ado de otros tipos de diagramas. Los
-    casos de uso est\xE1n representados por c\xEDrculos o elipses."
+    y, a menudo, tambi\xE9n ir\xE1 acompa\xF1ado de otros tipos de diagramas. Este
+    diagrama est\xE1 representado por casos de uso (elipses) y actores (roles). 
+    Es el \xFAnico diagrama de UML que interact\xFAa fuera del sistema."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11542,7 +11543,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1625102385}
@@ -12052,7 +12053,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1426424747}

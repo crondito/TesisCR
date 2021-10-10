@@ -417,7 +417,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 374966776}
@@ -836,7 +836,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -10, y: -10}
+  m_SizeDelta: {x: -20, y: -10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &124368464
 MonoBehaviour:
@@ -885,7 +885,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 31.8
+  m_fontSize: 30.05
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1257,8 +1257,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ejemplo\n\nUn perro tiene atributos: color, nombre, raza y comportamientos.\nY
-    tiene  m\xE9todos: deambular, ladrar, comer.\n\nUn objeto es una instancia de
+  m_text: "Ejemplo\n\nUn perro tiene atributos: color, nombre, raza y comportamiento.\nY
+    tiene m\xE9todos: deambular, ladrar, comer.\n\nUn objeto es una instancia de
     una clase."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1286,7 +1286,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 31.95
+  m_fontSize: 32
   m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1446,7 +1446,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -10, y: -10}
+  m_SizeDelta: {x: -20, y: -10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &351475728
 MonoBehaviour:
@@ -1558,7 +1558,7 @@ GameObject:
   - component: {fileID: 374966778}
   m_Layer: 5
   m_Name: Panel4-4
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1775,7 +1775,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1608215017}
@@ -1798,7 +1798,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.098039225, g: 0.5882353, b: 0.4901961, a: 1}
+  m_Color: {r: 0.019607844, g: 0.20392159, b: 0.28627452, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3154,7 +3154,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -10, y: -10}
+  m_SizeDelta: {x: -20, y: -10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &485065432
 MonoBehaviour:
@@ -3266,7 +3266,7 @@ GameObject:
   - component: {fileID: 495610561}
   m_Layer: 5
   m_Name: Panel4-5
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3379,11 +3379,11 @@ GameObject:
   - component: {fileID: 519430051}
   m_Layer: 5
   m_Name: Panel4-1
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &519430050
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3809,7 +3809,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 694680092}
@@ -4516,7 +4516,7 @@ GameObject:
   - component: {fileID: 694680094}
   m_Layer: 5
   m_Name: Panel4-2
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4593,7 +4593,7 @@ GameObject:
   - component: {fileID: 701203912}
   m_Layer: 5
   m_Name: Panel4-3
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5890,7 +5890,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -10, y: -10}
+  m_SizeDelta: {x: -20, y: -10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &973687889
 MonoBehaviour:
@@ -5939,7 +5939,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 31.3
+  m_fontSize: 29.6
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -6022,7 +6022,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.37, y: 0.16100001}
   m_AnchorMax: {x: 0.5, y: 0.29367042}
-  m_AnchoredPosition: {x: -90, y: -217.40826}
+  m_AnchoredPosition: {x: -90, y: -217.40813}
   m_SizeDelta: {x: 191.97339, y: 104.27104}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1016209430
@@ -6181,12 +6181,12 @@ MonoBehaviour:
       m_Calls: []
   m_text: "COMPOSICI\xD3N\n\nLa composici\xF3n es una parte de la agregaci\xF3n y
     retrata la relaci\xF3n de la parte completa. Representa la dependencia entre
-    un compuesto (padre) y sus partes (hijos), lo que significa que si el compuesto
-    se descarta, sus partes tambi\xE9n se eliminar\xE1n. Existe entre objetos similares
-    [3].\r\n\r\nEn el siguiente ejemplo la relaci\xF3n de asociaci\xF3n de composici\xF3n
-    conecta la clase Persona con la clase Cerebro, la clase Coraz\xF3n y la clase
-    Piernas. Si la persona es destruida, tambi\xE9n se descartar\xE1n el cerebro,
-    el coraz\xF3n y las piernas."
+    un compuesto y sus partes, lo que significa que si el compuesto se descarta,
+    sus partes tambi\xE9n se eliminar\xE1n. Existe entre objetos similares [3].\r\n\r\nEn
+    el siguiente ejemplo la relaci\xF3n de asociaci\xF3n de composici\xF3n conecta
+    la clase Persona con la clase Cerebro, la clase Coraz\xF3n y la clase Piernas.
+    Si la persona es destruida, tambi\xE9n se descartar\xE1n el cerebro, el coraz\xF3n
+    y las piernas."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6416,7 +6416,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 519430049}
@@ -6710,7 +6710,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 701203910}
@@ -8321,7 +8321,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -10, y: -10}
+  m_SizeDelta: {x: -20, y: -10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1299953949
 MonoBehaviour:
@@ -9728,7 +9728,7 @@ GameObject:
   - component: {fileID: 1608215019}
   m_Layer: 5
   m_Name: Panel4-6
-  m_TagString: Panel2
+  m_TagString: Panel3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9767,7 +9767,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.098039225, g: 0.5882353, b: 0.4901961, a: 1}
+  m_Color: {r: 0.019607844, g: 0.20392159, b: 0.28627452, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -9982,8 +9982,8 @@ MonoBehaviour:
     se trata de clases, porque usamos clases para crear objetos. Entonces, una clase
     describe lo que ser\xE1 un objeto, pero no es el objeto en s\xED [3].\r\n\r\nDe
     hecho, las clases describen el tipo de objetos, mientras que los objetos son
-    instancias utilizables de clases. Cada Objeto se construy\xF3 a partir del mismo
-    conjunto de planos y, por lo tanto, contiene los mismos componentes (atributos
+    instancias utilizables de clases. Cada objeto se construye a partir del mismo
+    conjunto de clases y, por lo tanto, contiene los mismos componentes (atributos
     y m\xE9todos).\n\nEl significado est\xE1ndar es que un objeto es una instancia
     de una clase."
   m_isRightToLeft: 0
@@ -10328,7 +10328,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -10, y: -10}
+  m_SizeDelta: {x: -20, y: -10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1704612628
 MonoBehaviour:
@@ -10921,8 +10921,7 @@ MonoBehaviour:
     sistema, sus atributos, m\xE9todos y las relaciones entre objetos [2].\n\r\nEl
     diagrama de clases es el componente principal del modelado orientado a objetos.
     Se utiliza para el modelado conceptual general de la estructura de la aplicaci\xF3n
-    y para el modelado detallado que traduce los modelos en c\xF3digo de programaci\xF3n.\r\n\r\nLos
-    diagramas de clases tambi\xE9n se pueden utilizar para el modelado de datos.\r"
+    y para el modelado detallado que traduce los modelos en c\xF3digo de programaci\xF3n.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11332,7 +11331,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -114, y: 0.0000016689}
+  m_AnchoredPosition: {x: -106, y: 0.0000016689}
   m_SizeDelta: {x: 100, y: 54.74}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1986548597
@@ -11529,7 +11528,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: ShowGameObject3
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 495610559}
