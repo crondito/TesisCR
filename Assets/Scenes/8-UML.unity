@@ -5817,34 +5817,10 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: AnotherShowGameObject
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1112481041}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 851566848}
-        m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: HideGameObject
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 458079926}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 851566848}
-        m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: SimpleShowGameObject
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1623147339}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -6029,7 +6005,7 @@ GameObject:
   - component: {fileID: 1112481043}
   m_Layer: 5
   m_Name: Panel2-1
-  m_TagString: Panel2
+  m_TagString: Panel4
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8245,34 +8221,10 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: AnotherShowGameObject
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1844767735}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 851566848}
-        m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: HideGameObject
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1979461975}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 851566848}
-        m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: SimpleShowGameObject
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1665041715}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -8421,7 +8373,7 @@ GameObject:
   - component: {fileID: 1528632971}
   m_Layer: 5
   m_Name: Panel2-2
-  m_TagString: Panel2
+  m_TagString: Panel4
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9726,34 +9678,10 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 851566848}
         m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: ShowGameObject
+        m_MethodName: AnotherShowGameObject
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1528632969}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 851566848}
-        m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: HideGameObject
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 2145875211}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 851566848}
-        m_TargetAssemblyTypeName: PanelManager, Assembly-CSharp
-        m_MethodName: SimpleShowGameObject
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 1365864804}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -10508,7 +10436,7 @@ GameObject:
   - component: {fileID: 1844767737}
   m_Layer: 5
   m_Name: Panel2-3
-  m_TagString: Panel2
+  m_TagString: Panel4
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

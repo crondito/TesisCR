@@ -40,6 +40,17 @@ public class PanelManager : MonoBehaviour
         gameObjectToShow.gameObject.SetActive(true);
     }
 
+    public void AnotherShowGameObject(GameObject gameObjectToShow)
+    {
+        GameObject[] panels = GameObject.FindGameObjectsWithTag("Panel4");
+        foreach (var panel in panels)
+        {
+            panel.gameObject.SetActive(false);
+        }
+        FindObjectOfType<SoundManagerScript>().Play("Step");
+        gameObjectToShow.gameObject.SetActive(true);
+    }
+
     public void SimpleShowGameObject(GameObject gameObjectToShow)
     {
         gameObjectToShow.gameObject.SetActive(true);
