@@ -665,7 +665,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -358, y: -114.42}
+  m_AnchoredPosition: {x: -358, y: -135}
   m_SizeDelta: {x: 919.07, y: 534.49}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &21418755
@@ -6760,7 +6760,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &151739319
 MonoBehaviour:
@@ -11138,7 +11139,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -396.21985, y: -31.14801}
+  m_AnchoredPosition: {x: -396.2199, y: -31.14801}
   m_SizeDelta: {x: -972.44, y: -62.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &263566193
@@ -15523,7 +15524,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &402048083
@@ -19368,7 +19369,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &500706204
 MonoBehaviour:
@@ -19442,7 +19444,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &501577452
@@ -20130,8 +20132,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -370.16, y: 244.1}
-  m_SizeDelta: {x: 844.49, y: 182.53}
+  m_AnchoredPosition: {x: -345.47, y: 234.02}
+  m_SizeDelta: {x: 893.87, y: 202.68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &545821619
 MonoBehaviour:
@@ -20153,9 +20155,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Game Manager guardar\xE1 la l\xF3gica del juego. Nos permitir\xE1 avanzar
-    al siguiente nivel una vez todas las cajas est\xE9n en sus Puntos de Entrega.\n\nRecuerda
-    poner tu mouse sobre cada elemento para leer m\xE1s"
+  m_text: "En este punto del juego es importante considerar que un elemento deber\xEDa
+    verificar que el jugador ha cumplido con sus objetivos. Debido a que ning\xFAn
+    elemento existente deber\xEDa encargarse de eso se crea una clase llamada \"GameManager\",
+    \xE9sta nos permitir\xE1 avanzar al siguiente nivel una vez que todas las cajas
+    est\xE9n en sus puntos de entrega.\n\nRecuerda poner tu mouse sobre cada elemento
+    para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20182,7 +20187,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 25.25
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -20604,7 +20609,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!1 &551173193
 GameObject:
@@ -21308,7 +21314,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 160, y: 21}
+  m_AnchoredPosition: {x: 140, y: -3}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &559195522
@@ -21757,7 +21763,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &591877936
@@ -22109,7 +22115,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &598107112
 MonoBehaviour:
@@ -25084,7 +25091,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &680775447
 MonoBehaviour:
@@ -25360,7 +25368,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &689697495
 MonoBehaviour:
@@ -25999,7 +26008,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &715583313
@@ -30081,7 +30090,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &816713251
@@ -38917,7 +38926,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &1023457237
 MonoBehaviour:
@@ -39646,9 +39656,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "En Sokoban todo est\xE1 dividido en \"Celdas\".\n\nUsaremos la relaci\xF3n
-    \"herencia\" para que cada elemento que vimos anteriormente herede de la clase
-    \"Celda\""
+  m_text: "Ya que cada elemento que vimos anteriormente puede ser homogenizado a
+    trav\xE9s de celdas (de diferente forma o dibujo), crearemos una relaci\xF3n
+    de herencia."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -45768,7 +45778,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1218965150
@@ -49846,7 +49856,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &1310168426
 MonoBehaviour:
@@ -51129,7 +51140,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -411.24988, y: 13.940002}
+  m_AnchoredPosition: {x: -411.24994, y: 13.940002}
   m_SizeDelta: {x: -1002.5, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1349412660
@@ -53289,7 +53300,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &1384657487
 MonoBehaviour:
@@ -54391,7 +54403,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -396.21985, y: -289.44}
+  m_AnchoredPosition: {x: -396.2199, y: -289.44}
   m_SizeDelta: {x: -972.44, y: -62.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1413437726
@@ -55412,7 +55424,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &1442146193
 MonoBehaviour:
@@ -62613,7 +62626,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1637676256
@@ -67306,10 +67319,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Utilizamos agregaci\xF3n entre las clases \"Mapa\" y \"Celda\" porque
-    \"Mapa\" tendr\xE1 una lista de las celdas que contiene.\nCuando tenemos una
-    agregaci\xF3n es importante tener m\xE9todos para agregar y quitar los elementos
-    contenidos, por eso se crean tambi\xE9n los m\xE9todos \"agregarCelda()\" y \"quitarCelda()\".\n"
+  m_text: "Debido a que el elemento Mapa puede conceptualmente ser el elemento que
+    se encuentra compuesto por todas las celdas, colocamos la relaci\xF3n de agregaci\xF3n
+    entre Mapa y Ceda. Mapa ser\xE1 la clase encargada de contener la lista de las
+    celdas, por lo que es importante que tenga los m\xE9todos correspondientes a
+    toda lista: agregar y quitar (Celdas)."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -68302,7 +68316,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -396.21985, y: -31.14801}
+  m_AnchoredPosition: {x: -396.2199, y: -31.14801}
   m_SizeDelta: {x: -972.44, y: -62.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1777909651
@@ -75249,7 +75263,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &1946711206
 MonoBehaviour:
@@ -76303,7 +76318,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -382.58997, y: 13.940002}
+  m_AnchoredPosition: {x: -382.59003, y: 13.940002}
   m_SizeDelta: {x: -945.18, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1982041992
@@ -77818,7 +77833,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &2014184816
 MonoBehaviour:
@@ -79558,7 +79574,8 @@ MonoBehaviour:
   infoLeft: 'Pared
 
 
-    Sirven para limitar el movimiento del jugador'
+    Elemento que delimita el espacio donde el jugador se puede
+    mover'
   infoRight: Clase
 --- !u!114 &2070692565
 MonoBehaviour:
