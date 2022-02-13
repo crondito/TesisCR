@@ -723,7 +723,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "ESCUELA POLIT\xC9CNICA NACIONAL\n\nTRABAJO DE TITULACI\xD3N:\nDesarrollo
     de una aplicaci\xF3n web para la ense\xF1anza del dise\xF1o de software orientado
-    a objetos con enfoque en abstracci\xF3n\n\nPARTE DEL PROYECTO DE INVESTIGACI\xD3N:\nPIS-19-11
+    a objetos con enfoque en abstracci\xF3n.\n\nPARTE DEL PROYECTO DE INVESTIGACI\xD3N:\nPIS-19-11
     - Estudio longitudinal cualitativo sobre la abstracci\xF3n y el dise\xF1o de
     software a trav\xE9s de ejercicios de dise\xF1o.\n\nDESARROLLADO POR:\nCarlos
     Rodas\n\nAUSPICIADO POR:\nPh.D. Pamela Flores"
@@ -3055,7 +3055,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1382093195
 RectTransform:
   m_ObjectHideFlags: 0
