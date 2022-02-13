@@ -4592,7 +4592,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -371.36, y: 13.939941}
+  m_AnchoredPosition: {x: -371.36005, y: 13.939941}
   m_SizeDelta: {x: -922.61, y: -57.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &94980636
@@ -12723,7 +12723,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Puedes jugar Space Invaders con este bot\xF3n"
+  m_text: "Puedes jugar Space Invaders con este bot\xF3n."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -66431,7 +66431,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -396.2201, y: -289.44}
+  m_AnchoredPosition: {x: -396.22015, y: -289.44}
   m_SizeDelta: {x: -972.44, y: -62.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1363983930
@@ -70532,12 +70532,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Hola!\n\nEsto es un ejemplo interactivo sobre el uso del Diagrama de Clases
-    UML para dise\xF1ar el videojuego \"Space Invaders\".\n\nEn esta ocasi\xF3n tendr\xE1s
-    menos ayuda que en los ejercicios anteriores.\n\nRecuerda que puedes leer lo
-    que hace cada clase, relaci\xF3n, atributo y m\xE9todo pasando tu mouse encima
-    de ellos.\n\nUsa las flechas en la parte inferior de la pantalla para avanzar
-    o regresar."
+  m_text: "\xA1Hola!\n\nEsto es un ejemplo interactivo sobre el uso del Diagrama
+    de Clases UML para dise\xF1ar el videojuego \"Space Invaders\".\n\nEn esta ocasi\xF3n
+    tendr\xE1s menos ayuda que en los ejercicios anteriores.\n\nRecuerda que puedes
+    leer lo que hace cada clase, relaci\xF3n, atributo y m\xE9todo pasando tu mouse
+    encima de ellos.\n\nUsa las flechas en la parte inferior de la pantalla para
+    avanzar o regresar."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -74262,7 +74262,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.81}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -396.2201, y: -31.14795}
+  m_AnchoredPosition: {x: -396.22015, y: -31.14795}
   m_SizeDelta: {x: -972.44, y: -62.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1523397761

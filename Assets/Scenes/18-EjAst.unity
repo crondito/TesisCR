@@ -34056,7 +34056,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Puedes jugar el videojuego que dise\xF1amos con este bot\xF3n"
+  m_text: "Puedes jugar el videojuego que dise\xF1amos con este bot\xF3n."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -34083,7 +34083,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 29.6
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -51626,7 +51626,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Puedes mover a la Nave con las flechas del teclado.\n\nPon tu mouse sobre
-    los elementos del diagrama para leer m\xE1s"
+    los elementos del diagrama para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -53779,7 +53779,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Puedes mover a la Nave con las flechas del teclado y disparar con Control
-    Izquierdo\n\nPon tu mouse sobre los elementos del diagrama para leer m\xE1s"
+    Izquierdo.\n\nPon tu mouse sobre los elementos del diagrama para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -78163,9 +78163,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Hola!\n\nEsto es un ejemplo interactivo sobre el uso del Diagrama de Clases
-    UML\npara dise\xF1ar el videojuego \"Asteroids\".\n\nUsa las flechas en la parte
-    inferior de la pantalla para avanzar o regresar."
+  m_text: "\xA1Hola!\n\nEsto es un ejemplo interactivo sobre el uso del Diagrama
+    de Clases UML\npara dise\xF1ar el videojuego \"Asteroids\".\n\nUsa las flechas
+    en la parte inferior de la pantalla para avanzar o regresar."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -94274,7 +94274,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1741652265
 RectTransform:
   m_ObjectHideFlags: 0
@@ -112318,7 +112318,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Puedes mover a la Nave con las flechas del teclado y disparar con Control
-    Izquierdo.\n\nPon tu mouse sobre los elementos del diagrama para leer m\xE1s"
+    Izquierdo.\n\nPon tu mouse sobre los elementos del diagrama para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

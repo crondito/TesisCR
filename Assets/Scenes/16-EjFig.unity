@@ -889,7 +889,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: No necesitas una clase por cada instancia
+  m_text: No necesitas una clase por cada instancia.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12148,7 +12148,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Empezaremos dibujando un c\xEDrculo"
+  m_text: "Empezaremos dibujando un c\xEDrculo."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -16184,11 +16184,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Ahora queremos que el "Contenedor" sea un cuadrado
+  m_text: 'Ahora queremos que el "Contenedor" sea un cuadrado.
 
 
     Introduce las
-    figuras en el nuevo contenedor y mira las diferencias en los diagramas de clases'
+    figuras en el nuevo contenedor y mira las diferencias en los diagramas de clases.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -21253,7 +21253,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Coloca tu mouse sobre cada elemento para leer una explicaci\xF3n de lo
-    que hace"
+    que hace."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -24194,7 +24194,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Coloca tu mouse sobre cada elemento para leer una explicaci\xF3n de lo
-    que hace"
+    que hace."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -36823,15 +36823,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Hola!
-
-
-    Esto es un ejemplo interactivo sobre el uso del Diagrama de
-    Clases UML.
-
-
-    Usa las flechas en la parte inferior de la pantalla para avanzar
-    o regresar.'
+  m_text: "\xA1Hola!\n\nEsto es un ejemplo interactivo sobre el uso del Diagrama
+    de Clases UML.\n\nUsa las flechas en la parte inferior de la pantalla para avanzar
+    o regresar."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -37303,7 +37297,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Ahora tenemos toda la funcionalidad que queremos con un solo Diagrama
-    de Clases.\n\nPru\xE9balo moviendo las\nfiguras como gustes"
+    de Clases.\n\nPru\xE9balo moviendo las\nfiguras como gustes."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -43199,7 +43193,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Puedes instanciar varias veces la misma clase
+  m_text: Puedes instanciar varias veces la misma clase.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

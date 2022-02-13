@@ -6219,7 +6219,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Recuerda poner tu mouse sobre cada elemento para leer m\xE1s"
+  m_text: "Recuerda poner tu mouse sobre cada elemento para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10894,7 +10894,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Tambi\xE9n desbloqueaste el siguiente ejercicio.\nEn este dise\xF1aremos
-    el videojuego \"Asteroids\""
+    el videojuego \"Asteroids\"."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10921,7 +10921,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 29.85
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -24282,7 +24282,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Cuando las Cajas llegan a sus Puntos de entrega cambian su color, por
     eso le agregamos el m\xE9todo \"cambiarColor()\" a Caja. Mira el ejemplo como
-    referencia.\n\nRecuerda poner tu mouse sobre cada elemento para leer m\xE1s"
+    referencia.\n\nRecuerda poner tu mouse sobre cada elemento para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32281,7 +32281,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "La clase Colisi\xF3n verificar\xE1 cuando Persona se mueve si choca con
     una Caja o Pared y permitir\xE1 o no su movimiento. Mira el ejemplo como referencia.\n\nRecuerda
-    poner tu mouse sobre cada elemento para leer m\xE1s"
+    poner tu mouse sobre cada elemento para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -65139,9 +65139,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Hola!\n\nEsto es un ejemplo interactivo sobre el uso del Diagrama de Clases
-    UML\npara dise\xF1ar el videojuego \"Sokoban\".\n\nUsa las flechas en la parte
-    inferior de la pantalla para avanzar o regresar."
+  m_text: "\xA1Hola!\n\nEsto es un ejemplo interactivo sobre el uso del Diagrama
+    de Clases UML\npara dise\xF1ar el videojuego \"Sokoban\".\n\nUsa las flechas
+    en la parte inferior de la pantalla para avanzar o regresar."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -69687,7 +69687,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Recuerda poner tu mouse sobre cada elemento para leer m\xE1s"
+  m_text: "Recuerda poner tu mouse sobre cada elemento para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -71662,7 +71662,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Recuerda poner tu mouse sobre cada elemento para leer m\xE1s"
+  m_text: "Recuerda poner tu mouse sobre cada elemento para leer m\xE1s."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -82624,7 +82624,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Puedes jugar el Sokoban que dise\xF1amos con este bot\xF3n"
+  m_text: "Puedes jugar el Sokoban que dise\xF1amos con este bot\xF3n."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
